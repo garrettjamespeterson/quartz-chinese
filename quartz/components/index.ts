@@ -13,6 +13,7 @@ import TableOfContents from "./TableOfContents"
 import Explorer from "./Explorer"
 import TagList from "./TagList"
 import Graph from "./Graph"
+import CollapsibleGraph from "./CollapsibleGraph"
 import Backlinks from "./Backlinks"
 import Search from "./Search"
 import Footer from "./Footer"
@@ -23,6 +24,7 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import ChineseSettings from "./ChineseSettings"
 
 export {
   ArticleTitle,
@@ -39,6 +41,7 @@ export {
   Explorer,
   TagList,
   Graph,
+  CollapsibleGraph,
   Backlinks,
   Search,
   Footer,
@@ -50,4 +53,5 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+  ChineseSettings,
 }
