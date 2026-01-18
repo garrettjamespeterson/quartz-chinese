@@ -142,17 +142,41 @@ document.addEventListener("nav", () => {
   const pageId = window.location.pathname
 
   // Initialize multiple choice interactions
-  const mcOptions = document.querySelectorAll(".mc-options")
+  const mcContainers = document.querySelectorAll(".mc-options")
   const mcCleanupFns: (() => void)[] = []
 
-  mcOptions.forEach((container) => {
+  mcContainers.forEach((container) => {
     const questionName = container.getAttribute("data-question")
+    const correctAnswer = container.getAttribute("data-correct")
     if (!questionName) return
 
     const storageKey = `${MC_STORAGE_PREFIX}${pageId}-${questionName}`
     const radios = container.querySelectorAll<HTMLInputElement>('input[type="radio"]')
+    const options = container.querySelectorAll(".mc-option")
 
-    // Restore saved selection
+    // Function to update visual feedback based on selection
+    const updateFeedback = (selectedValue: string | null) => {
+      // Remove all feedback classes first
+      options.forEach((opt) => {
+        opt.classList.remove("correct", "incorrect")
+      })
+
+      if (!selectedValue || !correctAnswer) return
+
+      // Find the selected option and add appropriate class
+      options.forEach((opt) => {
+        const radio = opt.querySelector('input[type="radio"]') as HTMLInputElement
+        if (radio && radio.checked) {
+          if (radio.value === correctAnswer) {
+            opt.classList.add("correct")
+          } else {
+            opt.classList.add("incorrect")
+          }
+        }
+      })
+    }
+
+    // Restore saved selection and show feedback
     const savedValue = localStorage.getItem(storageKey)
     if (savedValue) {
       radios.forEach((radio) => {
@@ -160,13 +184,15 @@ document.addEventListener("nav", () => {
           radio.checked = true
         }
       })
+      updateFeedback(savedValue)
     }
 
-    // Save selection on change
+    // Save selection on change and update feedback
     const handleChange = (e: Event) => {
       const radio = e.target as HTMLInputElement
       if (radio.checked) {
         localStorage.setItem(storageKey, radio.value)
+        updateFeedback(radio.value)
       }
     }
 

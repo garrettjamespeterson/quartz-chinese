@@ -53,6 +53,56 @@ function escapeHtml(text: string): string {
     .replace(/'/g, "&#039;")
 }
 
+// Parse MC answers from the Answers section
+// Returns array of correct answer letters in document order (e.g., ["A", "B", "C", "A", "B"])
+function parseMcAnswers(tree: Root): string[] {
+  const answers: string[] = []
+  let inAnswersSection = false
+
+  visit(tree, (node) => {
+    // Check for ## Answers heading
+    if (node.type === "heading" && (node as any).depth === 2) {
+      const text = toString(node).toLowerCase()
+      if (text === "answers") {
+        inAnswersSection = true
+      } else if (inAnswersSection) {
+        inAnswersSection = false
+      }
+    }
+
+    if (!inAnswersSection) return
+
+    // Look for list items with simple format: "1. A", "2. B"
+    if (node.type === "listItem") {
+      const text = toString(node).trim()
+      // Match "A" or "B" or "C" or "D" as standalone answer
+      const match = text.match(/^([A-D])$/i)
+      if (match) {
+        answers.push(match[1].toUpperCase())
+      }
+    }
+
+    // Look for paragraphs with inline format: "**MC:** 1-A, 2-B, 3-C"
+    if (node.type === "paragraph") {
+      const text = toString(node)
+      const mcMatch = text.match(/\*?\*?MC:?\*?\*?\s*(.+)/i)
+      if (mcMatch) {
+        const answerPart = mcMatch[1]
+        // Parse "1-A, 2-B, 3-C" format
+        const pairs = answerPart.split(",")
+        for (const pair of pairs) {
+          const pairMatch = pair.trim().match(/\d+-([A-D])/i)
+          if (pairMatch) {
+            answers.push(pairMatch[1].toUpperCase())
+          }
+        }
+      }
+    }
+  })
+
+  return answers
+}
+
 export const MultipleChoice: QuartzTransformerPlugin<Partial<MultipleChoiceOptions> | undefined> = (
   _userOpts,
 ) => {
@@ -62,9 +112,11 @@ export const MultipleChoice: QuartzTransformerPlugin<Partial<MultipleChoiceOptio
       return [
         () => {
           return (tree: Root) => {
-            // Track question numbers we've seen to create unique names
-            let questionCounter = 0
+            // First pass: collect all MC answers from the Answers section
+            const mcAnswers = parseMcAnswers(tree)
+            let answerIndex = 0
 
+            // Second pass: convert MC lists to interactive radio buttons
             visit(tree, "list", (node: List, index, parent: Parent | undefined) => {
               if (!parent || typeof index !== "number") return
 
@@ -77,8 +129,9 @@ export const MultipleChoice: QuartzTransformerPlugin<Partial<MultipleChoiceOptio
               if (!isMultipleChoiceOption(firstItemText)) return
 
               // This is a multiple choice list - convert it
-              questionCounter++
-              const questionName = `mc-q${questionCounter}`
+              const questionName = `mc-q${answerIndex + 1}`
+              const correctAnswer = mcAnswers[answerIndex] || ""
+              answerIndex++
 
               // Build HTML for the options
               let optionsHtml = ""
@@ -97,8 +150,8 @@ export const MultipleChoice: QuartzTransformerPlugin<Partial<MultipleChoiceOptio
                 </label>`
               }
 
-              // Create the MC container
-              const htmlContent = `<div class="mc-options" data-question="${questionName}">${optionsHtml}</div>`
+              // Create the MC container with correct answer data attribute
+              const htmlContent = `<div class="mc-options" data-question="${questionName}" data-correct="${correctAnswer}">${optionsHtml}</div>`
 
               // Replace the list node with HTML
               const htmlNode: Html = {
