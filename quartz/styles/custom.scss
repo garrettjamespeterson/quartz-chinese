@@ -2,6 +2,33 @@
 
 // put your custom CSS here!
 
+// === CHINESE LESSON STYLES ===
+
+// 1. Increase base font size for better readability and harmony with zh-cn blocks
+.center {
+  font-size: 1.1rem;
+  line-height: 1.75;
+}
+
+// 2. Adjust article content for better reading
+article.popover-hint {
+  font-size: inherit;
+}
+
+// 3. Style for English names in zhongwen blocks (underlined)
+.zhongwen-name {
+  text-decoration: underline;
+  text-decoration-color: var(--gray);
+  text-underline-offset: 3px;
+  font-style: normal;
+}
+
+// 4. Q&A section spacing
+.page-content hr {
+  margin: 1.5rem 0;
+  border-color: var(--lightgray);
+}
+
 // Typing Input Styles
 .typing-input-wrapper {
   display: inline-flex;

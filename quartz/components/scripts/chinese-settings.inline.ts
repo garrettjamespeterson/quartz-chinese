@@ -3,10 +3,18 @@ const STORAGE_KEY_PINYIN = "zhongwen-pinyin"
 const STORAGE_KEY_COLORS = "zhongwen-colors"
 const STORAGE_KEY_CAPITALIZATION = "zhongwen-capitalization"
 
-// Apply saved preferences on page load (defaults: all off for new visitors)
-const savedPinyin = localStorage.getItem(STORAGE_KEY_PINYIN) || "hidden"
-const savedColors = localStorage.getItem(STORAGE_KEY_COLORS) || "off"
-const savedCapitalization = localStorage.getItem(STORAGE_KEY_CAPITALIZATION) || "off"
+// Default settings for chinese.garrettjamespeterson.com
+// - Pinyin: hover (available on hover for reference)
+// - Colors: on (tone colors visible for learning)
+// - Capitalization: on (tone patterns via capitalization)
+const DEFAULT_PINYIN = "hover"
+const DEFAULT_COLORS = "on"
+const DEFAULT_CAPITALIZATION = "on"
+
+// Apply saved preferences on page load (with educational defaults for new visitors)
+const savedPinyin = localStorage.getItem(STORAGE_KEY_PINYIN) || DEFAULT_PINYIN
+const savedColors = localStorage.getItem(STORAGE_KEY_COLORS) || DEFAULT_COLORS
+const savedCapitalization = localStorage.getItem(STORAGE_KEY_CAPITALIZATION) || DEFAULT_CAPITALIZATION
 
 document.documentElement.setAttribute("data-zhongwen-pinyin", savedPinyin)
 document.documentElement.setAttribute("data-zhongwen-colors", savedColors)
@@ -24,9 +32,9 @@ document.addEventListener("nav", () => {
 
   // Update button states to reflect current settings and ensure document attributes are in sync
   const updateButtonStates = () => {
-    const currentPinyin = localStorage.getItem(STORAGE_KEY_PINYIN) || "hidden"
-    const currentColors = localStorage.getItem(STORAGE_KEY_COLORS) || "off"
-    const currentCapitalization = localStorage.getItem(STORAGE_KEY_CAPITALIZATION) || "off"
+    const currentPinyin = localStorage.getItem(STORAGE_KEY_PINYIN) || DEFAULT_PINYIN
+    const currentColors = localStorage.getItem(STORAGE_KEY_COLORS) || DEFAULT_COLORS
+    const currentCapitalization = localStorage.getItem(STORAGE_KEY_CAPITALIZATION) || DEFAULT_CAPITALIZATION
 
     // Ensure document attributes are in sync (fixes SPA navigation issues)
     document.documentElement.setAttribute("data-zhongwen-pinyin", currentPinyin)

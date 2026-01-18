@@ -44,22 +44,22 @@ const ChineseSettings: QuartzComponent = ({ displayClass }: QuartzComponentProps
           <label>Pinyin display</label>
           <div class="chinese-settings-buttons" data-setting="pinyin">
             <button data-value="always">Always</button>
-            <button data-value="hover">Hover</button>
-            <button data-value="hidden" class="active">Hidden</button>
+            <button data-value="hover" class="active">Hover</button>
+            <button data-value="hidden">Hidden</button>
           </div>
         </div>
         <div class="chinese-settings-option">
           <label>Tone colors</label>
           <div class="chinese-settings-buttons" data-setting="colors">
-            <button data-value="on">On</button>
-            <button data-value="off" class="active">Off</button>
+            <button data-value="on" class="active">On</button>
+            <button data-value="off">Off</button>
           </div>
         </div>
         <div class="chinese-settings-option">
           <label>Tone capitalization</label>
           <div class="chinese-settings-buttons" data-setting="capitalization">
-            <button data-value="on">On</button>
-            <button data-value="off" class="active">Off</button>
+            <button data-value="on" class="active">On</button>
+            <button data-value="off">Off</button>
           </div>
         </div>
       </div>

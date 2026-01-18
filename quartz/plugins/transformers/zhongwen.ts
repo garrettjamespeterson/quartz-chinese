@@ -70,6 +70,16 @@ function isChinese(char: string): boolean {
   )
 }
 
+// Check if a character is an ASCII letter
+function isAsciiLetter(char: string): boolean {
+  return /[a-zA-Z]/.test(char)
+}
+
+// Check if a word looks like an English name (starts with capital letter)
+function isEnglishName(word: string): boolean {
+  return word.length > 0 && /^[A-Z][a-zA-Z]*$/.test(word)
+}
+
 // Escape HTML special characters
 function escapeHtml(text: string): string {
   return text
@@ -90,7 +100,9 @@ function processChineseText(text: string): string {
   const pinyinArray = pinyin(chineseOnly, { type: "array" })
 
   let pinyinIndex = 0
-  for (let i = 0; i < chars.length; i++) {
+  let i = 0
+
+  while (i < chars.length) {
     const char = chars[i]
 
     if (isChinese(char)) {
@@ -119,15 +131,34 @@ function processChineseText(text: string): string {
       html += `<rp>)</rp>`
       html += `</ruby>`
       pinyinIndex++
+      i++
+    } else if (isAsciiLetter(char)) {
+      // Collect consecutive ASCII letters to form a word
+      let word = ""
+      let j = i
+      while (j < chars.length && isAsciiLetter(chars[j])) {
+        word += chars[j]
+        j++
+      }
+      // Check if it's an English name (capitalized) and wrap with underline class
+      if (isEnglishName(word)) {
+        html += `<span class="zhongwen-name">${escapeHtml(word)}</span>`
+      } else {
+        html += `<span class="zhongwen-punct">${escapeHtml(word)}</span>`
+      }
+      i = j
     } else if (char === "\n") {
       // Handle line breaks
       html += `<br>`
+      i++
     } else if (/\s/.test(char)) {
       // Handle whitespace
       html += `<span class="zhongwen-space">${char}</span>`
+      i++
     } else {
       // Handle punctuation and other characters
       html += `<span class="zhongwen-punct">${escapeHtml(char)}</span>`
+      i++
     }
   }
 
