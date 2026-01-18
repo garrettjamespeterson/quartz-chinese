@@ -150,35 +150,19 @@ article.popover-hint {
   }
 }
 
-// Correct answer - green
+// Correct answer - green fill inside circle
 .mc-option.correct {
-  .mc-circle {
-    border-color: #6edcb8;
-
-    &::after {
-      background-color: #6edcb8;
-      opacity: 1;
-    }
-  }
-
-  .mc-text {
-    color: #6edcb8;
+  .mc-circle::after {
+    background-color: #6edcb8;
+    opacity: 1;
   }
 }
 
-// Incorrect answer - red
+// Incorrect answer - red fill inside circle
 .mc-option.incorrect {
-  .mc-circle {
-    border-color: #ff6b6b;
-
-    &::after {
-      background-color: #ff6b6b;
-      opacity: 1;
-    }
-  }
-
-  .mc-text {
-    color: #ff6b6b;
+  .mc-circle::after {
+    background-color: #ff6b6b;
+    opacity: 1;
   }
 }
 

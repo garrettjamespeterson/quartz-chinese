@@ -136,9 +136,18 @@ document.addEventListener("nav", () => {
 
   // === EXERCISE VALIDATION ===
   // Multiple choice and typing input interactivity
+  // Uses sessionStorage with a page-load ID so selections reset on hard refresh
+  // but persist during SPA navigation
 
-  const MC_STORAGE_PREFIX = "mc-answer-"
-  const TYPING_STORAGE_PREFIX = "typing-answer-"
+  // Get or create a page load ID (stored in sessionStorage, regenerates on hard refresh)
+  let pageLoadId = sessionStorage.getItem("exercise-page-load-id")
+  if (!pageLoadId) {
+    pageLoadId = Math.random().toString(36).substring(2, 15)
+    sessionStorage.setItem("exercise-page-load-id", pageLoadId)
+  }
+
+  const MC_STORAGE_PREFIX = `mc-${pageLoadId}-`
+  const TYPING_STORAGE_PREFIX = `typing-${pageLoadId}-`
   const pageId = window.location.pathname
 
   // Initialize multiple choice interactions
@@ -177,7 +186,7 @@ document.addEventListener("nav", () => {
     }
 
     // Restore saved selection and show feedback
-    const savedValue = localStorage.getItem(storageKey)
+    const savedValue = sessionStorage.getItem(storageKey)
     if (savedValue) {
       radios.forEach((radio) => {
         if (radio.value === savedValue) {
@@ -191,7 +200,7 @@ document.addEventListener("nav", () => {
     const handleChange = (e: Event) => {
       const radio = e.target as HTMLInputElement
       if (radio.checked) {
-        localStorage.setItem(storageKey, radio.value)
+        sessionStorage.setItem(storageKey, radio.value)
         updateFeedback(radio.value)
       }
     }
@@ -272,13 +281,13 @@ document.addEventListener("nav", () => {
     const storageKey = `${TYPING_STORAGE_PREFIX}${pageId}-${index}`
 
     // Restore saved value
-    const savedValue = localStorage.getItem(storageKey)
+    const savedValue = sessionStorage.getItem(storageKey)
     if (savedValue) {
       input.value = savedValue
     }
 
     const handleInput = () => {
-      localStorage.setItem(storageKey, input.value)
+      sessionStorage.setItem(storageKey, input.value)
       input.classList.remove("correct", "incorrect")
     }
 
