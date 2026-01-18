@@ -141,10 +141,8 @@ article.popover-hint {
   }
 }
 
-// When radio is checked, show the fill (default teal)
+// When radio is checked, show the fill (keep border grey)
 .mc-option input[type="radio"]:checked + .mc-circle {
-  border-color: #6edcb8;
-
   &::after {
     opacity: 1;
   }
