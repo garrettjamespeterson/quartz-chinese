@@ -133,4 +133,153 @@ document.addEventListener("nav", () => {
     panel.removeEventListener("click", handleSettingChange)
     document.removeEventListener("click", handleClickOutside)
   })
+
+  // === EXERCISE VALIDATION ===
+  // Multiple choice and typing input interactivity
+
+  const MC_STORAGE_PREFIX = "mc-answer-"
+  const TYPING_STORAGE_PREFIX = "typing-answer-"
+  const pageId = window.location.pathname
+
+  // Initialize multiple choice interactions
+  const mcOptions = document.querySelectorAll(".mc-options")
+  const mcCleanupFns: (() => void)[] = []
+
+  mcOptions.forEach((container) => {
+    const questionName = container.getAttribute("data-question")
+    if (!questionName) return
+
+    const storageKey = `${MC_STORAGE_PREFIX}${pageId}-${questionName}`
+    const radios = container.querySelectorAll<HTMLInputElement>('input[type="radio"]')
+
+    // Restore saved selection
+    const savedValue = localStorage.getItem(storageKey)
+    if (savedValue) {
+      radios.forEach((radio) => {
+        if (radio.value === savedValue) {
+          radio.checked = true
+        }
+      })
+    }
+
+    // Save selection on change
+    const handleChange = (e: Event) => {
+      const radio = e.target as HTMLInputElement
+      if (radio.checked) {
+        localStorage.setItem(storageKey, radio.value)
+      }
+    }
+
+    radios.forEach((radio) => {
+      radio.addEventListener("change", handleChange)
+      mcCleanupFns.push(() => radio.removeEventListener("change", handleChange))
+    })
+  })
+
+  // Initialize typing input validation
+  const typingInputs = document.querySelectorAll<HTMLInputElement>(".typing-input")
+  const typingCleanupFns: (() => void)[] = []
+
+  // Normalize pinyin by removing tone marks (client-side version)
+  const normalizePinyin = (str: string): string => {
+    const toneMap: Record<string, string> = {
+      ā: "a", á: "a", ǎ: "a", à: "a",
+      ē: "e", é: "e", ě: "e", è: "e",
+      ī: "i", í: "i", ǐ: "i", ì: "i",
+      ō: "o", ó: "o", ǒ: "o", ò: "o",
+      ū: "u", ú: "u", ǔ: "u", ù: "u",
+      ǖ: "v", ǘ: "v", ǚ: "v", ǜ: "v", ü: "v",
+    }
+    let result = str.toLowerCase()
+    for (const [toned, plain] of Object.entries(toneMap)) {
+      result = result.split(toned).join(plain)
+    }
+    return result
+  }
+
+  // Validation function for typing inputs
+  const validateTypingInput = (input: HTMLInputElement) => {
+    const userAnswer = input.value.trim()
+
+    if (!userAnswer) {
+      input.classList.remove("correct", "incorrect")
+      return
+    }
+
+    const correctAnswer = input.dataset.answer
+    const normalizedCorrectAnswer = input.dataset.answerNormalized
+
+    // If no answer provided, we can't validate
+    if (!correctAnswer) return
+
+    // Basic normalization: lowercase, collapse spaces
+    const basicNormalize = (s: string) => s.toLowerCase().replace(/\s+/g, " ").trim()
+
+    // Normalize user input (both basic and pinyin-normalized)
+    const userBasic = basicNormalize(userAnswer)
+    const userNormalized = normalizePinyin(userAnswer).replace(/\s+/g, "").trim()
+
+    // Check exact match first (for Chinese characters)
+    const correctBasic = basicNormalize(correctAnswer)
+    if (userBasic === correctBasic) {
+      input.classList.remove("incorrect")
+      input.classList.add("correct")
+      return
+    }
+
+    // Check normalized pinyin match (ignoring tone marks and spaces)
+    if (normalizedCorrectAnswer) {
+      const correctNormalized = normalizedCorrectAnswer.replace(/\s+/g, "").trim()
+      if (userNormalized === correctNormalized) {
+        input.classList.remove("incorrect")
+        input.classList.add("correct")
+        return
+      }
+    }
+
+    // No match
+    input.classList.remove("correct")
+    input.classList.add("incorrect")
+  }
+
+  typingInputs.forEach((input, index) => {
+    const storageKey = `${TYPING_STORAGE_PREFIX}${pageId}-${index}`
+
+    // Restore saved value
+    const savedValue = localStorage.getItem(storageKey)
+    if (savedValue) {
+      input.value = savedValue
+    }
+
+    const handleInput = () => {
+      localStorage.setItem(storageKey, input.value)
+      input.classList.remove("correct", "incorrect")
+    }
+
+    const handleBlur = () => validateTypingInput(input)
+
+    const handleKeydown = (e: KeyboardEvent) => {
+      if (e.key === "Enter") {
+        e.preventDefault()
+        validateTypingInput(input)
+        input.blur()
+      }
+    }
+
+    input.addEventListener("input", handleInput)
+    input.addEventListener("blur", handleBlur)
+    input.addEventListener("keydown", handleKeydown)
+
+    typingCleanupFns.push(() => {
+      input.removeEventListener("input", handleInput)
+      input.removeEventListener("blur", handleBlur)
+      input.removeEventListener("keydown", handleKeydown)
+    })
+  })
+
+  // Cleanup for exercises
+  window.addCleanup(() => {
+    mcCleanupFns.forEach((fn) => fn())
+    typingCleanupFns.forEach((fn) => fn())
+  })
 })
