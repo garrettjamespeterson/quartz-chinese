@@ -1,6 +1,20 @@
 ---
 audience: chinese
 title: "Lesson 2: What Do We Do Here?"
+lesson: 2
+audio:
+  full: "/static/audio/lesson_02.mp3"
+  lines:
+    1: "/static/audio/L02/Kevin在公司_.mp3"
+    2: "/static/audio/L02/Lily_這個公司做什麼_.mp3"
+    3: "/static/audio/L02/我們__工作_.mp3"
+    4: "/static/audio/L02/工作_我們做什麼工作_.mp3"
+    5: "/static/audio/L02/我不知道_.mp3"
+    6: "/static/audio/L02/你好_你好_.mp3"
+    7: "/static/audio/L02/王總_公司做什麼_.mp3"
+    8: "/static/audio/L02/我們很忙_很忙_.mp3"
+    9: "/static/audio/L02/你們做什麼_.mp3"
+    10: "/static/audio/L02/好_好_.mp3"
 vocab:
   pronouns:
     - "<span style='color:#a78bfa'>wǒ</span> = I, me"
@@ -93,7 +107,7 @@ vocab:
 
 ---
 
-## Pinyin Story
+## Pinyin Story (click for audio)
 
 1. Kevin <span style="color:#b0b0b0">ZÀI</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span>. = Kevin is at the company.
 
@@ -200,7 +214,7 @@ vocab:
 
 *First, read along with the characters and pinyin — make an association between each word and its character. Do this 2 or 3 times staying focused on the character and its unique shapes. Then read the characters without any pinyin. Repeat until it flows naturally.*
 
-### Character Introduction
+### Character Introduction (click for audio)
 
 ```zh-cn
 Kevin 在公司。
@@ -217,7 +231,7 @@ Kevin：「你們做什麼？」
 
 ---
 
-### With Translation
+### With Translation (click for audio)
 
 1. Kevin <span style="color:#b0b0b0">在</span><span style="color:#ff6b35">公</span><span style="color:#ff6b35">司</span>。 = Kevin is at the company.
 

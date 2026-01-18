@@ -1,6 +1,20 @@
 ---
 audience: chinese
 title: "Lesson 1: First Day"
+lesson: 1
+audio:
+  full: "/static/audio/lesson_01.mp3"
+  lines:
+    1: "/static/audio/L01/這是Kevin_.mp3"
+    2: "/static/audio/L01/Kevin是新人_.mp3"
+    3: "/static/audio/L01/你好_你是新人嗎_.mp3"
+    4: "/static/audio/L01/是_我是新人_我叫Kevin.mp3"
+    5: "/static/audio/L01/我叫李麗_.mp3"
+    6: "/static/audio/L01/這是王總_.mp3"
+    7: "/static/audio/L01/他是王總_.mp3"
+    8: "/static/audio/L01/你好_你叫什麼名字_.mp3"
+    9: "/static/audio/L01/我叫Kevin.mp3"
+    10: "/static/audio/L01/Kevin_好_好_.mp3"
 vocab:
   pronouns:
     - "<span style='color:#a78bfa'>wǒ</span> = I, me"
