@@ -26,6 +26,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import ChineseSettings from "./ChineseSettings"
 import VocabWall from "./VocabWall"
+import AudioPlayer from "./AudioPlayer"
 
 export {
   ArticleTitle,
@@ -56,4 +57,5 @@ export {
   ConditionalRender,
   ChineseSettings,
   VocabWall,
+  AudioPlayer,
 }

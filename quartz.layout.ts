@@ -7,6 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.ChineseSettings(),
+    Component.AudioPlayer(),
   ],
   footer: Component.Footer({
     links: {

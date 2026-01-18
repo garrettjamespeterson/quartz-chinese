@@ -66,6 +66,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
+      Plugin.AudioLines(),
       Plugin.ZhongwenBlock(),
       Plugin.TypingInputs(),
       Plugin.MultipleChoice(),

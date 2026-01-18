@@ -85,6 +85,8 @@ vocab:
 
 ---
 
+### Pinyin Target Story (click for audio)
+
 1. <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Shì</span> Kevin. = This is Kevin.
 
 2. Kevin <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>. = Kevin is a new person.
@@ -190,7 +192,7 @@ vocab:
 
 *First, read along with the characters and pinyin — make an association between each word and its character. Do this 2 or 3 times staying focused on the character and its unique shapes. Then read the characters without any pinyin. Repeat until it flows naturally.*
 
-### Character Introduction
+### Character Introduction (click for audio)
 
 ```zh-cn
 這是 Kevin。
@@ -207,7 +209,7 @@ Kevin：「我叫 Kevin。」
 
 ---
 
-### With Translation
+### With Translation (click for audio)
 
 1. <span style="color:#b0b0b0">這</span><span style="color:#b0b0b0">是</span> Kevin。 = This is Kevin.
 
