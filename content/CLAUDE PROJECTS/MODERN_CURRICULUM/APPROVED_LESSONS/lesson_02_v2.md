@@ -28,7 +28,7 @@ vocab:
     - "<span style='color:#a78bfa'>hěn</span> = very"
     - "<span style='color:#6edcb8'>mánG</span> = busy"
 ---
-
+	
 # Lesson 2: What Do We Do Here?
 
 ---
