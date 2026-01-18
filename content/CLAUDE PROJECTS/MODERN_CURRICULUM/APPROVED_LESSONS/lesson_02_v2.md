@@ -52,7 +52,7 @@ vocab:
 *Listen to the full dialogue once. Don't worry about understanding everything yet.*
 
 <audio controls style="width: 100%; margin: 1rem 0;">
-  <source src="/audio/lesson_02.mp3" type="audio/mpeg">
+  <source src="/static/audio/lesson_02.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
@@ -308,7 +308,7 @@ Kevin：「你們做什麼？」
 *Play the dialogue three more times.*
 
 <audio controls style="width: 100%; margin: 1rem 0;">
-  <source src="/audio/lesson_02.mp3" type="audio/mpeg">
+  <source src="/static/audio/lesson_02.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 

@@ -4,7 +4,7 @@
 let currentAudio: HTMLAudioElement | null = null
 let currentLine: HTMLElement | null = null
 
-document.addEventListener("nav", () => {
+function initAudioLines() {
   // Stop any currently playing audio when navigating
   if (currentAudio) {
     currentAudio.pause()
@@ -58,4 +58,10 @@ document.addEventListener("nav", () => {
     line.addEventListener("click", playAudio)
     window.addCleanup(() => line.removeEventListener("click", playAudio))
   })
-})
+}
+
+// Run immediately for initial page load
+initAudioLines()
+
+// Also run on SPA navigation
+document.addEventListener("nav", initAudioLines)
