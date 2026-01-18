@@ -1,3 +1,43 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Typing Input Styles
+.typing-input-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.typing-input {
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid var(--gray);
+  color: var(--darkgray);
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.25rem 0.5rem;
+  width: 200px;
+  transition: border-color 0.2s ease;
+
+  &::placeholder {
+    color: var(--gray);
+    opacity: 0.6;
+  }
+
+  &:focus {
+    outline: none;
+    border-bottom-color: #a78bfa;
+  }
+
+  &:hover:not(:focus) {
+    border-bottom-color: var(--darkgray);
+  }
+}
+
+// Mobile responsiveness for typing inputs
+@media (max-width: 600px) {
+  .typing-input {
+    width: 150px;
+  }
+}

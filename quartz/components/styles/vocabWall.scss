@@ -1,0 +1,88 @@
+.vocab-wall {
+  position: sticky;
+  top: 0;
+  max-height: 100vh;
+  overflow-y: auto;
+  padding: 1rem 0;
+
+  // Custom scrollbar styling
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: var(--gray);
+    border-radius: 3px;
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background: var(--darkgray);
+  }
+}
+
+.vocab-wall-title {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0 0 1rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--lightgray);
+  color: var(--dark);
+}
+
+.vocab-wall-content {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.vocab-category {
+  margin: 0;
+}
+
+.vocab-category-title {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--gray);
+  margin: 0 0 0.5rem 0;
+}
+
+.vocab-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.vocab-item {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: var(--darkgray);
+  padding: 0.125rem 0;
+
+  // Ensure inline spans render their colors
+  span {
+    color: inherit;
+  }
+
+  // Style for the colored spans from frontmatter
+  span[style*="color"] {
+    // Allow inline styles to work
+  }
+}
+
+// Mobile responsiveness
+@media (max-width: 1200px) {
+  .vocab-wall {
+    position: relative;
+    max-height: none;
+    overflow-y: visible;
+  }
+}

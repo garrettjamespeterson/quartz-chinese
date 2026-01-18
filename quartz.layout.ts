@@ -44,7 +44,18 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(
+      Component.ConditionalRender({
+        component: Component.VocabWall(),
+        condition: (page) => page.fileData.frontmatter?.audience === "chinese",
+      }),
+    ),
+    Component.DesktopOnly(
+      Component.ConditionalRender({
+        component: Component.TableOfContents(),
+        condition: (page) => page.fileData.frontmatter?.audience !== "chinese",
+      }),
+    ),
     Component.Backlinks(),
   ],
 }

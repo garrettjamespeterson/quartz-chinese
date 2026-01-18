@@ -67,6 +67,7 @@ const config: QuartzConfig = {
         keepBackground: false,
       }),
       Plugin.ZhongwenBlock(),
+      Plugin.TypingInputs(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
