@@ -300,42 +300,29 @@ Boss Wang: 好，好！
 
 ---
 
+<div style="display:none">
+
 ## Answers
 
-<!-- Comprehension Check answers for parser -->
 1. A
 2. B
 3. B
 4. C
 5. B
 
-<!-- Pinyin Production MC answers for parser -->
 6. B
 7. B
 8. C
 9. A
 10. B
 
-**Typing:**
-- 1: wǒmen hěn máng
-- 2: nǐ zhīdào ma
-- 3: wǒmen zuò shénme
-- 4: wǒ gōngzuò
-- 5: nǐ máng ma
-
-<!-- Character Production MC answers for parser -->
 11. B
 12. B
 13. C
 14. A
 15. B
 
-**Typing:**
-- 6: 我們很忙
-- 7: 你知道嗎
-- 8: 我們做什麼
-- 9: 我工作
-- 10: 你忙嗎
+</div>
 
 <details>
 <summary>Click to reveal answers</summary>

@@ -292,42 +292,29 @@ Boss Wang: Kevin！好，好！
 
 ---
 
+<div style="display:none">
+
 ## Answers
 
-<!-- Comprehension Check answers for parser -->
 1. A
 2. B
 3. C
 4. B
 5. C
 
-<!-- Pinyin Production MC answers for parser -->
 6. A
 7. B
 8. C
 9. A
 10. B
 
-**Typing:**
-- 1: nǐhǎo
-- 2: wǒ shì xīnrén
-- 3: tā shì shéi
-- 4: wǒ de míngzi shì Kevin
-- 5: zhè shì wáng zǒng
-
-<!-- Character Production MC answers for parser -->
 11. A
 12. B
 13. C
 14. A
 15. B
 
-**Typing:**
-- 6: 你好
-- 7: 我是新人
-- 8: 他是誰
-- 9: 我的名字是 Kevin
-- 10: 這是王總
+</div>
 
 <details>
 <summary>Click to reveal answers</summary>
