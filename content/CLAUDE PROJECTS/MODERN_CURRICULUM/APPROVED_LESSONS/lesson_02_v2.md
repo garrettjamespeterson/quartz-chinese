@@ -93,16 +93,22 @@ vocab:
 
 ### Question-Answer Pairs
 
-Question 8.
+**Question 8.**
+
 Q: <span style="color:#a78bfa">nǐ</span> <span style="color:#6edcb8">mánG</span> <span style="color:#ffd966">*ma*</span>? = Are you busy?
+
 A: <span style="color:#b0b0b0">Shì</span>, <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>. = Yes, I am very busy.
 
-Question 9.
+**Question 9.**
+
 Q: <span style="color:#a78bfa">nǐ</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span> <span style="color:#ffd966">*ma*</span>? = Do you know?
+
 A: <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>. = I don't know.
 
-Question 10.
+**Question 10.**
+
 Q: <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>? = What does the company do?
+
 A: <span style="color:#a78bfa">wǒ</span><span style="color:#ffd966">*men*</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>. = We work.
 
 ---
