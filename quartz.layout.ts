@@ -42,7 +42,10 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.CollapsibleGraph(),
+    Component.ConditionalRender({
+      component: Component.CollapsibleGraph(),
+      condition: (page) => page.fileData.frontmatter?.audience !== "chinese",
+    }),
     Component.ContentMeta(),
     Component.TagList(),
   ],
