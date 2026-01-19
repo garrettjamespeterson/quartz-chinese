@@ -159,7 +159,7 @@ function generateCharacterHtml(char: string, charPinyin: string, tone: number): 
 }
 
 // Process Chinese text and return HTML string with ruby annotations
-function processChineseText(text: string): string {
+export function processChineseText(text: string): string {
   const chars = Array.from(text)
   let html = ""
 
