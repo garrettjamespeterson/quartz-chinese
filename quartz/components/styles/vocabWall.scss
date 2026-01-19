@@ -86,26 +86,22 @@
 }
 
 .grammar-list {
-  gap: 0.75rem;
+  gap: 0.5rem;
 }
 
 .grammar-item {
-  padding: 0.5rem;
-  background: rgba(167, 139, 250, 0.08);
-  border-radius: 4px;
-  border-left: 2px solid var(--secondary);
+  padding: 0.125rem 0;
 }
 
 .grammar-pattern {
   font-size: 0.9rem;
-  font-weight: 600;
-  color: var(--dark);
-  margin-bottom: 0.125rem;
+  color: var(--darkgray);
 }
 
 .grammar-meaning {
   font-size: 0.8rem;
   color: var(--gray);
+  margin-left: 0.5rem;
 }
 
 // Mobile responsiveness

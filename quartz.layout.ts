@@ -17,7 +17,6 @@ export const sharedPageComponents: SharedLayout = {
           },
           { Component: Component.Darkmode() },
           { Component: Component.ReaderMode() },
-          { Component: Component.Explorer() },
         ],
       }),
       condition: (page) => page.fileData.frontmatter?.audience === "chinese",
