@@ -116,12 +116,33 @@ export const MultipleChoice: QuartzTransformerPlugin<Partial<MultipleChoiceOptio
             const mcAnswers = parseMcAnswers(tree)
             let answerIndex = 0
 
+            // Track if we're inside a <details> block (answer key area)
+            let insideDetails = false
+
             // Second pass: convert MC lists to interactive radio buttons
-            visit(tree, "list", (node: List, index, parent: Parent | undefined) => {
+            visit(tree, (node, index, parent: Parent | undefined) => {
+              // Track entering/exiting details blocks
+              if (node.type === "html") {
+                const htmlValue = (node as Html).value
+                if (htmlValue.includes("<details")) {
+                  insideDetails = true
+                }
+                if (htmlValue.includes("</details>")) {
+                  insideDetails = false
+                }
+              }
+
+              // Skip MC conversion inside details blocks
+              if (insideDetails) return
+
+              // Only process list nodes
+              if (node.type !== "list") return
               if (!parent || typeof index !== "number") return
 
+              const listNode = node as List
+
               // Check if this list has multiple choice options
-              const items = node.children
+              const items = listNode.children
               if (items.length < 2) return
 
               // Check if first item looks like a MC option
