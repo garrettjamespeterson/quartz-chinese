@@ -56,7 +56,9 @@ function initAudioLines() {
     }
 
     line.addEventListener("click", playAudio)
-    window.addCleanup(() => line.removeEventListener("click", playAudio))
+    if (typeof window.addCleanup === "function") {
+      window.addCleanup(() => line.removeEventListener("click", playAudio))
+    }
   })
 }
 
