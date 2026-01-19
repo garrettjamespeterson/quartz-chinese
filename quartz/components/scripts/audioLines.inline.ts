@@ -14,6 +14,16 @@ document.addEventListener("nav", () => {
     currentLine = null
   }
 
+  // Reset all audio players on the page (for "Listen Again" sections)
+  // This forces them to reload with the correct source after SPA navigation
+  const audioPlayers = document.querySelectorAll<HTMLAudioElement>("audio")
+  audioPlayers.forEach((audio) => {
+    audio.pause()
+    audio.currentTime = 0
+    // Force reload by re-setting the source
+    audio.load()
+  })
+
   const audioLines = document.querySelectorAll<HTMLElement>(".audio-line[data-audio]")
 
   audioLines.forEach((line) => {
