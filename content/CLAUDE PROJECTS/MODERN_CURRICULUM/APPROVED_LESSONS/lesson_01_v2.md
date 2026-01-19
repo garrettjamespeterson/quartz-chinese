@@ -86,16 +86,16 @@ vocab:
 ### Question-Answer Pairs
 
 Question 8.
-Q: nǐ Shì XĪNréN ma? = Are you a new person?
-A: Shì, wǒ Shì XĪNréN. = Yes, I am a new person.
+Q: <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span> <span style="color:#ffd966">*ma*</span>? = Are you a new person?
+A: <span style="color:#b0b0b0">Shì</span>, <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>. = Yes, I am a new person.
 
 Question 9.
-Q: nǐ Jiào shéNme mínGzi? = What is your name?
-A: wǒ Jiào lǐLì. = I am called Li Li.
+Q: <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">mínG</span><span style="color:#ffd966">*zi*</span>? = What is your name?
+A: <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#a78bfa">lǐ</span><span style="color:#b0b0b0">Lì</span>. = I am called Li Li.
 
 Question 10.
-Q: TĀ Shì shéI? = Who is he?
-A: TĀ Shì wánG zǒng. = He is Boss Wang.
+Q: <span style="color:#ff6b35">TĀ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">shéI</span>? = Who is he?
+A: <span style="color:#ff6b35">TĀ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>. = He is Boss Wang.
 
 ---
 
