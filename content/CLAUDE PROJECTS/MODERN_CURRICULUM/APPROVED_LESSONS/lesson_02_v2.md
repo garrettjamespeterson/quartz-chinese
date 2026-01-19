@@ -102,7 +102,7 @@ Q: nǐ ZHĪDào ma? = Do you know?
 A: wǒ Bù ZHĪDào. = I don't know.
 
 Question 10.
-Q: GŌNGsī Zuò shéNme? = What does the company do?
+Q: GŌNGSĪ Zuò shéNme? = What does the company do?
 A: wǒmen GŌNGZuò. = We work.
 
 ---
