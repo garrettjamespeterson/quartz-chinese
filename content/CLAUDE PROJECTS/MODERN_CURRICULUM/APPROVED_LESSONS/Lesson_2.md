@@ -113,7 +113,7 @@ A: <span style="color:#a78bfa">wǒ</span><span style="color:#ffd966">*men*</span
 
 ---
 
-## Pinyin Story (click for audio)
+### Pinyin Target Story (click for audio)
 
 1. Kevin <span style="color:#b0b0b0">ZÀI</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span>. = Kevin is at the company.
 2. Kevin: Lily, <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Gè</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>? = Lily, what does this company do?
