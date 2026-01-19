@@ -26,6 +26,8 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import ChineseSettings from "./ChineseSettings"
 import VocabWall from "./VocabWall"
+import CoreVocab from "./CoreVocab"
+import GrammarNotes from "./GrammarNotes"
 import AudioPlayer from "./AudioPlayer"
 
 export {
@@ -57,5 +59,7 @@ export {
   ConditionalRender,
   ChineseSettings,
   VocabWall,
+  CoreVocab,
+  GrammarNotes,
   AudioPlayer,
 }

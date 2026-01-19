@@ -6,6 +6,12 @@ interface VocabCategory {
   [key: string]: string[]
 }
 
+interface GrammarPoint {
+  pattern: string
+  meaning: string
+  example?: string
+}
+
 function formatCategoryName(key: string): string {
   // Convert snake_case to Title Case
   return key
@@ -14,27 +20,38 @@ function formatCategoryName(key: string): string {
     .join(" ")
 }
 
+// Categories shown on left sidebar (excluded from right)
+const CORE_CATEGORIES = ["pronouns", "verbs", "interrogatives", "particles"]
+
 export default (() => {
   const VocabWall: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
     const frontmatter = fileData.frontmatter
     const vocab = frontmatter?.vocab as VocabCategory | undefined
+    const grammar = frontmatter?.grammar as GrammarPoint[] | undefined
 
-    // Only render if this is a Chinese lesson with vocab
-    if (frontmatter?.audience !== "chinese" || !vocab) {
+    // Only render if this is a Chinese lesson
+    if (frontmatter?.audience !== "chinese") {
       return null
     }
 
-    const categories = Object.entries(vocab)
+    // Filter to only lesson-specific categories (exclude core categories)
+    const lessonVocab = vocab
+      ? Object.entries(vocab).filter(
+          ([category]) => !CORE_CATEGORIES.includes(category.toLowerCase()),
+        )
+      : []
 
-    if (categories.length === 0) {
+    // If no lesson vocab and no grammar, don't render
+    if (lessonVocab.length === 0 && (!grammar || grammar.length === 0)) {
       return null
     }
 
     return (
       <div class={classNames(displayClass, "vocab-wall")}>
-        <h3 class="vocab-wall-title">Vocabulary</h3>
+        <h3 class="vocab-wall-title">This Lesson</h3>
         <div class="vocab-wall-content">
-          {categories.map(([category, items]) => (
+          {/* Lesson-specific vocabulary */}
+          {lessonVocab.map(([category, items]) => (
             <div class="vocab-category" key={category}>
               <h4 class="vocab-category-title">{formatCategoryName(category)}</h4>
               <ul class="vocab-list">
@@ -48,6 +65,24 @@ export default (() => {
               </ul>
             </div>
           ))}
+
+          {/* Grammar patterns */}
+          {grammar && grammar.length > 0 && (
+            <div class="vocab-category grammar-section">
+              <h4 class="vocab-category-title">Grammar</h4>
+              <ul class="vocab-list grammar-list">
+                {grammar.map((point, index) => (
+                  <li key={index} class="grammar-item">
+                    <div
+                      class="grammar-pattern"
+                      dangerouslySetInnerHTML={{ __html: point.pattern }}
+                    />
+                    <div class="grammar-meaning">{point.meaning}</div>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
         </div>
       </div>
     )

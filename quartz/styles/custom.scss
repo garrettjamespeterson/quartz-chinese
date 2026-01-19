@@ -2,6 +2,74 @@
 
 // put your custom CSS here!
 
+// === TOP NAVIGATION BAR FOR CHINESE LESSONS ===
+
+.page-header {
+  // Style for the top navigation bar on Chinese pages
+  .flex-component {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.75rem 1rem;
+    background: var(--light);
+    border-bottom: 1px solid var(--lightgray);
+    flex-wrap: wrap;
+
+    // Page title in header
+    .page-title {
+      margin: 0;
+      font-size: 1.25rem;
+
+      a {
+        color: var(--dark);
+      }
+    }
+
+    // Search box styling
+    .search {
+      max-width: 300px;
+    }
+
+    // Darkmode and other buttons
+    .darkmode,
+    .reader-mode {
+      margin: 0;
+    }
+
+    // Explorer in header - make it a dropdown
+    .explorer {
+      position: relative;
+
+      button {
+        padding: 0.5rem 1rem;
+        background: var(--lightgray);
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 0.9rem;
+
+        &:hover {
+          background: var(--gray);
+        }
+      }
+
+      #explorer-content {
+        position: absolute;
+        top: 100%;
+        right: 0;
+        background: var(--light);
+        border: 1px solid var(--lightgray);
+        border-radius: 6px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        min-width: 250px;
+        max-height: 400px;
+        overflow-y: auto;
+        z-index: 100;
+      }
+    }
+  }
+}
+
 // === CHINESE LESSON STYLES ===
 
 // 1. Increase base font size for better readability and harmony with zh-cn blocks

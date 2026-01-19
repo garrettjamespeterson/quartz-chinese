@@ -4,7 +4,25 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    // Top navigation bar for Chinese lesson pages
+    Component.ConditionalRender({
+      component: Component.Flex({
+        components: [
+          { Component: Component.PageTitle() },
+          { Component: Component.Spacer() },
+          {
+            Component: Component.Search(),
+            grow: true,
+          },
+          { Component: Component.Darkmode() },
+          { Component: Component.ReaderMode() },
+          { Component: Component.Explorer() },
+        ],
+      }),
+      condition: (page) => page.fileData.frontmatter?.audience === "chinese",
+    }),
+  ],
   afterBody: [
     Component.ChineseSettings(),
     Component.AudioPlayer(),
@@ -30,19 +48,37 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-      ],
+    // Standard left sidebar for non-Chinese pages
+    Component.ConditionalRender({
+      component: Component.PageTitle(),
+      condition: (page) => page.fileData.frontmatter?.audience !== "chinese",
     }),
-    Component.Explorer(),
+    Component.ConditionalRender({
+      component: Component.MobileOnly(Component.Spacer()),
+      condition: (page) => page.fileData.frontmatter?.audience !== "chinese",
+    }),
+    Component.ConditionalRender({
+      component: Component.Flex({
+        components: [
+          {
+            Component: Component.Search(),
+            grow: true,
+          },
+          { Component: Component.Darkmode() },
+          { Component: Component.ReaderMode() },
+        ],
+      }),
+      condition: (page) => page.fileData.frontmatter?.audience !== "chinese",
+    }),
+    Component.ConditionalRender({
+      component: Component.Explorer(),
+      condition: (page) => page.fileData.frontmatter?.audience !== "chinese",
+    }),
+    // Core vocabulary for Chinese pages (left sidebar)
+    Component.ConditionalRender({
+      component: Component.CoreVocab(),
+      condition: (page) => page.fileData.frontmatter?.audience === "chinese",
+    }),
   ],
   right: [
     Component.DesktopOnly(
@@ -57,7 +93,10 @@ export const defaultContentPageLayout: PageLayout = {
         condition: (page) => page.fileData.frontmatter?.audience !== "chinese",
       }),
     ),
-    Component.Backlinks(),
+    Component.ConditionalRender({
+      component: Component.Backlinks(),
+      condition: (page) => page.fileData.frontmatter?.audience !== "chinese",
+    }),
   ],
 }
 

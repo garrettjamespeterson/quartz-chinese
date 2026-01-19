@@ -16,18 +16,45 @@ audio:
     9: "/static/audio/L03/line_09.mp3"
     10: "/static/audio/L03/line_10.mp3"
 vocab:
+  pronouns:
+    - "<span style='color:#a78bfa'>wǒ</span> = I, me"
+    - "<span style='color:#a78bfa'>nǐ</span> = you"
+    - "<span style='color:#ff6b35'>TĀ</span> = he/she/it"
+    - "<span style='color:#a78bfa'>wǒ</span><span style='color:#ffd966'>men</span> = we, us"
+    - "<span style='color:#a78bfa'>nǐ</span><span style='color:#ffd966'>men</span> = you (plural)"
   verbs:
+    - "<span style='color:#b0b0b0'>Shì</span> = is, am, are"
+    - "<span style='color:#b0b0b0'>Jiào</span> = to be called"
+    - "<span style='color:#b0b0b0'>Zuò</span> = to do"
+    - "<span style='color:#ff6b35'>GŌNG</span><span style='color:#b0b0b0'>Zuò</span> = to work"
+    - "<span style='color:#ff6b35'>ZHĪ</span><span style='color:#b0b0b0'>Dào</span> = to know"
+    - "<span style='color:#b0b0b0'>ZÀI</span> = to be at, in"
     - "<span style='color:#ff6b35'>SHUŌ</span> = speak, say"
-    - "<span style='color:#ff6b35'>SHUŌ</span><span style='color:#b0b0b0'>Huà</span> = speak, talk"
     - "<span style='color:#ff6b35'>TĪNG</span> = listen"
-  nouns:
-    - "<span style='color:#b0b0b0'>Huì</span> = meeting; can, will"
+  particles:
+    - "<span style='color:#ffd966'>ma</span> = (yes/no question)"
+    - "<span style='color:#ffd966'>de</span> = (possessive)"
+    - "<span style='color:#b0b0b0'>Bù</span> = not"
+    - "<span style='color:#b0b0b0'>Gè</span> = (measure word)"
+  interrogatives:
+    - "<span style='color:#6edcb8'>shéI</span> = who"
+    - "<span style='color:#6edcb8'>shéN</span><span style='color:#ffd966'>me</span> = what"
+  this_lesson:
+    - "<span style='color:#ff6b35'>SHUŌ</span><span style='color:#b0b0b0'>Huà</span> = speak, talk"
+    - "<span style='color:#b0b0b0'>Huì</span> = meeting; can"
     - "<span style='color:#b0b0b0'>Dà</span><span style='color:#ff6b35'>JIĀ</span> = everyone"
     - "<span style='color:#b0b0b0'>Wèn</span><span style='color:#6edcb8'>tÍ</span> = question, problem"
-  adjectives:
     - "<span style='color:#b0b0b0'>Duì</span> = correct, right"
-  adverbs:
     - "<span style='color:#6edcb8'>háI</span> = still, also"
+grammar:
+  - pattern: "<span style='color:#b0b0b0'>Dà</span><span style='color:#ff6b35'>JIĀ</span> + verb"
+    meaning: "Everyone [does verb]"
+  - pattern: "A <span style='color:#b0b0b0'>Huì</span> B"
+    meaning: "A can/will B"
+  - pattern: "A <span style='color:#6edcb8'>háI</span> <span style='color:#b0b0b0'>Bù</span> B"
+    meaning: "A still doesn't B"
+  - pattern: "<span style='color:#b0b0b0'>Duì</span>, ..."
+    meaning: "Right/correct, ..."
 ---
 
 # Lesson 3: The Meeting

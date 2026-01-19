@@ -35,6 +35,15 @@ vocab:
     - "<span style='color:#6edcb8'>réN</span> = person"
     - "<span style='color:#6edcb8'>mínG</span><span style='color:#ffd966'>zi</span> = name"
     - "<span style='color:#a78bfa'>hǎo</span> = good"
+grammar:
+  - pattern: "A <span style='color:#b0b0b0'>Shì</span> B"
+    meaning: "A is B (identity)"
+  - pattern: "A <span style='color:#b0b0b0'>Jiào</span> [name]"
+    meaning: "A is called [name]"
+  - pattern: "...​<span style='color:#ffd966'>ma</span>?"
+    meaning: "Yes/no question"
+  - pattern: "A <span style='color:#ffd966'>de</span> B"
+    meaning: "A's B (possession)"
 ---
 
 # Lesson 1: First Day

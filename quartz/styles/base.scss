@@ -251,8 +251,6 @@ a {
       @media all and ($mobile) {
         margin-left: inherit;
         margin-right: inherit;
-      }
-      @media all and not ($desktop) {
         position: initial;
         height: unset;
         width: 100%;

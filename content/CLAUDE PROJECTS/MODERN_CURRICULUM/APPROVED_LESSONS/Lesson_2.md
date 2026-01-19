@@ -41,6 +41,15 @@ vocab:
     - "<span style='color:#ff6b35'>GŌNG</span><span style='color:#ff6b35'>SĪ</span> = company"
     - "<span style='color:#a78bfa'>hěn</span> = very"
     - "<span style='color:#6edcb8'>mánG</span> = busy"
+grammar:
+  - pattern: "A <span style='color:#b0b0b0'>ZÀI</span> B"
+    meaning: "A is at/in B (location)"
+  - pattern: "A <span style='color:#b0b0b0'>Zuò</span> <span style='color:#6edcb8'>shéN</span><span style='color:#ffd966'>me</span>?"
+    meaning: "What does A do?"
+  - pattern: "A <span style='color:#b0b0b0'>Bù</span> <span style='color:#ff6b35'>ZHĪ</span><span style='color:#b0b0b0'>Dào</span>"
+    meaning: "A doesn't know"
+  - pattern: "A <span style='color:#a78bfa'>hěn</span> [adj]"
+    meaning: "A is very [adj]"
 ---
 	
 # Lesson 2: What Do We Do Here?
