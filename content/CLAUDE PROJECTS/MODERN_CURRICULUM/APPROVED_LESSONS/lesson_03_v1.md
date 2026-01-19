@@ -78,17 +78,23 @@ vocab:
 
 ### Question-Answer Pairs
 
-**Question 8.**<br>
-**Q:** <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Huì</span> <span style="color:#ff6b35">SHUŌ</span> <span style="color:#ffd966">*ma*</span>? = Can you speak?<br>
-**A:** <span style="color:#b0b0b0">Huì</span>, <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Huì</span> <span style="color:#ff6b35">SHUŌ</span>. = Yes, I can speak.
+**Question 8.**
 
-**Question 9.**<br>
-**Q:** <span style="color:#a78bfa">nǐ</span> <span style="color:#6edcb8">háI</span> <span style="color:#6edcb8">mánG</span> <span style="color:#ffd966">*ma*</span>? = Are you still busy?<br>
-**A:** <span style="color:#b0b0b0">Duì</span>, <span style="color:#a78bfa">wǒ</span> <span style="color:#6edcb8">háI</span> <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>. = Right, I am still very busy.
+Q: <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Huì</span> <span style="color:#ff6b35">SHUŌ</span> <span style="color:#ffd966">*ma*</span>? = Can you speak?
 
-**Question 10.**<br>
-**Q:** <span style="color:#b0b0b0">Wèn</span><span style="color:#6edcb8">tÍ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>? = What is the question/problem?<br>
-**A:** <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>. = I don't know.
+A: <span style="color:#b0b0b0">Huì</span>, <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Huì</span> <span style="color:#ff6b35">SHUŌ</span>. = Yes, I can speak.
+
+**Question 9.**
+
+Q: <span style="color:#a78bfa">nǐ</span> <span style="color:#6edcb8">háI</span> <span style="color:#6edcb8">mánG</span> <span style="color:#ffd966">*ma*</span>? = Are you still busy?
+
+A: <span style="color:#b0b0b0">Duì</span>, <span style="color:#a78bfa">wǒ</span> <span style="color:#6edcb8">háI</span> <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>. = Right, I am still very busy.
+
+**Question 10.**
+
+Q: <span style="color:#b0b0b0">Wèn</span><span style="color:#6edcb8">tÍ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>? = What is the question/problem?
+
+A: <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>. = I don't know.
 
 ---
 
@@ -434,61 +440,67 @@ Kevin: 這個會……很忙。
 
 ## Listen Again
 
-*Play the dialogue three more times.*
+*Play the dialogue three more times. Listen 1: Just listen. Listen 2: Follow along mentally. Listen 3: Try to anticipate the next word.*
 
 <audio controls style="width: 100%; margin: 1rem 0;">
   <source src="/static/audio/lesson_03.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
-**Listen 1:** Just listen.
-**Listen 2:** Follow along mentally.
-**Listen 3:** Try to anticipate the next word.
-
 ---
+
+<div style="display:none">
 
 ## Answers
 
-<!-- MC answers for parser (Comprehension Check: 5 questions, Pinyin Production: 5 questions, Character Production: 5 questions) -->
 1. A
 2. C
 3. B
 4. B
 5. C
+
 6. B
 7. C
 8. B
 9. B
 10. B
+
 11. B
 12. C
 13. B
 14. B
 15. B
 
-**Typing:**
-- 1: zhè shì huì
-- 2: wǒ hái bù zhīdào
-- 3: tā shuōhuà
-- 4: duì, wǒmen hěn máng
-- 5: wèntí shì shénme
-- 6: 這是會
-- 7: 我還不知道
-- 8: 他說話
-- 9: 對，我們很忙
-- 10: 問題是什麼
+</div>
 
 <details>
 <summary>Click to reveal answers</summary>
 
-**Comprehension Check:** 1-A, 2-C, 3-B, 4-B, 5-C
+### Comprehension Check
+1. A) Zhè Shì Huì
+2. C) wánG zǒng
+3. B) DàJIĀ Dōu Zài SHUŌHuà
+4. B) Bù, TĀ háI Bù ZHĪDào
+5. C) TĀ SHUŌ hǎo WèntÍ!
 
-**Pinyin Production MC:** 1-B, 2-C, 3-B, 4-B, 5-B
+### Pinyin Production
+**MC:** 1-B, 2-C, 3-B, 4-B, 5-B
 
-**Pinyin Typing:** zhè shì huì, wǒ hái bù zhīdào, tā shuōhuà, duì wǒmen hěn máng, wèntí shì shénme
+**Typing:**
+6. zhè shì huì
+7. wǒ hái bù zhīdào
+8. tā shuōhuà
+9. duì, wǒmen hěn máng
+10. wèntí shì shénme
 
-**Character Production MC:** 1-B, 2-C, 3-B, 4-B, 5-B
+### Character Production
+**MC:** 1-B, 2-C, 3-B, 4-B, 5-B
 
-**Character Typing:** 這是會, 我還不知道, 他說話, 對我們很忙, 問題是什麼
+**Typing:**
+6. 這是會
+7. 我還不知道
+8. 他說話
+9. 對，我們很忙
+10. 問題是什麼
 
 </details>
