@@ -85,41 +85,32 @@ vocab:
 
 ### Question-Answer Pairs
 
-**Question 8.**
-**Q:** <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span> <span style="color:#ffd966">*ma*</span>? = Are you a new person?
-**A:** <span style="color:#b0b0b0">Shì</span>, <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>. = Yes, I am a new person.
+Question 8.
+Q: nǐ Shì XĪNréN ma? = Are you a new person?
+A: Shì, wǒ Shì XĪNréN. = Yes, I am a new person.
 
-**Question 9.**
-**Q:** <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">mínG</span><span style="color:#ffd966">*zi*</span>? = What is your name?
-**A:** <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#a78bfa">lǐ</span><span style="color:#b0b0b0">Lì</span>. = I am called Li Li.
+Question 9.
+Q: nǐ Jiào shéNme mínGzi? = What is your name?
+A: wǒ Jiào lǐLì. = I am called Li Li.
 
-**Question 10.**
-**Q:** <span style="color:#ff6b35">TĀ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">shéI</span>? = Who is he?
-**A:** <span style="color:#ff6b35">TĀ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>. = He is Boss Wang.
+Question 10.
+Q: TĀ Shì shéI? = Who is he?
+A: TĀ Shì wánG zǒng. = He is Boss Wang.
 
 ---
 
 ### Pinyin Target Story (click for audio)
 
 1. <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Shì</span> Kevin. = This is Kevin.
-
 2. Kevin <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>. = Kevin is a new person.
-
-3. Lily: "<span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span> <span style="color:#ffd966">*ma*</span>?" = "Hello! Are you the new person?"
-
-4. Kevin: "<span style="color:#b0b0b0">Shì</span>, <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> Kevin." = "Yes, I am the new person. I am called Kevin."
-
-5. Lily: "<span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#a78bfa">lǐ</span><span style="color:#b0b0b0">Lì</span>." = "I am called Li Li."
-
+3. Lily: <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span> <span style="color:#ffd966">*ma*</span>? = Hello! Are you the new person?
+4. Kevin: <span style="color:#b0b0b0">Shì</span>, <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> Kevin. = Yes, I am the new person. I am called Kevin.
+5. Lily: <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#a78bfa">lǐ</span><span style="color:#b0b0b0">Lì</span>. = I am called Li Li.
 6. <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>. = This is Boss Wang.
-
-7. Lily: "<span style="color:#ff6b35">TĀ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>." = "He is Boss Wang."
-
-8. <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>: "<span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">mínG</span><span style="color:#ffd966">*zi*</span>?" = "Hello! What is your name?"
-
-9. Kevin: "<span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> Kevin." = "I am called Kevin."
-
-10. <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>: "Kevin! <span style="color:#a78bfa">hǎo</span>, <span style="color:#a78bfa">hǎo</span>!" = "Kevin! Good, good!"
+7. Lily: <span style="color:#ff6b35">TĀ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>. = He is Boss Wang.
+8. Boss Wang: <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">mínG</span><span style="color:#ffd966">*zi*</span>? = Hello! What is your name?
+9. Kevin: <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> Kevin. = I am called Kevin.
+10. Boss Wang: Kevin! <span style="color:#a78bfa">hǎo</span>, <span style="color:#a78bfa">hǎo</span>! = Kevin! Good, good!
 
 ---
 
@@ -211,14 +202,14 @@ vocab:
 ```zh-cn
 這是 Kevin。
 Kevin 是新人。
-Lily：「你好！你是新人嗎？」
-Kevin：「是，我是新人。我叫 Kevin。」
-Lily：「我叫李麗。」
+Lily: 你好！你是新人嗎？
+Kevin: 是，我是新人。我叫 Kevin。
+Lily: 我叫李麗。
 這是王總。
-Lily：「他是王總。」
-王總：「你好！你叫什麼名字？」
-Kevin：「我叫 Kevin。」
-王總：「Kevin！好，好！」
+Lily: 他是王總。
+Boss Wang: 你好！你叫什麼名字？
+Kevin: 我叫 Kevin。
+Boss Wang: Kevin！好，好！
 ```
 
 ---
@@ -226,24 +217,15 @@ Kevin：「我叫 Kevin。」
 ### With Translation (click for audio)
 
 1. <span style="color:#b0b0b0">這</span><span style="color:#b0b0b0">是</span> Kevin。 = This is Kevin.
-
 2. Kevin <span style="color:#b0b0b0">是</span><span style="color:#ff6b35">新</span><span style="color:#6edcb8">人</span>。 = Kevin is a new person.
-
-3. Lily：「<span style="color:#a78bfa">你</span><span style="color:#a78bfa">好</span>！<span style="color:#a78bfa">你</span><span style="color:#b0b0b0">是</span><span style="color:#ff6b35">新</span><span style="color:#6edcb8">人</span><span style="color:#ffd966">嗎</span>？」 = "Hello! Are you the new person?"
-
-4. Kevin：「<span style="color:#b0b0b0">是</span>，<span style="color:#a78bfa">我</span><span style="color:#b0b0b0">是</span><span style="color:#ff6b35">新</span><span style="color:#6edcb8">人</span>。<span style="color:#a78bfa">我</span><span style="color:#b0b0b0">叫</span> Kevin。」 = "Yes, I am the new person. I am called Kevin."
-
-5. Lily：「<span style="color:#a78bfa">我</span><span style="color:#b0b0b0">叫</span><span style="color:#a78bfa">李</span><span style="color:#b0b0b0">麗</span>。」 = "I am called Li Li."
-
+3. Lily: <span style="color:#a78bfa">你</span><span style="color:#a78bfa">好</span>！<span style="color:#a78bfa">你</span><span style="color:#b0b0b0">是</span><span style="color:#ff6b35">新</span><span style="color:#6edcb8">人</span><span style="color:#ffd966">嗎</span>？ = Hello! Are you the new person?
+4. Kevin: <span style="color:#b0b0b0">是</span>，<span style="color:#a78bfa">我</span><span style="color:#b0b0b0">是</span><span style="color:#ff6b35">新</span><span style="color:#6edcb8">人</span>。<span style="color:#a78bfa">我</span><span style="color:#b0b0b0">叫</span> Kevin。 = Yes, I am the new person. I am called Kevin.
+5. Lily: <span style="color:#a78bfa">我</span><span style="color:#b0b0b0">叫</span><span style="color:#a78bfa">李</span><span style="color:#b0b0b0">麗</span>。 = I am called Li Li.
 6. <span style="color:#b0b0b0">這</span><span style="color:#b0b0b0">是</span><span style="color:#6edcb8">王</span><span style="color:#a78bfa">總</span>。 = This is Boss Wang.
-
-7. Lily：「<span style="color:#ff6b35">他</span><span style="color:#b0b0b0">是</span><span style="color:#6edcb8">王</span><span style="color:#a78bfa">總</span>。」 = "He is Boss Wang."
-
-8. <span style="color:#6edcb8">王</span><span style="color:#a78bfa">總</span>：「<span style="color:#a78bfa">你</span><span style="color:#a78bfa">好</span>！<span style="color:#a78bfa">你</span><span style="color:#b0b0b0">叫</span><span style="color:#6edcb8">什</span><span style="color:#ffd966">麼</span><span style="color:#6edcb8">名</span><span style="color:#ffd966">字</span>？」 = "Hello! What is your name?"
-
-9. Kevin：「<span style="color:#a78bfa">我</span><span style="color:#b0b0b0">叫</span> Kevin。」 = "I am called Kevin."
-
-10. <span style="color:#6edcb8">王</span><span style="color:#a78bfa">總</span>：「Kevin！<span style="color:#a78bfa">好</span>，<span style="color:#a78bfa">好</span>！」 = "Kevin! Good, good!"
+7. Lily: <span style="color:#ff6b35">他</span><span style="color:#b0b0b0">是</span><span style="color:#6edcb8">王</span><span style="color:#a78bfa">總</span>。 = He is Boss Wang.
+8. Boss Wang: <span style="color:#a78bfa">你</span><span style="color:#a78bfa">好</span>！<span style="color:#a78bfa">你</span><span style="color:#b0b0b0">叫</span><span style="color:#6edcb8">什</span><span style="color:#ffd966">麼</span><span style="color:#6edcb8">名</span><span style="color:#ffd966">字</span>？ = Hello! What is your name?
+9. Kevin: <span style="color:#a78bfa">我</span><span style="color:#b0b0b0">叫</span> Kevin。 = I am called Kevin.
+10. Boss Wang: Kevin！<span style="color:#a78bfa">好</span>，<span style="color:#a78bfa">好</span>！ = Kevin! Good, good!
 
 ## Character Production
 
@@ -312,28 +294,33 @@ Kevin：「我叫 Kevin。」
 
 ## Answers
 
-<details>
-<summary>Click to reveal answers</summary>
-
-### Comprehension Check
+<!-- Comprehension Check answers for parser -->
 1. A
 2. B
 3. C
 4. B
 5. C
 
-### Pinyin Production
-**MC:** 1-A, 2-B, 3-C, 4-A, 5-B
+<!-- Pinyin Production MC answers for parser -->
+6. A
+7. B
+8. C
+9. A
+10. B
 
 **Typing:**
-- 6: nǐhǎo
-- 7: wǒ shì xīnrén
-- 8: tā shì shéi
-- 9: wǒ de míngzi shì Kevin
-- 10: zhè shì wáng zǒng
+- 1: nǐhǎo
+- 2: wǒ shì xīnrén
+- 3: tā shì shéi
+- 4: wǒ de míngzi shì Kevin
+- 5: zhè shì wáng zǒng
 
-### Character Production
-**MC:** 1-A, 2-B, 3-C, 4-A, 5-B
+<!-- Character Production MC answers for parser -->
+11. A
+12. B
+13. C
+14. A
+15. B
 
 **Typing:**
 - 6: 你好
@@ -341,5 +328,35 @@ Kevin：「我叫 Kevin。」
 - 8: 他是誰
 - 9: 我的名字是 Kevin
 - 10: 這是王總
+
+<details>
+<summary>Click to reveal answers</summary>
+
+### Comprehension Check
+1. A) Kevin Shì XĪNréN
+2. B) TĀ Jiào lǐLì
+3. C) wánG zǒng
+4. B) Bù Shì, TĀ Bù Shì XĪNréN
+5. C) Lily
+
+### Pinyin Production
+**MC:** 1-A, 2-B, 3-C, 4-A, 5-B
+
+**Typing:**
+6. nǐhǎo
+7. wǒ shì xīnrén
+8. tā shì shéi
+9. wǒ de míngzi shì Kevin
+10. zhè shì wáng zǒng
+
+### Character Production
+**MC:** 1-A, 2-B, 3-C, 4-A, 5-B
+
+**Typing:**
+6. 你好
+7. 我是新人
+8. 他是誰
+9. 我的名字是 Kevin
+10. 這是王總
 
 </details>
