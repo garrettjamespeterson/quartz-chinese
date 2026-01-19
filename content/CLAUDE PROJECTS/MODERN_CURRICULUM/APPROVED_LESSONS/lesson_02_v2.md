@@ -287,16 +287,12 @@ Boss Wang: 好，好！
 
 ## Listen Again
 
-*Play the dialogue three more times.*
+*Play the dialogue three more times. Listen 1: Just listen. Listen 2: Follow along mentally. Listen 3: Try to anticipate the next word.*
 
 <audio controls style="width: 100%; margin: 1rem 0;">
   <source src="/static/audio/lesson_02.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-
-**Listen 1:** Just listen.
-**Listen 2:** Follow along mentally.
-**Listen 3:** Try to anticipate the next word.
 
 ---
 
