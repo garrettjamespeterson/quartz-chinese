@@ -23,6 +23,18 @@ export const sharedPageComponents: SharedLayout = {
     }),
   ],
   afterBody: [
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "garrettjamespeterson/Colleagues",
+        repoId: "R_kgDOQ51alQ",
+        category: "General",
+        categoryId: "DIC_kwDOQ51alc4CQ9HU",
+        mapping: "pathname",
+        reactionsEnabled: true,
+        inputPosition: "bottom",
+      },
+    }),
     Component.ChineseSettings(),
     Component.AudioPlayer(),
   ],
