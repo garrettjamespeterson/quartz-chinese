@@ -18,16 +18,16 @@ lesson: 11
   <source src="/static/audio/lesson_01.mp3" type="audio/mpeg">
 </audio>
 
-1. <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Shì</span> Kevin.
-2. Kevin <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>.
-3. <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span> <span style="color:#ffd966">*ma*</span>?
-4. <span style="color:#b0b0b0">Shì</span>, <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> Kevin.
-5. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#a78bfa">lǐ</span><span style="color:#b0b0b0">Lì</span>.
-6. <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>.
-7. <span style="color:#ff6b35">TĀ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>.
-8. <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">mínG</span><span style="color:#ffd966">*zi*</span>?
-9. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> Kevin.
-10. Kevin! <span style="color:#a78bfa">hǎo</span>, <span style="color:#a78bfa">hǎo</span>!
+1. <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Shì</span> Kevin. = This is Kevin.
+2. Kevin <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>. = Kevin is a new person.
+3. <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span> <span style="color:#ffd966">*ma*</span>? = Hello! Are you the new person?
+4. <span style="color:#b0b0b0">Shì</span>, <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> Kevin. = Yes, I am the new person. I am called Kevin.
+5. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#a78bfa">lǐ</span><span style="color:#b0b0b0">Lì</span>. = I am called Li Li.
+6. <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>. = This is Boss Wang.
+7. <span style="color:#ff6b35">TĀ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>. = He is Boss Wang.
+8. <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">mínG</span><span style="color:#ffd966">*zi*</span>? = Hello! What is your name?
+9. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> Kevin. = I am called Kevin.
+10. Kevin! <span style="color:#a78bfa">hǎo</span>, <span style="color:#a78bfa">hǎo</span>! = Kevin! Good, good!
 
 ## Pinyin Comprehension Check
 
@@ -54,6 +54,10 @@ lesson: 11
 - C) <span style="color:#ff6b35">TĀ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">shéI</span>
 
 ## Character Reader
+
+<audio controls style="width: 100%; margin: 1rem 0;">
+  <source src="/static/audio/lesson_01.mp3" type="audio/mpeg">
+</audio>
 
 ```zh-cn
 這是 Kevin。Kevin 是新人。
@@ -96,16 +100,16 @@ Kevin！好，好！
   <source src="/static/audio/lesson_02.mp3" type="audio/mpeg">
 </audio>
 
-1. Kevin <span style="color:#b0b0b0">ZÀI</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span>.
-2. <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Gè</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
-3. <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>? <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>?
-4. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span>... <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>.
-5. <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">men</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
-6. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>.
-7. <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>!
-8. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>! <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>!
-9. <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
-10. <span style="color:#a78bfa">hǎo</span>, <span style="color:#a78bfa">hǎo</span>!
+1. Kevin <span style="color:#b0b0b0">ZÀI</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span>. = Kevin is at the company.
+2. <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Gè</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>? = What does this company do?
+3. <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>? <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>? = Work? What work do we do?
+4. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span>... <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>. = We... work.
+5. <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">men</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>? = What do you all do?
+6. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>. = I don't know.
+7. <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! = Hello! Hello!
+8. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>! <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>! = We're very busy! Very busy!
+9. <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>? = What does the company do?
+10. <span style="color:#a78bfa">hǎo</span>, <span style="color:#a78bfa">hǎo</span>! = Good, good!
 
 ## Pinyin Comprehension Check
 
@@ -132,6 +136,10 @@ Kevin！好，好！
 - C) <span style="color:#ff6b35">TĀ</span><span style="color:#ffd966">*men*</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>
 
 ## Character Reader
+
+<audio controls style="width: 100%; margin: 1rem 0;">
+  <source src="/static/audio/lesson_02.mp3" type="audio/mpeg">
+</audio>
 
 ```zh-cn
 Kevin 在公司。
@@ -176,16 +184,16 @@ Kevin 在公司。
   <source src="/static/audio/lesson_03.mp3" type="audio/mpeg">
 </audio>
 
-1. Kevin <span style="color:#b0b0b0">ZÀI</span> <span style="color:#b0b0b0">Huì</span>.
-2. <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#a78bfa">hǎo</span>! <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#a78bfa">hǎo</span>!
-3. <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#ff6b35">SHUŌ</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
-4. <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#ff6b35">DŌU</span> <span style="color:#b0b0b0">ZÀI</span> <span style="color:#ff6b35">SHUŌ</span><span style="color:#b0b0b0">Huà</span>.
-5. <span style="color:#a78bfa">nǐ</span> <span style="color:#ff6b35">TĪNG</span>.
-6. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>. <span style="color:#a78bfa">wǒ</span> <span style="color:#6edcb8">háI</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>.
-7. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#a78bfa">yǒu</span> <span style="color:#b0b0b0">Wèn</span><span style="color:#6edcb8">tÍ</span> <span style="color:#ffd966">*ma*</span>? <span style="color:#6edcb8">méI</span><span style="color:#a78bfa">yǒu</span>!
-8. <span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">hǎo</span>!
-9. <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Gè</span> <span style="color:#b0b0b0">Huì</span>... <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>.
-10. <span style="color:#b0b0b0">Duì</span>.
+1. Kevin <span style="color:#b0b0b0">ZÀI</span> <span style="color:#b0b0b0">Huì</span>. = Kevin is at the meeting.
+2. <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#a78bfa">hǎo</span>! <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#a78bfa">hǎo</span>! = Hello everyone! Hello everyone!
+3. <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#ff6b35">SHUŌ</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>? = What is everyone saying?
+4. <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#ff6b35">DŌU</span> <span style="color:#b0b0b0">ZÀI</span> <span style="color:#ff6b35">SHUŌ</span><span style="color:#b0b0b0">Huà</span>. = Everyone is talking.
+5. <span style="color:#a78bfa">nǐ</span> <span style="color:#ff6b35">TĪNG</span>. = You listen.
+6. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>. <span style="color:#a78bfa">wǒ</span> <span style="color:#6edcb8">háI</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>. = I don't know. I still don't know.
+7. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#a78bfa">yǒu</span> <span style="color:#b0b0b0">Wèn</span><span style="color:#6edcb8">tÍ</span> <span style="color:#ffd966">*ma*</span>? <span style="color:#6edcb8">méI</span><span style="color:#a78bfa">yǒu</span>! = Do we have problems? No!
+8. <span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">hǎo</span>! = Good! Very good!
+9. <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Gè</span> <span style="color:#b0b0b0">Huì</span>... <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>. = This meeting... is very busy.
+10. <span style="color:#b0b0b0">Duì</span>. = Correct.
 
 ## Pinyin Comprehension Check
 
@@ -212,6 +220,10 @@ Kevin 在公司。
 - C) <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">yě</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>
 
 ## Character Reader
+
+<audio controls style="width: 100%; margin: 1rem 0;">
+  <source src="/static/audio/lesson_03.mp3" type="audio/mpeg">
+</audio>
 
 ```zh-cn
 Kevin 在會。
@@ -256,16 +268,16 @@ Kevin 在會。
   <source src="/static/audio/lesson_04.mp3" type="audio/mpeg">
 </audio>
 
-1. Kevin <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">CHĪ</span> <span style="color:#b0b0b0">Fàn</span>.
-2. <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">CHĪ</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
-3. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">CHĪ</span> <span style="color:#b0b0b0">Fàn</span>.
-4. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">CHĪ</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
-5. <span style="color:#a78bfa">wǒ</span> <span style="color:#ff6b35">HĒ</span> <span style="color:#6edcb8">chÁ</span>.
-6. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Yào</span> <span style="color:#ff6b35">HĒ</span> <span style="color:#a78bfa">shuǐ</span>.
-7. <span style="color:#ff6b35">CHĪ</span> <span style="color:#b0b0b0">Fàn</span>! <span style="color:#ff6b35">CHĪ</span> <span style="color:#b0b0b0">Fàn</span>!
-8. <span style="color:#a78bfa">hǎo</span><span style="color:#ff6b35">CHĪ</span> <span style="color:#ffd966">*ma*</span>?
-9. <span style="color:#a78bfa">hǎo</span><span style="color:#ff6b35">CHĪ</span>! <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">hǎo</span><span style="color:#ff6b35">CHĪ</span>!
-10. <span style="color:#ff6b35">CHĪ</span>! <span style="color:#ff6b35">CHĪ</span>!
+1. Kevin <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">CHĪ</span> <span style="color:#b0b0b0">Fàn</span>. = Kevin wants to eat.
+2. <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">CHĪ</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>? = Hello! What do you want to eat?
+3. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">CHĪ</span> <span style="color:#b0b0b0">Fàn</span>. = I want to eat food.
+4. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">CHĪ</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>? = What do you want to eat?
+5. <span style="color:#a78bfa">wǒ</span> <span style="color:#ff6b35">HĒ</span> <span style="color:#6edcb8">chÁ</span>. = I drink tea.
+6. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Yào</span> <span style="color:#ff6b35">HĒ</span> <span style="color:#a78bfa">shuǐ</span>. = I want to drink water.
+7. <span style="color:#ff6b35">CHĪ</span> <span style="color:#b0b0b0">Fàn</span>! <span style="color:#ff6b35">CHĪ</span> <span style="color:#b0b0b0">Fàn</span>! = Eat! Eat!
+8. <span style="color:#a78bfa">hǎo</span><span style="color:#ff6b35">CHĪ</span> <span style="color:#ffd966">*ma*</span>? = Is it delicious?
+9. <span style="color:#a78bfa">hǎo</span><span style="color:#ff6b35">CHĪ</span>! <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">hǎo</span><span style="color:#ff6b35">CHĪ</span>! = Delicious! Very delicious!
+10. <span style="color:#ff6b35">CHĪ</span>! <span style="color:#ff6b35">CHĪ</span>! = Eat! Eat!
 
 ## Pinyin Comprehension Check
 
@@ -292,6 +304,10 @@ Kevin 在會。
 - C) <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">hǎo</span>
 
 ## Character Reader
+
+<audio controls style="width: 100%; margin: 1rem 0;">
+  <source src="/static/audio/lesson_04.mp3" type="audio/mpeg">
+</audio>
 
 ```zh-cn
 Kevin 想吃飯。
@@ -336,16 +352,16 @@ Kevin 想吃飯。
   <source src="/static/audio/lesson_05.mp3" type="audio/mpeg">
 </audio>
 
-1. Kevin <span style="color:#b0b0b0">Rèn</span><span style="color:#ffd966">*shi*</span> <span style="color:#ff6b35">TĀ</span><span style="color:#ffd966">*men*</span>.
-2. <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Rèn</span><span style="color:#ffd966">*shi*</span> <span style="color:#ff6b35">TĀ</span> <span style="color:#ffd966">*ma*</span>?
-3. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Rèn</span><span style="color:#ffd966">*shi*</span> <span style="color:#ff6b35">TĀ</span>.
-4. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">xǐ</span><span style="color:#ff6b35">HUĀN</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
-5. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">xǐ</span><span style="color:#ff6b35">HUĀN</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>.
-6. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">yě</span> <span style="color:#a78bfa">xǐ</span><span style="color:#ff6b35">HUĀN</span>!
-7. <span style="color:#ff6b35">TĀ</span><span style="color:#ffd966">*men*</span> <span style="color:#ff6b35">DŌU</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">tónG</span><span style="color:#6edcb8">xuÉ</span>.
-8. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#ff6b35">DŌU</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">pénG</span><span style="color:#ffd966">*you*</span>!
-9. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Ài</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span>!
-10. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#ff6b35">DŌU</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">pénG</span><span style="color:#ffd966">*you*</span>.
+1. Kevin <span style="color:#b0b0b0">Rèn</span><span style="color:#ffd966">*shi*</span> <span style="color:#ff6b35">TĀ</span><span style="color:#ffd966">*men*</span>. = Kevin knows them.
+2. <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Rèn</span><span style="color:#ffd966">*shi*</span> <span style="color:#ff6b35">TĀ</span> <span style="color:#ffd966">*ma*</span>? = Do you know him?
+3. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Rèn</span><span style="color:#ffd966">*shi*</span> <span style="color:#ff6b35">TĀ</span>. = I know him.
+4. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">xǐ</span><span style="color:#ff6b35">HUĀN</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>? = What do you like?
+5. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">xǐ</span><span style="color:#ff6b35">HUĀN</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>. = I like work.
+6. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">yě</span> <span style="color:#a78bfa">xǐ</span><span style="color:#ff6b35">HUĀN</span>! = I also like it!
+7. <span style="color:#ff6b35">TĀ</span><span style="color:#ffd966">*men*</span> <span style="color:#ff6b35">DŌU</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">tónG</span><span style="color:#6edcb8">xuÉ</span>. = They are all classmates.
+8. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#ff6b35">DŌU</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">pénG</span><span style="color:#ffd966">*you*</span>! = We are all friends!
+9. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Ài</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span>! = I love the company!
+10. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#ff6b35">DŌU</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">pénG</span><span style="color:#ffd966">*you*</span>. = We are all friends.
 
 ## Pinyin Comprehension Check
 
@@ -372,6 +388,10 @@ Kevin 想吃飯。
 - C) <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span>
 
 ## Character Reader
+
+<audio controls style="width: 100%; margin: 1rem 0;">
+  <source src="/static/audio/lesson_05.mp3" type="audio/mpeg">
+</audio>
 
 ```zh-cn
 Kevin 認識他們。
@@ -416,16 +436,16 @@ Kevin 認識他們。
   <source src="/static/audio/lesson_06.mp3" type="audio/mpeg">
 </audio>
 
-1. Kevin <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>.
-2. <span style="color:#a78bfa">nǐ</span> <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#ffd966">*ma*</span>?
-3. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">zěn</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>?
-4. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Zuò</span><span style="color:#ff6b35">CHĒ</span> <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>.
-5. <span style="color:#a78bfa">nǐ</span> <span style="color:#6edcb8">láI</span> <span style="color:#ffd966">*ma*</span>?
-6. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Zuò</span><span style="color:#ff6b35">CHĒ</span>.
-7. <span style="color:#a78bfa">nǐ</span> <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#ffd966">*ma*</span>? <span style="color:#a78bfa">hǎo</span>!
-8. <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#6edcb8">láI</span>! <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#6edcb8">láI</span>!
-9. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">zǒu</span><span style="color:#b0b0b0">Lù</span>.
-10. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">zǒu</span><span style="color:#b0b0b0">Lù</span> <span style="color:#ffd966">*ma*</span>?
+1. Kevin <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>. = Kevin goes home.
+2. <span style="color:#a78bfa">nǐ</span> <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#ffd966">*ma*</span>? = Are you going home?
+3. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">zěn</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>? = How do you go home?
+4. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Zuò</span><span style="color:#ff6b35">CHĒ</span> <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>. = I take a car home.
+5. <span style="color:#a78bfa">nǐ</span> <span style="color:#6edcb8">láI</span> <span style="color:#ffd966">*ma*</span>? = Are you coming?
+6. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Zuò</span><span style="color:#ff6b35">CHĒ</span>. = I take a car.
+7. <span style="color:#a78bfa">nǐ</span> <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#ffd966">*ma*</span>? <span style="color:#a78bfa">hǎo</span>! = Going home? Good!
+8. <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#6edcb8">láI</span>! <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#6edcb8">láI</span>! = Come tomorrow! Come tomorrow!
+9. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">zǒu</span><span style="color:#b0b0b0">Lù</span>. = I walk.
+10. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">zǒu</span><span style="color:#b0b0b0">Lù</span> <span style="color:#ffd966">*ma*</span>? = Do you walk?
 
 ## Pinyin Comprehension Check
 
@@ -452,6 +472,10 @@ Kevin 認識他們。
 - C) <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>
 
 ## Character Reader
+
+<audio controls style="width: 100%; margin: 1rem 0;">
+  <source src="/static/audio/lesson_06.mp3" type="audio/mpeg">
+</audio>
 
 ```zh-cn
 Kevin 回家。
@@ -496,16 +520,16 @@ Kevin 回家。
   <source src="/static/audio/lesson_07.mp3" type="audio/mpeg">
 </audio>
 
-1. <span style="color:#a78bfa">zǎo</span><span style="color:#ffd966">*shang*</span>, Kevin <span style="color:#a78bfa">qǐ</span><span style="color:#6edcb8">chuánG</span>.
-2. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">zǎo</span><span style="color:#ffd966">*shang*</span> <span style="color:#a78bfa">jǐ</span> <span style="color:#a78bfa">diǎn</span> <span style="color:#a78bfa">qǐ</span><span style="color:#6edcb8">chuánG</span>?
-3. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">zǎo</span><span style="color:#ffd966">*shang*</span> <span style="color:#b0b0b0">Liù</span> <span style="color:#a78bfa">diǎn</span> <span style="color:#a78bfa">qǐ</span><span style="color:#6edcb8">chuánG</span>.
-4. <span style="color:#b0b0b0">Xiàn</span><span style="color:#b0b0b0">ZÀI</span> <span style="color:#ff6b35">BĀ</span> <span style="color:#a78bfa">diǎn</span>.
-5. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">wǎn</span>.
-6. <span style="color:#b0b0b0">Xiàn</span><span style="color:#b0b0b0">ZÀI</span> <span style="color:#a78bfa">jǐ</span> <span style="color:#a78bfa">diǎn</span>?
-7. <span style="color:#b0b0b0">Xiàn</span><span style="color:#b0b0b0">ZÀI</span> <span style="color:#a78bfa">jǐ</span> <span style="color:#a78bfa">diǎn</span>? <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>!
-8. <span style="color:#b0b0b0">Bù</span><span style="color:#b0b0b0">Yào</span> <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>!
-9. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">zǎo</span> <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>.
-10. <span style="color:#b0b0b0">Yào</span> <span style="color:#a78bfa">zǎo</span> <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>!
+1. <span style="color:#a78bfa">zǎo</span><span style="color:#ffd966">*shang*</span>, Kevin <span style="color:#a78bfa">qǐ</span><span style="color:#6edcb8">chuánG</span>. = In the morning, Kevin wakes up.
+2. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">zǎo</span><span style="color:#ffd966">*shang*</span> <span style="color:#a78bfa">jǐ</span> <span style="color:#a78bfa">diǎn</span> <span style="color:#a78bfa">qǐ</span><span style="color:#6edcb8">chuánG</span>? = What time do you wake up in the morning?
+3. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">zǎo</span><span style="color:#ffd966">*shang*</span> <span style="color:#b0b0b0">Liù</span> <span style="color:#a78bfa">diǎn</span> <span style="color:#a78bfa">qǐ</span><span style="color:#6edcb8">chuánG</span>. = I wake up at 6 o'clock in the morning.
+4. <span style="color:#b0b0b0">Xiàn</span><span style="color:#b0b0b0">ZÀI</span> <span style="color:#ff6b35">BĀ</span> <span style="color:#a78bfa">diǎn</span>. = It's 8 o'clock now.
+5. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">wǎn</span>. = You're late.
+6. <span style="color:#b0b0b0">Xiàn</span><span style="color:#b0b0b0">ZÀI</span> <span style="color:#a78bfa">jǐ</span> <span style="color:#a78bfa">diǎn</span>? = What time is it now?
+7. <span style="color:#b0b0b0">Xiàn</span><span style="color:#b0b0b0">ZÀI</span> <span style="color:#a78bfa">jǐ</span> <span style="color:#a78bfa">diǎn</span>? <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>! = What time is it? Work!
+8. <span style="color:#b0b0b0">Bù</span><span style="color:#b0b0b0">Yào</span> <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>! = Don't sleep!
+9. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">zǎo</span> <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>. = I sleep very early.
+10. <span style="color:#b0b0b0">Yào</span> <span style="color:#a78bfa">zǎo</span> <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>! = Sleep early!
 
 ## Pinyin Comprehension Check
 
@@ -532,6 +556,10 @@ Kevin 回家。
 - C) <span style="color:#b0b0b0">Bù</span> <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>
 
 ## Character Reader
+
+<audio controls style="width: 100%; margin: 1rem 0;">
+  <source src="/static/audio/lesson_07.mp3" type="audio/mpeg">
+</audio>
 
 ```zh-cn
 早上，Kevin 起床。
@@ -576,16 +604,16 @@ Kevin 回家。
   <source src="/static/audio/lesson_08.mp3" type="audio/mpeg">
 </audio>
 
-1. <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span><span style="color:#ff6b35">YĪ</span>.
-2. <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span> <span style="color:#a78bfa">jǐ</span>?
-3. <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span> <span style="color:#a78bfa">jǐ</span>?
-4. <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span><span style="color:#ff6b35">YĪ</span>.
-5. <span style="color:#a78bfa">wǒ</span> <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#b0b0b0">Shàng</span><span style="color:#ff6b35">BĀN</span>.
-6. <span style="color:#a78bfa">wǒ</span> <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Shàng</span><span style="color:#ff6b35">BĀN</span>.
-7. <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>! <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#a78bfa">yě</span> <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>!
-8. <span style="color:#ff6b35">TIĀN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Shàng</span><span style="color:#ff6b35">BĀN</span>!
-9. <span style="color:#6edcb8">zuó</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>.
-10. <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Jiàn</span>!
+1. <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span><span style="color:#ff6b35">YĪ</span>. = Today is Monday.
+2. <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span> <span style="color:#a78bfa">jǐ</span>? = What day is today?
+3. <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span> <span style="color:#a78bfa">jǐ</span>? = What day is today?
+4. <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span><span style="color:#ff6b35">YĪ</span>. = Today is Monday.
+5. <span style="color:#a78bfa">wǒ</span> <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#b0b0b0">Shàng</span><span style="color:#ff6b35">BĀN</span>. = I don't go to work tomorrow.
+6. <span style="color:#a78bfa">wǒ</span> <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Shàng</span><span style="color:#ff6b35">BĀN</span>. = I go to work tomorrow.
+7. <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>! <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#a78bfa">yě</span> <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>! = Today is busy! Tomorrow is also busy!
+8. <span style="color:#ff6b35">TIĀN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Shàng</span><span style="color:#ff6b35">BĀN</span>! = Work every day!
+9. <span style="color:#6edcb8">zuó</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>. = Yesterday I was very busy.
+10. <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Jiàn</span>! = See you tomorrow!
 
 ## Pinyin Comprehension Check
 
@@ -612,6 +640,10 @@ Kevin 回家。
 - C) <span style="color:#6edcb8">zuó</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Jiàn</span>
 
 ## Character Reader
+
+<audio controls style="width: 100%; margin: 1rem 0;">
+  <source src="/static/audio/lesson_08.mp3" type="audio/mpeg">
+</audio>
 
 ```zh-cn
 今天是星期一。
@@ -656,16 +688,16 @@ Kevin 回家。
   <source src="/static/audio/lesson_09.mp3" type="audio/mpeg">
 </audio>
 
-1. Kevin <span style="color:#ffd966">*de*</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#b0b0b0">Huà</span>.
-2. <span style="color:#a78bfa">nǐ</span> <span style="color:#ffd966">*de*</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#b0b0b0">Huà</span>!
-3. <span style="color:#b0b0b0">Wèi</span>?
-4. <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span> <span style="color:#a78bfa">dǎ</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#b0b0b0">Huà</span>.
-5. <span style="color:#a78bfa">nǐ</span> <span style="color:#ffd966">*de*</span> <span style="color:#a78bfa">shǒu</span><span style="color:#ff6b35">JĪ</span>.
-6. <span style="color:#a78bfa">hǎo</span>, <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">děng</span>.
-7. <span style="color:#b0b0b0">Wèi</span>! Kevin!
-8. <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">ZÀI</span> <span style="color:#a78bfa">nǎr</span>? <span style="color:#6edcb8">láI</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span>!
-9. <span style="color:#b0b0b0">Bù</span><span style="color:#b0b0b0">Yào</span> <span style="color:#a78bfa">děng</span>!
-10. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Wèn</span> <span style="color:#ff6b35">TĀ</span>.
+1. Kevin <span style="color:#ffd966">*de*</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#b0b0b0">Huà</span>. = Kevin's phone.
+2. <span style="color:#a78bfa">nǐ</span> <span style="color:#ffd966">*de*</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#b0b0b0">Huà</span>! = Your phone!
+3. <span style="color:#b0b0b0">Wèi</span>? = Hello?
+4. <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span> <span style="color:#a78bfa">dǎ</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#b0b0b0">Huà</span>. = Boss Wang is calling.
+5. <span style="color:#a78bfa">nǐ</span> <span style="color:#ffd966">*de*</span> <span style="color:#a78bfa">shǒu</span><span style="color:#ff6b35">JĪ</span>. = Your cell phone.
+6. <span style="color:#a78bfa">hǎo</span>, <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">děng</span>. = OK, I'll wait.
+7. <span style="color:#b0b0b0">Wèi</span>! Kevin! = Hello! Kevin!
+8. <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">ZÀI</span> <span style="color:#a78bfa">nǎr</span>? <span style="color:#6edcb8">láI</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span>! = Where are you? Come to the company!
+9. <span style="color:#b0b0b0">Bù</span><span style="color:#b0b0b0">Yào</span> <span style="color:#a78bfa">děng</span>! = Don't wait!
+10. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Wèn</span> <span style="color:#ff6b35">TĀ</span>. = I'll ask him.
 
 ## Pinyin Comprehension Check
 
@@ -692,6 +724,10 @@ Kevin 回家。
 - C) <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Qù</span> <span style="color:#a78bfa">nǎr</span>
 
 ## Character Reader
+
+<audio controls style="width: 100%; margin: 1rem 0;">
+  <source src="/static/audio/lesson_09.mp3" type="audio/mpeg">
+</audio>
 
 ```zh-cn
 Kevin 的電話。
@@ -736,16 +772,16 @@ Kevin 的電話。
   <source src="/static/audio/lesson_10.mp3" type="audio/mpeg">
 </audio>
 
-1. <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span><span style="color:#a78bfa">wǔ</span>!
-2. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
-3. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#b0b0b0">Kàn</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#a78bfa">yǐng</span>.
-4. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">XIŪ</span><span style="color:#ff6b35">XI</span>.
-5. <span style="color:#6edcb8">wán</span>? <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">wán</span>? <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>!
-6. <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Yào</span> <span style="color:#ff6b35">XIŪ</span><span style="color:#ff6b35">XI</span>!
-7. <span style="color:#ff6b35">XIŪ</span><span style="color:#ff6b35">XI</span>? <span style="color:#a78bfa">hǎo</span>, <span style="color:#a78bfa">hǎo</span>, <span style="color:#ff6b35">XIŪ</span><span style="color:#ff6b35">XI</span>.
-8. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#b0b0b0">Qù</span> <span style="color:#a78bfa">nǎr</span>?
-9. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#b0b0b0">Qù</span> <span style="color:#b0b0b0">Nàr</span>.
-10. <span style="color:#b0b0b0">Qù</span> <span style="color:#6edcb8">wán</span>!
+1. <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span><span style="color:#a78bfa">wǔ</span>! = Friday!
+2. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>? = What do you want to do?
+3. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#b0b0b0">Kàn</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#a78bfa">yǐng</span>. = I want to watch a movie.
+4. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">XIŪ</span><span style="color:#ff6b35">XI</span>. = I want to rest.
+5. <span style="color:#6edcb8">wán</span>? <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">wán</span>? <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>! = Play? What play? Work!
+6. <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Yào</span> <span style="color:#ff6b35">XIŪ</span><span style="color:#ff6b35">XI</span>! = You need to rest!
+7. <span style="color:#ff6b35">XIŪ</span><span style="color:#ff6b35">XI</span>? <span style="color:#a78bfa">hǎo</span>, <span style="color:#a78bfa">hǎo</span>, <span style="color:#ff6b35">XIŪ</span><span style="color:#ff6b35">XI</span>. = Rest? OK, OK, rest.
+8. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#b0b0b0">Qù</span> <span style="color:#a78bfa">nǎr</span>? = Where are we going?
+9. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#b0b0b0">Qù</span> <span style="color:#b0b0b0">Nàr</span>. = We go there.
+10. <span style="color:#b0b0b0">Qù</span> <span style="color:#6edcb8">wán</span>! = Go play!
 
 ## Pinyin Comprehension Check
 
@@ -772,6 +808,10 @@ Kevin 的電話。
 - C) <span style="color:#6edcb8">láI</span> <span style="color:#6edcb8">wán</span>
 
 ## Character Reader
+
+<audio controls style="width: 100%; margin: 1rem 0;">
+  <source src="/static/audio/lesson_10.mp3" type="audio/mpeg">
+</audio>
 
 ```zh-cn
 星期五！
@@ -808,6 +848,134 @@ Kevin 的電話。
 
 ---
 
+# Cumulative Story: Lessons 1-10
+
+```zh-cn
+這是 Kevin。Kevin 是新人。
+你好！你是新人嗎？
+是，我是新人。我叫 Kevin。
+我叫李麗。這是王總。他是王總。
+你好！你叫什麼名字？
+我叫 Kevin。
+Kevin！好，好！
+
+Kevin 在公司。這個公司做什麼？
+工作？我們做什麼工作？
+我們……工作。
+你們做什麼？
+我不知道。
+你好！你好！
+我們很忙！很忙！
+公司做什麼？
+好，好！
+
+Kevin 在會。
+大家好！大家好！
+大家說什麼？
+大家都在說話。
+你聽。
+我不知道。我還不知道。
+我們有問題嗎？沒有！
+好！很好！
+這個會……很忙。
+對。
+
+Kevin 想吃飯。
+你好！你想吃什麼？
+我想吃飯。
+你想吃什麼？
+我喝茶。
+我要喝水。
+吃飯！吃飯！
+好吃嗎？
+好吃！很好吃！
+吃！吃！
+
+Kevin 認識他們。
+你認識他嗎？
+我認識他。
+你喜歡什麼？
+我喜歡工作。
+我也喜歡！
+他們都是同學。
+我們都是朋友！
+我愛公司！
+我們都是朋友。
+
+Kevin 回家。
+你回家嗎？
+你怎麼回家？
+我坐車回家。
+你來嗎？
+我坐車。
+你回家嗎？好！
+明天來！明天來！
+我走路。
+你走路嗎？
+
+早上，Kevin 起床。
+你早上幾點起床？
+我早上六點起床。
+現在八點。
+你很晚。
+現在幾點？
+現在幾點？工作！
+不要睡覺！
+我很早睡覺。
+要早睡覺！
+
+今天是星期一。
+今天星期幾？
+今天星期幾？
+今天星期一。
+我明天不上班。
+我明天上班。
+今天很忙！明天也很忙！
+天天上班！
+昨天我很忙。
+明天見！
+
+Kevin 的電話。
+你的電話！
+喂？
+王總打電話。
+你的手機。
+好，我等。
+喂！Kevin！
+你在哪兒？來公司！
+不要等！
+我問他。
+
+星期五！
+你想做什麼？
+我想看電影。
+我想休息。
+玩？什麼玩？工作！
+你要休息！
+休息？好，好，休息。
+我們去哪兒？
+我們去那兒。
+去玩！
+```
+
+---
+
+## Recall the Story
+
+*Write a brief paragraph describing what you can remember from memory about the story. Use pinyin (don't worry about tones) or characters. Let me know if you need help with the keyboard setup.*
+
+→ _______________________________________________________________
+
+→ _______________________________________________________________
+
+→ _______________________________________________________________
+
+→ _______________________________________________________________
+
+→ _______________________________________________________________
+
+---
+
 ## Navigation
 
 <div style="display: flex; justify-content: space-between; margin: 2rem 0;">
@@ -829,8 +997,8 @@ Kevin 的電話。
 5. A
 6. B
 
-7. A
-8. B
+7. B
+8. A
 9. B
 10. A
 11. A
