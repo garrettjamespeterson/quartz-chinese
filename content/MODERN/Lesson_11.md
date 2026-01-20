@@ -964,15 +964,7 @@ Kevin 的電話。
 
 *Write a brief paragraph describing what you can remember from memory about the story. Use pinyin (don't worry about tones) or characters. Let me know if you need help with the keyboard setup.*
 
-→ _______________________________________________________________
-
-→ _______________________________________________________________
-
-→ _______________________________________________________________
-
-→ _______________________________________________________________
-
-→ _______________________________________________________________
+<textarea style="width: 100%; height: 200px; padding: 1rem; font-size: 1rem; border-radius: 8px; border: 1px solid #444; background: #1a1a1a; color: #e0e0e0; resize: vertical;" placeholder="Write what you remember here..."></textarea>
 
 ---
 
