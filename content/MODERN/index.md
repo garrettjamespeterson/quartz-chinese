@@ -1,9 +1,9 @@
 ---
 audience: chinese
-title: "Dragon Tongue: Modern Chinese"
+title: "Modern Chinese"
 ---
 
-## Act 1: The New Guy (Lessons 1-10)
+## Act 1: The New Guy (Lessons 1-11)
 
 Kevin's first week at a mysterious company where nobody knows what they actually do.
 
