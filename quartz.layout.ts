@@ -26,10 +26,10 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: "giscus",
       options: {
-        repo: "garrettjamespeterson/quartz-chinese",
-        repoId: "R_kgDOQ6MNUw",
+        repo: "garrettjamespeterson/colleagues",
+        repoId: "R_kgDOQ51alQ",
         category: "Ideas",
-        categoryId: "DIC_kwDOQ6MNU84C1LeA",
+        categoryId: "DIC_kwDOQ51alc4C09HW",
         mapping: "pathname",
         reactionsEnabled: true,
         inputPosition: "bottom",
