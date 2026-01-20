@@ -26,7 +26,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: "giscus",
       options: {
-        repo: "garrettjamespeterson/colleagues",
+        repo: "garrettjamespeterson/Colleagues",
         repoId: "R_kgDOQ51alQ",
         category: "Ideas",
         categoryId: "DIC_kwDOQ51alc4C09HW",

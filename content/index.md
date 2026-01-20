@@ -12,7 +12,7 @@ title: Mugwort & Milfoil — Learn Chinese Through Story
 
 Most language apps drill vocabulary in isolation. You memorize words, forget them, and feel stuck.
 
-This curriculum takes a different approach — inspired by TPRS (Teaching Proficiency through Reading and Storytelling), a method designed for classroom immersion and Comprehensible Input. We've adapted it for self-study.
+I built this because I was frustrated. Years of apps and flashcards hadn't given me the fluency I wanted. When I discovered TPRS (Teaching Proficiency through Reading and Storytelling) and started studying this way, it was addictive and effective. I wanted to share that experience.
 
 **The core principle:** You acquire language through *comprehensible and compelling input* — meaningful stories you can actually follow, not random sentences about pens and tables.
 

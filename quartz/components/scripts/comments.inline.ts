@@ -65,6 +65,9 @@ document.addEventListener("nav", () => {
     return
   }
 
+  // Clear existing giscus content to prevent duplicates on SPA navigation
+  giscusContainer.innerHTML = ""
+
   const giscusScript = document.createElement("script")
   giscusScript.src = "https://giscus.app/client.js"
   giscusScript.async = true
