@@ -18,96 +18,72 @@ lesson: 11
   <source src="/static/audio/lesson_01.mp3" type="audio/mpeg">
 </audio>
 
-1. <span class="zhongwen-pinyin" data-pinyin="Zhè">Zhè</span> <span class="zhongwen-pinyin" data-pinyin="Shì">Shì</span> Kevin.
-2. Kevin <span class="zhongwen-pinyin" data-pinyin="Shì">Shì</span> <span class="zhongwen-pinyin" data-pinyin="XĪNréN">XĪNréN</span>.
-3. <span class="zhongwen-pinyin" data-pinyin="nǐhǎo">nǐhǎo</span>! <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="Shì">Shì</span> <span class="zhongwen-pinyin" data-pinyin="XĪNréN">XĪNréN</span> <span class="zhongwen-pinyin" data-pinyin="*ma*">*ma*</span>?
-4. <span class="zhongwen-pinyin" data-pinyin="Shì">Shì</span>, <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="Shì">Shì</span> <span class="zhongwen-pinyin" data-pinyin="XĪNréN">XĪNréN</span>. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="Jiào">Jiào</span> Kevin.
-5. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="Jiào">Jiào</span> <span class="zhongwen-pinyin" data-pinyin="lǐLì">lǐLì</span>.
-6. <span class="zhongwen-pinyin" data-pinyin="Zhè">Zhè</span> <span class="zhongwen-pinyin" data-pinyin="Shì">Shì</span> <span class="zhongwen-pinyin" data-pinyin="wánG">wánG</span> <span class="zhongwen-pinyin" data-pinyin="zǒng">zǒng</span>.
-7. <span class="zhongwen-pinyin" data-pinyin="TĀ">TĀ</span> <span class="zhongwen-pinyin" data-pinyin="Shì">Shì</span> <span class="zhongwen-pinyin" data-pinyin="wánG">wánG</span> <span class="zhongwen-pinyin" data-pinyin="zǒng">zǒng</span>.
-8. <span class="zhongwen-pinyin" data-pinyin="nǐhǎo">nǐhǎo</span>! <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="Jiào">Jiào</span> <span class="zhongwen-pinyin" data-pinyin="shénme">shénme</span> <span class="zhongwen-pinyin" data-pinyin="mínGzi">mínGzi</span>?
-9. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="Jiào">Jiào</span> Kevin.
-10. Kevin! <span class="zhongwen-pinyin" data-pinyin="hǎo">hǎo</span>, <span class="zhongwen-pinyin" data-pinyin="hǎo">hǎo</span>!
+1. <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Shì</span> Kevin.
+2. Kevin <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>.
+3. <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span> <span style="color:#ffd966">*ma*</span>?
+4. <span style="color:#b0b0b0">Shì</span>, <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> Kevin.
+5. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#a78bfa">lǐ</span><span style="color:#b0b0b0">Lì</span>.
+6. <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>.
+7. <span style="color:#ff6b35">TĀ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>.
+8. <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">mínG</span><span style="color:#ffd966">*zi*</span>?
+9. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> Kevin.
+10. Kevin! <span style="color:#a78bfa">hǎo</span>, <span style="color:#a78bfa">hǎo</span>!
 
 ## Pinyin Comprehension Check
 
-<div class="mc-options" data-question="L1-comp-1" data-correct="A">
+**1.** Kevin <span style="color:#b0b0b0">Shì</span>...
+- A) <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>
+- B) <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>
+- C) <span style="color:#a78bfa">lǐ</span><span style="color:#b0b0b0">Lì</span>
 
-**1. Kevin shì...**
-
-<label class="mc-option"><input type="radio" name="L1-comp-1" value="A"><span>A) XĪNréN</span></label>
-<label class="mc-option"><input type="radio" name="L1-comp-1" value="B"><span>B) wánG zǒng</span></label>
-<label class="mc-option"><input type="radio" name="L1-comp-1" value="C"><span>C) lǐLì</span></label>
-</div>
-
-<div class="mc-options" data-question="L1-comp-2" data-correct="B">
-
-**2. Lily jiào...**
-
-<label class="mc-option"><input type="radio" name="L1-comp-2" value="A"><span>A) Kevin</span></label>
-<label class="mc-option"><input type="radio" name="L1-comp-2" value="B"><span>B) lǐLì</span></label>
-<label class="mc-option"><input type="radio" name="L1-comp-2" value="C"><span>C) wánG zǒng</span></label>
-</div>
+**2.** Lily <span style="color:#b0b0b0">Jiào</span>...
+- A) Kevin
+- B) <span style="color:#a78bfa">lǐ</span><span style="color:#b0b0b0">Lì</span>
+- C) <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>
 
 ## Pinyin Production
 
-<div class="mc-options" data-question="L1-prod-1" data-correct="A">
+**3.** "I am a new person" =
+- A) <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>
+- B) <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>
+- C) <span style="color:#ff6b35">TĀ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>
 
-**"I am a new person" =**
-
-<label class="mc-option"><input type="radio" name="L1-prod-1" value="A"><span>A) wǒ Shì XĪNréN</span></label>
-<label class="mc-option"><input type="radio" name="L1-prod-1" value="B"><span>B) nǐ Shì XĪNréN</span></label>
-<label class="mc-option"><input type="radio" name="L1-prod-1" value="C"><span>C) TĀ Shì XĪNréN</span></label>
-</div>
-
-<div class="mc-options" data-question="L1-prod-2" data-correct="B">
-
-**"What is your name?" =**
-
-<label class="mc-option"><input type="radio" name="L1-prod-2" value="A"><span>A) wǒ Jiào shénme</span></label>
-<label class="mc-option"><input type="radio" name="L1-prod-2" value="B"><span>B) nǐ Jiào shénme mínGzi</span></label>
-<label class="mc-option"><input type="radio" name="L1-prod-2" value="C"><span>C) TĀ Shì shéI</span></label>
-</div>
+**4.** "What is your name?" =
+- A) <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>
+- B) <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">mínG</span><span style="color:#ffd966">*zi*</span>
+- C) <span style="color:#ff6b35">TĀ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">shéI</span>
 
 ## Character Reader
 
-<p class="zh-cn" style="font-size: 1.5rem; line-height: 2.5;">
-這是 Kevin。Kevin 是新人。<br>
-你好！你是新人嗎？<br>
-是，我是新人。我叫 Kevin。<br>
-我叫李麗。這是王總。<br>
-他是王總。<br>
-你好！你叫什麼名字？<br>
-我叫 Kevin。<br>
+```zh-cn
+這是 Kevin。Kevin 是新人。
+你好！你是新人嗎？
+是，我是新人。我叫 Kevin。
+我叫李麗。這是王總。
+他是王總。
+你好！你叫什麼名字？
+我叫 Kevin。
 Kevin！好，好！
-</p>
+```
 
 ## Character Production
 
-<div class="mc-options" data-question="L1-char-1" data-correct="A">
+**5.** "new person" =
+- A) <span style="color:#ff6b35">新</span><span style="color:#6edcb8">人</span>
+- B) <span style="color:#6edcb8">名</span><span style="color:#ffd966">字</span>
+- C) <span style="color:#6edcb8">什</span><span style="color:#ffd966">麼</span>
 
-**"new person" =**
-
-<label class="mc-option"><input type="radio" name="L1-char-1" value="A"><span>A) 新人</span></label>
-<label class="mc-option"><input type="radio" name="L1-char-1" value="B"><span>B) 名字</span></label>
-<label class="mc-option"><input type="radio" name="L1-char-1" value="C"><span>C) 什麼</span></label>
-</div>
-
-<div class="mc-options" data-question="L1-char-2" data-correct="B">
-
-**"name" =**
-
-<label class="mc-option"><input type="radio" name="L1-char-2" value="A"><span>A) 你好</span></label>
-<label class="mc-option"><input type="radio" name="L1-char-2" value="B"><span>B) 名字</span></label>
-<label class="mc-option"><input type="radio" name="L1-char-2" value="C"><span>C) 新人</span></label>
-</div>
+**6.** "name" =
+- A) <span style="color:#a78bfa">你</span><span style="color:#a78bfa">好</span>
+- B) <span style="color:#6edcb8">名</span><span style="color:#ffd966">字</span>
+- C) <span style="color:#ff6b35">新</span><span style="color:#6edcb8">人</span>
 
 ## Typing
 
-**Type in pinyin:** "Hello"
+**7.** Type in pinyin: "Hello"
 → _______________
 
-**Type in characters:** "I am called Kevin"
+**8.** Type in characters: "I am called Kevin"
 → _______________
 
 ---
@@ -120,98 +96,74 @@ Kevin！好，好！
   <source src="/static/audio/lesson_02.mp3" type="audio/mpeg">
 </audio>
 
-1. Kevin <span class="zhongwen-pinyin" data-pinyin="ZÀI">ZÀI</span> <span class="zhongwen-pinyin" data-pinyin="GŌNGSĪ">GŌNGSĪ</span>.
-2. <span class="zhongwen-pinyin" data-pinyin="Zhè">Zhè</span> <span class="zhongwen-pinyin" data-pinyin="Gè">Gè</span> <span class="zhongwen-pinyin" data-pinyin="GŌNGSĪ">GŌNGSĪ</span> <span class="zhongwen-pinyin" data-pinyin="Zuò">Zuò</span> <span class="zhongwen-pinyin" data-pinyin="shénme">shénme</span>?
-3. <span class="zhongwen-pinyin" data-pinyin="GŌNGZuò">GŌNGZuò</span>? <span class="zhongwen-pinyin" data-pinyin="wǒmen">wǒmen</span> <span class="zhongwen-pinyin" data-pinyin="Zuò">Zuò</span> <span class="zhongwen-pinyin" data-pinyin="shénme">shénme</span> <span class="zhongwen-pinyin" data-pinyin="GŌNGZuò">GŌNGZuò</span>?
-4. <span class="zhongwen-pinyin" data-pinyin="wǒmen">wǒmen</span>... <span class="zhongwen-pinyin" data-pinyin="GŌNGZuò">GŌNGZuò</span>.
-5. <span class="zhongwen-pinyin" data-pinyin="nǐmen">nǐmen</span> <span class="zhongwen-pinyin" data-pinyin="Zuò">Zuò</span> <span class="zhongwen-pinyin" data-pinyin="shénme">shénme</span>?
-6. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="Bù">Bù</span> <span class="zhongwen-pinyin" data-pinyin="ZHĪDào">ZHĪDào</span>.
-7. <span class="zhongwen-pinyin" data-pinyin="nǐhǎo">nǐhǎo</span>! <span class="zhongwen-pinyin" data-pinyin="nǐhǎo">nǐhǎo</span>!
-8. <span class="zhongwen-pinyin" data-pinyin="wǒmen">wǒmen</span> <span class="zhongwen-pinyin" data-pinyin="hěn">hěn</span> <span class="zhongwen-pinyin" data-pinyin="mánG">mánG</span>! <span class="zhongwen-pinyin" data-pinyin="hěn">hěn</span> <span class="zhongwen-pinyin" data-pinyin="mánG">mánG</span>!
-9. <span class="zhongwen-pinyin" data-pinyin="GŌNGSĪ">GŌNGSĪ</span> <span class="zhongwen-pinyin" data-pinyin="Zuò">Zuò</span> <span class="zhongwen-pinyin" data-pinyin="shénme">shénme</span>?
-10. <span class="zhongwen-pinyin" data-pinyin="hǎo">hǎo</span>, <span class="zhongwen-pinyin" data-pinyin="hǎo">hǎo</span>!
+1. Kevin <span style="color:#b0b0b0">ZÀI</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span>.
+2. <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Gè</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
+3. <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>? <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>?
+4. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span>... <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>.
+5. <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">men</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
+6. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>.
+7. <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>!
+8. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>! <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>!
+9. <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
+10. <span style="color:#a78bfa">hǎo</span>, <span style="color:#a78bfa">hǎo</span>!
 
 ## Pinyin Comprehension Check
 
-<div class="mc-options" data-question="L2-comp-1" data-correct="B">
+**1.** Kevin <span style="color:#b0b0b0">ZÀI</span>...
+- A) <span style="color:#ff6b35">JIĀ</span>
+- B) <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span>
+- C) <span style="color:#b0b0b0">Huì</span>
 
-**1. Kevin ZÀI...**
-
-<label class="mc-option"><input type="radio" name="L2-comp-1" value="A"><span>A) jiā</span></label>
-<label class="mc-option"><input type="radio" name="L2-comp-1" value="B"><span>B) GŌNGSĪ</span></label>
-<label class="mc-option"><input type="radio" name="L2-comp-1" value="C"><span>C) Huì</span></label>
-</div>
-
-<div class="mc-options" data-question="L2-comp-2" data-correct="A">
-
-**2. wǒmen hěn...**
-
-<label class="mc-option"><input type="radio" name="L2-comp-2" value="A"><span>A) mánG</span></label>
-<label class="mc-option"><input type="radio" name="L2-comp-2" value="B"><span>B) hǎo</span></label>
-<label class="mc-option"><input type="radio" name="L2-comp-2" value="C"><span>C) XĪN</span></label>
-</div>
+**2.** <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#a78bfa">hěn</span>...
+- A) <span style="color:#6edcb8">mánG</span>
+- B) <span style="color:#a78bfa">hǎo</span>
+- C) <span style="color:#ff6b35">XĪN</span>
 
 ## Pinyin Production
 
-<div class="mc-options" data-question="L2-prod-1" data-correct="B">
+**3.** "I don't know" =
+- A) <span style="color:#a78bfa">wǒ</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>
+- B) <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>
+- C) <span style="color:#a78bfa">nǐ</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span> <span style="color:#ffd966">*ma*</span>
 
-**"I don't know" =**
-
-<label class="mc-option"><input type="radio" name="L2-prod-1" value="A"><span>A) wǒ ZHĪDào</span></label>
-<label class="mc-option"><input type="radio" name="L2-prod-1" value="B"><span>B) wǒ Bù ZHĪDào</span></label>
-<label class="mc-option"><input type="radio" name="L2-prod-1" value="C"><span>C) nǐ ZHĪDào ma</span></label>
-</div>
-
-<div class="mc-options" data-question="L2-prod-2" data-correct="A">
-
-**"We work" =**
-
-<label class="mc-option"><input type="radio" name="L2-prod-2" value="A"><span>A) wǒmen GŌNGZuò</span></label>
-<label class="mc-option"><input type="radio" name="L2-prod-2" value="B"><span>B) wǒ GŌNGZuò</span></label>
-<label class="mc-option"><input type="radio" name="L2-prod-2" value="C"><span>C) TĀmen GŌNGZuò</span></label>
-</div>
+**4.** "We work" =
+- A) <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>
+- B) <span style="color:#a78bfa">wǒ</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>
+- C) <span style="color:#ff6b35">TĀ</span><span style="color:#ffd966">*men*</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>
 
 ## Character Reader
 
-<p class="zh-cn" style="font-size: 1.5rem; line-height: 2.5;">
-Kevin 在公司。<br>
-這個公司做什麼？<br>
-工作？我們做什麼工作？<br>
-我們……工作。<br>
-你們做什麼？<br>
-我不知道。<br>
-你好！你好！<br>
-我們很忙！很忙！<br>
-公司做什麼？<br>
+```zh-cn
+Kevin 在公司。
+這個公司做什麼？
+工作？我們做什麼工作？
+我們……工作。
+你們做什麼？
+我不知道。
+你好！你好！
+我們很忙！很忙！
+公司做什麼？
 好，好！
-</p>
+```
 
 ## Character Production
 
-<div class="mc-options" data-question="L2-char-1" data-correct="A">
+**5.** "company" =
+- A) <span style="color:#ff6b35">公</span><span style="color:#ff6b35">司</span>
+- B) <span style="color:#ff6b35">工</span><span style="color:#b0b0b0">作</span>
+- C) <span style="color:#ff6b35">知</span><span style="color:#b0b0b0">道</span>
 
-**"company" =**
-
-<label class="mc-option"><input type="radio" name="L2-char-1" value="A"><span>A) 公司</span></label>
-<label class="mc-option"><input type="radio" name="L2-char-1" value="B"><span>B) 工作</span></label>
-<label class="mc-option"><input type="radio" name="L2-char-1" value="C"><span>C) 知道</span></label>
-</div>
-
-<div class="mc-options" data-question="L2-char-2" data-correct="B">
-
-**"busy" =**
-
-<label class="mc-option"><input type="radio" name="L2-char-2" value="A"><span>A) 很</span></label>
-<label class="mc-option"><input type="radio" name="L2-char-2" value="B"><span>B) 忙</span></label>
-<label class="mc-option"><input type="radio" name="L2-char-2" value="C"><span>C) 好</span></label>
-</div>
+**6.** "busy" =
+- A) <span style="color:#a78bfa">很</span>
+- B) <span style="color:#6edcb8">忙</span>
+- C) <span style="color:#a78bfa">好</span>
 
 ## Typing
 
-**Type in pinyin:** "I don't know"
+**7.** Type in pinyin: "I don't know"
 → _______________
 
-**Type in characters:** "We are very busy"
+**8.** Type in characters: "We are very busy"
 → _______________
 
 ---
@@ -224,98 +176,74 @@ Kevin 在公司。<br>
   <source src="/static/audio/lesson_03.mp3" type="audio/mpeg">
 </audio>
 
-1. Kevin <span class="zhongwen-pinyin" data-pinyin="ZÀI">ZÀI</span> <span class="zhongwen-pinyin" data-pinyin="Huì">Huì</span>.
-2. <span class="zhongwen-pinyin" data-pinyin="DàJIĀ">DàJIĀ</span> <span class="zhongwen-pinyin" data-pinyin="hǎo">hǎo</span>! <span class="zhongwen-pinyin" data-pinyin="DàJIĀ">DàJIĀ</span> <span class="zhongwen-pinyin" data-pinyin="hǎo">hǎo</span>!
-3. <span class="zhongwen-pinyin" data-pinyin="DàJIĀ">DàJIĀ</span> <span class="zhongwen-pinyin" data-pinyin="SHUŌ">SHUŌ</span> <span class="zhongwen-pinyin" data-pinyin="shénme">shénme</span>?
-4. <span class="zhongwen-pinyin" data-pinyin="DàJIĀ">DàJIĀ</span> <span class="zhongwen-pinyin" data-pinyin="DŌU">DŌU</span> <span class="zhongwen-pinyin" data-pinyin="ZÀI">ZÀI</span> <span class="zhongwen-pinyin" data-pinyin="SHUŌHuà">SHUŌHuà</span>.
-5. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="TĪNG">TĪNG</span>.
-6. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="Bù">Bù</span> <span class="zhongwen-pinyin" data-pinyin="ZHĪDào">ZHĪDào</span>. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="háI">háI</span> <span class="zhongwen-pinyin" data-pinyin="Bù">Bù</span> <span class="zhongwen-pinyin" data-pinyin="ZHĪDào">ZHĪDào</span>.
-7. <span class="zhongwen-pinyin" data-pinyin="wǒmen">wǒmen</span> <span class="zhongwen-pinyin" data-pinyin="yǒu">yǒu</span> <span class="zhongwen-pinyin" data-pinyin="WèntÍ">WèntÍ</span> <span class="zhongwen-pinyin" data-pinyin="*ma*">*ma*</span>? <span class="zhongwen-pinyin" data-pinyin="méIyǒu">méIyǒu</span>!
-8. <span class="zhongwen-pinyin" data-pinyin="hǎo">hǎo</span>! <span class="zhongwen-pinyin" data-pinyin="hěn">hěn</span> <span class="zhongwen-pinyin" data-pinyin="hǎo">hǎo</span>!
-9. <span class="zhongwen-pinyin" data-pinyin="Zhè">Zhè</span> <span class="zhongwen-pinyin" data-pinyin="Gè">Gè</span> <span class="zhongwen-pinyin" data-pinyin="Huì">Huì</span>... <span class="zhongwen-pinyin" data-pinyin="hěn">hěn</span> <span class="zhongwen-pinyin" data-pinyin="mánG">mánG</span>.
-10. <span class="zhongwen-pinyin" data-pinyin="Duì">Duì</span>.
+1. Kevin <span style="color:#b0b0b0">ZÀI</span> <span style="color:#b0b0b0">Huì</span>.
+2. <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#a78bfa">hǎo</span>! <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#a78bfa">hǎo</span>!
+3. <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#ff6b35">SHUŌ</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
+4. <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#ff6b35">DŌU</span> <span style="color:#b0b0b0">ZÀI</span> <span style="color:#ff6b35">SHUŌ</span><span style="color:#b0b0b0">Huà</span>.
+5. <span style="color:#a78bfa">nǐ</span> <span style="color:#ff6b35">TĪNG</span>.
+6. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>. <span style="color:#a78bfa">wǒ</span> <span style="color:#6edcb8">háI</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>.
+7. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#a78bfa">yǒu</span> <span style="color:#b0b0b0">Wèn</span><span style="color:#6edcb8">tÍ</span> <span style="color:#ffd966">*ma*</span>? <span style="color:#6edcb8">méI</span><span style="color:#a78bfa">yǒu</span>!
+8. <span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">hǎo</span>!
+9. <span style="color:#b0b0b0">Zhè</span> <span style="color:#b0b0b0">Gè</span> <span style="color:#b0b0b0">Huì</span>... <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>.
+10. <span style="color:#b0b0b0">Duì</span>.
 
 ## Pinyin Comprehension Check
 
-<div class="mc-options" data-question="L3-comp-1" data-correct="A">
+**1.** Kevin <span style="color:#b0b0b0">ZÀI</span>...
+- A) <span style="color:#b0b0b0">Huì</span>
+- B) <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span>
+- C) <span style="color:#ff6b35">JIĀ</span>
 
-**1. Kevin ZÀI...**
-
-<label class="mc-option"><input type="radio" name="L3-comp-1" value="A"><span>A) Huì</span></label>
-<label class="mc-option"><input type="radio" name="L3-comp-1" value="B"><span>B) GŌNGSĪ</span></label>
-<label class="mc-option"><input type="radio" name="L3-comp-1" value="C"><span>C) jiā</span></label>
-</div>
-
-<div class="mc-options" data-question="L3-comp-2" data-correct="B">
-
-**2. DàJIĀ DŌU ZÀI...**
-
-<label class="mc-option"><input type="radio" name="L3-comp-2" value="A"><span>A) TĪNG</span></label>
-<label class="mc-option"><input type="radio" name="L3-comp-2" value="B"><span>B) SHUŌHuà</span></label>
-<label class="mc-option"><input type="radio" name="L3-comp-2" value="C"><span>C) GŌNGZuò</span></label>
-</div>
+**2.** <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#ff6b35">DŌU</span> <span style="color:#b0b0b0">ZÀI</span>...
+- A) <span style="color:#ff6b35">TĪNG</span>
+- B) <span style="color:#ff6b35">SHUŌ</span><span style="color:#b0b0b0">Huà</span>
+- C) <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>
 
 ## Pinyin Production
 
-<div class="mc-options" data-question="L3-prod-1" data-correct="A">
+**3.** "everyone" =
+- A) <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span>
+- B) <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span>
+- C) <span style="color:#ff6b35">TĀ</span><span style="color:#ffd966">*men*</span>
 
-**"everyone" =**
-
-<label class="mc-option"><input type="radio" name="L3-prod-1" value="A"><span>A) DàJIĀ</span></label>
-<label class="mc-option"><input type="radio" name="L3-prod-1" value="B"><span>B) wǒmen</span></label>
-<label class="mc-option"><input type="radio" name="L3-prod-1" value="C"><span>C) TĀmen</span></label>
-</div>
-
-<div class="mc-options" data-question="L3-prod-2" data-correct="B">
-
-**"I still don't know" =**
-
-<label class="mc-option"><input type="radio" name="L3-prod-2" value="A"><span>A) wǒ Bù ZHĪDào</span></label>
-<label class="mc-option"><input type="radio" name="L3-prod-2" value="B"><span>B) wǒ háI Bù ZHĪDào</span></label>
-<label class="mc-option"><input type="radio" name="L3-prod-2" value="C"><span>C) wǒ yě Bù ZHĪDào</span></label>
-</div>
+**4.** "I still don't know" =
+- A) <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>
+- B) <span style="color:#a78bfa">wǒ</span> <span style="color:#6edcb8">háI</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>
+- C) <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">yě</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>
 
 ## Character Reader
 
-<p class="zh-cn" style="font-size: 1.5rem; line-height: 2.5;">
-Kevin 在會。<br>
-大家好！大家好！<br>
-大家說什麼？<br>
-大家都在說話。<br>
-你聽。<br>
-我不知道。我還不知道。<br>
-我們有問題嗎？沒有！<br>
-好！很好！<br>
-這個會……很忙。<br>
+```zh-cn
+Kevin 在會。
+大家好！大家好！
+大家說什麼？
+大家都在說話。
+你聽。
+我不知道。我還不知道。
+我們有問題嗎？沒有！
+好！很好！
+這個會……很忙。
 對。
-</p>
+```
 
 ## Character Production
 
-<div class="mc-options" data-question="L3-char-1" data-correct="A">
+**5.** "meeting" =
+- A) <span style="color:#b0b0b0">會</span>
+- B) <span style="color:#b0b0b0">話</span>
+- C) <span style="color:#b0b0b0">問</span><span style="color:#6edcb8">題</span>
 
-**"meeting" =**
-
-<label class="mc-option"><input type="radio" name="L3-char-1" value="A"><span>A) 會</span></label>
-<label class="mc-option"><input type="radio" name="L3-char-1" value="B"><span>B) 話</span></label>
-<label class="mc-option"><input type="radio" name="L3-char-1" value="C"><span>C) 問題</span></label>
-</div>
-
-<div class="mc-options" data-question="L3-char-2" data-correct="B">
-
-**"to speak/talk" =**
-
-<label class="mc-option"><input type="radio" name="L3-char-2" value="A"><span>A) 聽</span></label>
-<label class="mc-option"><input type="radio" name="L3-char-2" value="B"><span>B) 說話</span></label>
-<label class="mc-option"><input type="radio" name="L3-char-2" value="C"><span>C) 知道</span></label>
-</div>
+**6.** "to speak/talk" =
+- A) <span style="color:#ff6b35">聽</span>
+- B) <span style="color:#ff6b35">說</span><span style="color:#b0b0b0">話</span>
+- C) <span style="color:#ff6b35">知</span><span style="color:#b0b0b0">道</span>
 
 ## Typing
 
-**Type in pinyin:** "You listen"
+**7.** Type in pinyin: "You listen"
 → _______________
 
-**Type in characters:** "Everyone is talking"
+**8.** Type in characters: "Everyone is talking"
 → _______________
 
 ---
@@ -328,98 +256,74 @@ Kevin 在會。<br>
   <source src="/static/audio/lesson_04.mp3" type="audio/mpeg">
 </audio>
 
-1. Kevin <span class="zhongwen-pinyin" data-pinyin="xiǎng">xiǎng</span> <span class="zhongwen-pinyin" data-pinyin="CHĪ">CHĪ</span> <span class="zhongwen-pinyin" data-pinyin="Fàn">Fàn</span>.
-2. <span class="zhongwen-pinyin" data-pinyin="nǐhǎo">nǐhǎo</span>! <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="xiǎng">xiǎng</span> <span class="zhongwen-pinyin" data-pinyin="CHĪ">CHĪ</span> <span class="zhongwen-pinyin" data-pinyin="shénme">shénme</span>?
-3. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="xiǎng">xiǎng</span> <span class="zhongwen-pinyin" data-pinyin="CHĪ">CHĪ</span> <span class="zhongwen-pinyin" data-pinyin="Fàn">Fàn</span>.
-4. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="xiǎng">xiǎng</span> <span class="zhongwen-pinyin" data-pinyin="CHĪ">CHĪ</span> <span class="zhongwen-pinyin" data-pinyin="shénme">shénme</span>?
-5. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="HĒ">HĒ</span> <span class="zhongwen-pinyin" data-pinyin="chÁ">chÁ</span>.
-6. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="Yào">Yào</span> <span class="zhongwen-pinyin" data-pinyin="HĒ">HĒ</span> <span class="zhongwen-pinyin" data-pinyin="shuǐ">shuǐ</span>.
-7. <span class="zhongwen-pinyin" data-pinyin="CHĪ">CHĪ</span> <span class="zhongwen-pinyin" data-pinyin="Fàn">Fàn</span>! <span class="zhongwen-pinyin" data-pinyin="CHĪ">CHĪ</span> <span class="zhongwen-pinyin" data-pinyin="Fàn">Fàn</span>!
-8. <span class="zhongwen-pinyin" data-pinyin="hǎoCHĪ">hǎoCHĪ</span> <span class="zhongwen-pinyin" data-pinyin="*ma*">*ma*</span>?
-9. <span class="zhongwen-pinyin" data-pinyin="hǎoCHĪ">hǎoCHĪ</span>! <span class="zhongwen-pinyin" data-pinyin="hěn">hěn</span> <span class="zhongwen-pinyin" data-pinyin="hǎoCHĪ">hǎoCHĪ</span>!
-10. <span class="zhongwen-pinyin" data-pinyin="CHĪ">CHĪ</span>! <span class="zhongwen-pinyin" data-pinyin="CHĪ">CHĪ</span>!
+1. Kevin <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">CHĪ</span> <span style="color:#b0b0b0">Fàn</span>.
+2. <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span>! <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">CHĪ</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
+3. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">CHĪ</span> <span style="color:#b0b0b0">Fàn</span>.
+4. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">CHĪ</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
+5. <span style="color:#a78bfa">wǒ</span> <span style="color:#ff6b35">HĒ</span> <span style="color:#6edcb8">chÁ</span>.
+6. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Yào</span> <span style="color:#ff6b35">HĒ</span> <span style="color:#a78bfa">shuǐ</span>.
+7. <span style="color:#ff6b35">CHĪ</span> <span style="color:#b0b0b0">Fàn</span>! <span style="color:#ff6b35">CHĪ</span> <span style="color:#b0b0b0">Fàn</span>!
+8. <span style="color:#a78bfa">hǎo</span><span style="color:#ff6b35">CHĪ</span> <span style="color:#ffd966">*ma*</span>?
+9. <span style="color:#a78bfa">hǎo</span><span style="color:#ff6b35">CHĪ</span>! <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">hǎo</span><span style="color:#ff6b35">CHĪ</span>!
+10. <span style="color:#ff6b35">CHĪ</span>! <span style="color:#ff6b35">CHĪ</span>!
 
 ## Pinyin Comprehension Check
 
-<div class="mc-options" data-question="L4-comp-1" data-correct="A">
+**1.** Kevin <span style="color:#a78bfa">xiǎng</span>...
+- A) <span style="color:#ff6b35">CHĪ</span> <span style="color:#b0b0b0">Fàn</span>
+- B) <span style="color:#ff6b35">HĒ</span> <span style="color:#6edcb8">chÁ</span>
+- C) <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>
 
-**1. Kevin xiǎng...**
-
-<label class="mc-option"><input type="radio" name="L4-comp-1" value="A"><span>A) CHĪ Fàn</span></label>
-<label class="mc-option"><input type="radio" name="L4-comp-1" value="B"><span>B) HĒ chÁ</span></label>
-<label class="mc-option"><input type="radio" name="L4-comp-1" value="C"><span>C) GŌNGZuò</span></label>
-</div>
-
-<div class="mc-options" data-question="L4-comp-2" data-correct="B">
-
-**2. Lily HĒ...**
-
-<label class="mc-option"><input type="radio" name="L4-comp-2" value="A"><span>A) shuǐ</span></label>
-<label class="mc-option"><input type="radio" name="L4-comp-2" value="B"><span>B) chÁ</span></label>
-<label class="mc-option"><input type="radio" name="L4-comp-2" value="C"><span>C) Fàn</span></label>
-</div>
+**2.** Lily <span style="color:#ff6b35">HĒ</span>...
+- A) <span style="color:#a78bfa">shuǐ</span>
+- B) <span style="color:#6edcb8">chÁ</span>
+- C) <span style="color:#b0b0b0">Fàn</span>
 
 ## Pinyin Production
 
-<div class="mc-options" data-question="L4-prod-1" data-correct="A">
+**3.** "I want to drink water" =
+- A) <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Yào</span> <span style="color:#ff6b35">HĒ</span> <span style="color:#a78bfa">shuǐ</span>
+- B) <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">CHĪ</span> <span style="color:#b0b0b0">Fàn</span>
+- C) <span style="color:#a78bfa">wǒ</span> <span style="color:#ff6b35">HĒ</span> <span style="color:#6edcb8">chÁ</span>
 
-**"I want to drink water" =**
-
-<label class="mc-option"><input type="radio" name="L4-prod-1" value="A"><span>A) wǒ Yào HĒ shuǐ</span></label>
-<label class="mc-option"><input type="radio" name="L4-prod-1" value="B"><span>B) wǒ xiǎng CHĪ Fàn</span></label>
-<label class="mc-option"><input type="radio" name="L4-prod-1" value="C"><span>C) wǒ HĒ chÁ</span></label>
-</div>
-
-<div class="mc-options" data-question="L4-prod-2" data-correct="B">
-
-**"delicious" =**
-
-<label class="mc-option"><input type="radio" name="L4-prod-2" value="A"><span>A) hǎo</span></label>
-<label class="mc-option"><input type="radio" name="L4-prod-2" value="B"><span>B) hǎoCHĪ</span></label>
-<label class="mc-option"><input type="radio" name="L4-prod-2" value="C"><span>C) hěn hǎo</span></label>
-</div>
+**4.** "delicious" =
+- A) <span style="color:#a78bfa">hǎo</span>
+- B) <span style="color:#a78bfa">hǎo</span><span style="color:#ff6b35">CHĪ</span>
+- C) <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">hǎo</span>
 
 ## Character Reader
 
-<p class="zh-cn" style="font-size: 1.5rem; line-height: 2.5;">
-Kevin 想吃飯。<br>
-你好！你想吃什麼？<br>
-我想吃飯。<br>
-你想吃什麼？<br>
-我喝茶。<br>
-我要喝水。<br>
-吃飯！吃飯！<br>
-好吃嗎？<br>
-好吃！很好吃！<br>
+```zh-cn
+Kevin 想吃飯。
+你好！你想吃什麼？
+我想吃飯。
+你想吃什麼？
+我喝茶。
+我要喝水。
+吃飯！吃飯！
+好吃嗎？
+好吃！很好吃！
 吃！吃！
-</p>
+```
 
 ## Character Production
 
-<div class="mc-options" data-question="L4-char-1" data-correct="A">
+**5.** "to eat" =
+- A) <span style="color:#ff6b35">吃</span>
+- B) <span style="color:#ff6b35">喝</span>
+- C) <span style="color:#b0b0b0">要</span>
 
-**"to eat" =**
-
-<label class="mc-option"><input type="radio" name="L4-char-1" value="A"><span>A) 吃</span></label>
-<label class="mc-option"><input type="radio" name="L4-char-1" value="B"><span>B) 喝</span></label>
-<label class="mc-option"><input type="radio" name="L4-char-1" value="C"><span>C) 要</span></label>
-</div>
-
-<div class="mc-options" data-question="L4-char-2" data-correct="B">
-
-**"tea" =**
-
-<label class="mc-option"><input type="radio" name="L4-char-2" value="A"><span>A) 水</span></label>
-<label class="mc-option"><input type="radio" name="L4-char-2" value="B"><span>B) 茶</span></label>
-<label class="mc-option"><input type="radio" name="L4-char-2" value="C"><span>C) 飯</span></label>
-</div>
+**6.** "tea" =
+- A) <span style="color:#a78bfa">水</span>
+- B) <span style="color:#6edcb8">茶</span>
+- C) <span style="color:#b0b0b0">飯</span>
 
 ## Typing
 
-**Type in pinyin:** "Very delicious"
+**7.** Type in pinyin: "Very delicious"
 → _______________
 
-**Type in characters:** "I want to drink water"
+**8.** Type in characters: "I want to drink water"
 → _______________
 
 ---
@@ -432,98 +336,74 @@ Kevin 想吃飯。<br>
   <source src="/static/audio/lesson_05.mp3" type="audio/mpeg">
 </audio>
 
-1. Kevin <span class="zhongwen-pinyin" data-pinyin="Rènshi">Rènshi</span> <span class="zhongwen-pinyin" data-pinyin="TĀmen">TĀmen</span>.
-2. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="Rènshi">Rènshi</span> <span class="zhongwen-pinyin" data-pinyin="TĀ">TĀ</span> <span class="zhongwen-pinyin" data-pinyin="*ma*">*ma*</span>?
-3. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="Rènshi">Rènshi</span> <span class="zhongwen-pinyin" data-pinyin="TĀ">TĀ</span>.
-4. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="xǐHUĀN">xǐHUĀN</span> <span class="zhongwen-pinyin" data-pinyin="shénme">shénme</span>?
-5. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="xǐHUĀN">xǐHUĀN</span> <span class="zhongwen-pinyin" data-pinyin="GŌNGZuò">GŌNGZuò</span>.
-6. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="yě">yě</span> <span class="zhongwen-pinyin" data-pinyin="xǐHUĀN">xǐHUĀN</span>!
-7. <span class="zhongwen-pinyin" data-pinyin="TĀmen">TĀmen</span> <span class="zhongwen-pinyin" data-pinyin="DŌU">DŌU</span> <span class="zhongwen-pinyin" data-pinyin="Shì">Shì</span> <span class="zhongwen-pinyin" data-pinyin="tónGxuÉ">tónGxuÉ</span>.
-8. <span class="zhongwen-pinyin" data-pinyin="wǒmen">wǒmen</span> <span class="zhongwen-pinyin" data-pinyin="DŌU">DŌU</span> <span class="zhongwen-pinyin" data-pinyin="Shì">Shì</span> <span class="zhongwen-pinyin" data-pinyin="pénGyou">pénGyou</span>!
-9. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="ài">ài</span> <span class="zhongwen-pinyin" data-pinyin="GŌNGSĪ">GŌNGSĪ</span>!
-10. <span class="zhongwen-pinyin" data-pinyin="wǒmen">wǒmen</span> <span class="zhongwen-pinyin" data-pinyin="DŌU">DŌU</span> <span class="zhongwen-pinyin" data-pinyin="Shì">Shì</span> <span class="zhongwen-pinyin" data-pinyin="pénGyou">pénGyou</span>.
+1. Kevin <span style="color:#b0b0b0">Rèn</span><span style="color:#ffd966">*shi*</span> <span style="color:#ff6b35">TĀ</span><span style="color:#ffd966">*men*</span>.
+2. <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Rèn</span><span style="color:#ffd966">*shi*</span> <span style="color:#ff6b35">TĀ</span> <span style="color:#ffd966">*ma*</span>?
+3. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Rèn</span><span style="color:#ffd966">*shi*</span> <span style="color:#ff6b35">TĀ</span>.
+4. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">xǐ</span><span style="color:#ff6b35">HUĀN</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
+5. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">xǐ</span><span style="color:#ff6b35">HUĀN</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>.
+6. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">yě</span> <span style="color:#a78bfa">xǐ</span><span style="color:#ff6b35">HUĀN</span>!
+7. <span style="color:#ff6b35">TĀ</span><span style="color:#ffd966">*men*</span> <span style="color:#ff6b35">DŌU</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">tónG</span><span style="color:#6edcb8">xuÉ</span>.
+8. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#ff6b35">DŌU</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">pénG</span><span style="color:#ffd966">*you*</span>!
+9. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Ài</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span>!
+10. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#ff6b35">DŌU</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">pénG</span><span style="color:#ffd966">*you*</span>.
 
 ## Pinyin Comprehension Check
 
-<div class="mc-options" data-question="L5-comp-1" data-correct="B">
+**1.** Lily <span style="color:#a78bfa">xǐ</span><span style="color:#ff6b35">HUĀN</span>...
+- A) <span style="color:#ff6b35">CHĪ</span> <span style="color:#b0b0b0">Fàn</span>
+- B) <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>
+- C) <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>
 
-**1. Lily xǐHUĀN...**
-
-<label class="mc-option"><input type="radio" name="L5-comp-1" value="A"><span>A) CHĪ Fàn</span></label>
-<label class="mc-option"><input type="radio" name="L5-comp-1" value="B"><span>B) GŌNGZuò</span></label>
-<label class="mc-option"><input type="radio" name="L5-comp-1" value="C"><span>C) shuìJiào</span></label>
-</div>
-
-<div class="mc-options" data-question="L5-comp-2" data-correct="A">
-
-**2. wǒmen DŌU Shì...**
-
-<label class="mc-option"><input type="radio" name="L5-comp-2" value="A"><span>A) pénGyou</span></label>
-<label class="mc-option"><input type="radio" name="L5-comp-2" value="B"><span>B) tónGxuÉ</span></label>
-<label class="mc-option"><input type="radio" name="L5-comp-2" value="C"><span>C) XĪNréN</span></label>
-</div>
+**2.** <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#ff6b35">DŌU</span> <span style="color:#b0b0b0">Shì</span>...
+- A) <span style="color:#6edcb8">pénG</span><span style="color:#ffd966">*you*</span>
+- B) <span style="color:#6edcb8">tónG</span><span style="color:#6edcb8">xuÉ</span>
+- C) <span style="color:#ff6b35">XĪN</span><span style="color:#6edcb8">réN</span>
 
 ## Pinyin Production
 
-<div class="mc-options" data-question="L5-prod-1" data-correct="A">
+**3.** "I also like" =
+- A) <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">yě</span> <span style="color:#a78bfa">xǐ</span><span style="color:#ff6b35">HUĀN</span>
+- B) <span style="color:#a78bfa">wǒ</span> <span style="color:#ff6b35">DŌU</span> <span style="color:#a78bfa">xǐ</span><span style="color:#ff6b35">HUĀN</span>
+- C) <span style="color:#a78bfa">wǒ</span> <span style="color:#6edcb8">háI</span> <span style="color:#a78bfa">xǐ</span><span style="color:#ff6b35">HUĀN</span>
 
-**"I also like" =**
-
-<label class="mc-option"><input type="radio" name="L5-prod-1" value="A"><span>A) wǒ yě xǐHUĀN</span></label>
-<label class="mc-option"><input type="radio" name="L5-prod-1" value="B"><span>B) wǒ DŌU xǐHUĀN</span></label>
-<label class="mc-option"><input type="radio" name="L5-prod-1" value="C"><span>C) wǒ háI xǐHUĀN</span></label>
-</div>
-
-<div class="mc-options" data-question="L5-prod-2" data-correct="B">
-
-**"friend" =**
-
-<label class="mc-option"><input type="radio" name="L5-prod-2" value="A"><span>A) tónGxuÉ</span></label>
-<label class="mc-option"><input type="radio" name="L5-prod-2" value="B"><span>B) pénGyou</span></label>
-<label class="mc-option"><input type="radio" name="L5-prod-2" value="C"><span>C) DàJIĀ</span></label>
-</div>
+**4.** "friend" =
+- A) <span style="color:#6edcb8">tónG</span><span style="color:#6edcb8">xuÉ</span>
+- B) <span style="color:#6edcb8">pénG</span><span style="color:#ffd966">*you*</span>
+- C) <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span>
 
 ## Character Reader
 
-<p class="zh-cn" style="font-size: 1.5rem; line-height: 2.5;">
-Kevin 認識他們。<br>
-你認識他嗎？<br>
-我認識他。<br>
-你喜歡什麼？<br>
-我喜歡工作。<br>
-我也喜歡！<br>
-他們都是同學。<br>
-我們都是朋友！<br>
-我愛公司！<br>
+```zh-cn
+Kevin 認識他們。
+你認識他嗎？
+我認識他。
+你喜歡什麼？
+我喜歡工作。
+我也喜歡！
+他們都是同學。
+我們都是朋友！
+我愛公司！
 我們都是朋友。
-</p>
+```
 
 ## Character Production
 
-<div class="mc-options" data-question="L5-char-1" data-correct="A">
+**5.** "to know (a person)" =
+- A) <span style="color:#b0b0b0">認</span><span style="color:#ffd966">識</span>
+- B) <span style="color:#ff6b35">知</span><span style="color:#b0b0b0">道</span>
+- C) <span style="color:#a78bfa">喜</span><span style="color:#ff6b35">歡</span>
 
-**"to know (a person)" =**
-
-<label class="mc-option"><input type="radio" name="L5-char-1" value="A"><span>A) 認識</span></label>
-<label class="mc-option"><input type="radio" name="L5-char-1" value="B"><span>B) 知道</span></label>
-<label class="mc-option"><input type="radio" name="L5-char-1" value="C"><span>C) 喜歡</span></label>
-</div>
-
-<div class="mc-options" data-question="L5-char-2" data-correct="B">
-
-**"classmate" =**
-
-<label class="mc-option"><input type="radio" name="L5-char-2" value="A"><span>A) 朋友</span></label>
-<label class="mc-option"><input type="radio" name="L5-char-2" value="B"><span>B) 同學</span></label>
-<label class="mc-option"><input type="radio" name="L5-char-2" value="C"><span>C) 大家</span></label>
-</div>
+**6.** "classmate" =
+- A) <span style="color:#6edcb8">朋</span><span style="color:#ffd966">友</span>
+- B) <span style="color:#6edcb8">同</span><span style="color:#6edcb8">學</span>
+- C) <span style="color:#b0b0b0">大</span><span style="color:#ff6b35">家</span>
 
 ## Typing
 
-**Type in pinyin:** "I love the company"
+**7.** Type in pinyin: "I love the company"
 → _______________
 
-**Type in characters:** "We are all friends"
+**8.** Type in characters: "We are all friends"
 → _______________
 
 ---
@@ -536,98 +416,74 @@ Kevin 認識他們。<br>
   <source src="/static/audio/lesson_06.mp3" type="audio/mpeg">
 </audio>
 
-1. Kevin <span class="zhongwen-pinyin" data-pinyin="huíJIĀ">huíJIĀ</span>.
-2. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="huíJIĀ">huíJIĀ</span> <span class="zhongwen-pinyin" data-pinyin="*ma*">*ma*</span>?
-3. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="zěnme">zěnme</span> <span class="zhongwen-pinyin" data-pinyin="huíJIĀ">huíJIĀ</span>?
-4. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="ZuòCHĒ">ZuòCHĒ</span> <span class="zhongwen-pinyin" data-pinyin="huíJIĀ">huíJIĀ</span>.
-5. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="láI">láI</span> <span class="zhongwen-pinyin" data-pinyin="*ma*">*ma*</span>?
-6. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="ZuòCHĒ">ZuòCHĒ</span>.
-7. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="huíJIĀ">huíJIĀ</span> <span class="zhongwen-pinyin" data-pinyin="*ma*">*ma*</span>? <span class="zhongwen-pinyin" data-pinyin="hǎo">hǎo</span>!
-8. <span class="zhongwen-pinyin" data-pinyin="mínGTIĀN">mínGTIĀN</span> <span class="zhongwen-pinyin" data-pinyin="láI">láI</span>! <span class="zhongwen-pinyin" data-pinyin="mínGTIĀN">mínGTIĀN</span> <span class="zhongwen-pinyin" data-pinyin="láI">láI</span>!
-9. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="zǒuLù">zǒuLù</span>.
-10. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="zǒuLù">zǒuLù</span> <span class="zhongwen-pinyin" data-pinyin="*ma*">*ma*</span>?
+1. Kevin <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>.
+2. <span style="color:#a78bfa">nǐ</span> <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#ffd966">*ma*</span>?
+3. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">zěn</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>?
+4. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Zuò</span><span style="color:#ff6b35">CHĒ</span> <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>.
+5. <span style="color:#a78bfa">nǐ</span> <span style="color:#6edcb8">láI</span> <span style="color:#ffd966">*ma*</span>?
+6. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Zuò</span><span style="color:#ff6b35">CHĒ</span>.
+7. <span style="color:#a78bfa">nǐ</span> <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span> <span style="color:#ffd966">*ma*</span>? <span style="color:#a78bfa">hǎo</span>!
+8. <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#6edcb8">láI</span>! <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#6edcb8">láI</span>!
+9. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">zǒu</span><span style="color:#b0b0b0">Lù</span>.
+10. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">zǒu</span><span style="color:#b0b0b0">Lù</span> <span style="color:#ffd966">*ma*</span>?
 
 ## Pinyin Comprehension Check
 
-<div class="mc-options" data-question="L6-comp-1" data-correct="A">
+**1.** Lily <span style="color:#a78bfa">zěn</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>?
+- A) <span style="color:#b0b0b0">Zuò</span><span style="color:#ff6b35">CHĒ</span>
+- B) <span style="color:#a78bfa">zǒu</span><span style="color:#b0b0b0">Lù</span>
+- C) <span style="color:#b0b0b0">Qù</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span>
 
-**1. Lily zěnme huíJIĀ?**
-
-<label class="mc-option"><input type="radio" name="L6-comp-1" value="A"><span>A) ZuòCHĒ</span></label>
-<label class="mc-option"><input type="radio" name="L6-comp-1" value="B"><span>B) zǒuLù</span></label>
-<label class="mc-option"><input type="radio" name="L6-comp-1" value="C"><span>C) Qù GŌNGSĪ</span></label>
-</div>
-
-<div class="mc-options" data-question="L6-comp-2" data-correct="B">
-
-**2. Kevin zěnme huíJIĀ?**
-
-<label class="mc-option"><input type="radio" name="L6-comp-2" value="A"><span>A) ZuòCHĒ</span></label>
-<label class="mc-option"><input type="radio" name="L6-comp-2" value="B"><span>B) zǒuLù</span></label>
-<label class="mc-option"><input type="radio" name="L6-comp-2" value="C"><span>C) Bù huíJIĀ</span></label>
-</div>
+**2.** Kevin <span style="color:#a78bfa">zěn</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>?
+- A) <span style="color:#b0b0b0">Zuò</span><span style="color:#ff6b35">CHĒ</span>
+- B) <span style="color:#a78bfa">zǒu</span><span style="color:#b0b0b0">Lù</span>
+- C) <span style="color:#b0b0b0">Bù</span> <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>
 
 ## Pinyin Production
 
-<div class="mc-options" data-question="L6-prod-1" data-correct="A">
+**3.** "to go home" =
+- A) <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>
+- B) <span style="color:#b0b0b0">Qù</span> <span style="color:#ff6b35">JIĀ</span>
+- C) <span style="color:#6edcb8">láI</span> <span style="color:#ff6b35">JIĀ</span>
 
-**"to go home" =**
-
-<label class="mc-option"><input type="radio" name="L6-prod-1" value="A"><span>A) huíJIĀ</span></label>
-<label class="mc-option"><input type="radio" name="L6-prod-1" value="B"><span>B) Qù jiā</span></label>
-<label class="mc-option"><input type="radio" name="L6-prod-1" value="C"><span>C) láI jiā</span></label>
-</div>
-
-<div class="mc-options" data-question="L6-prod-2" data-correct="B">
-
-**"to walk" =**
-
-<label class="mc-option"><input type="radio" name="L6-prod-2" value="A"><span>A) ZuòCHĒ</span></label>
-<label class="mc-option"><input type="radio" name="L6-prod-2" value="B"><span>B) zǒuLù</span></label>
-<label class="mc-option"><input type="radio" name="L6-prod-2" value="C"><span>C) huíJIĀ</span></label>
-</div>
+**4.** "to walk" =
+- A) <span style="color:#b0b0b0">Zuò</span><span style="color:#ff6b35">CHĒ</span>
+- B) <span style="color:#a78bfa">zǒu</span><span style="color:#b0b0b0">Lù</span>
+- C) <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>
 
 ## Character Reader
 
-<p class="zh-cn" style="font-size: 1.5rem; line-height: 2.5;">
-Kevin 回家。<br>
-你回家嗎？<br>
-你怎麼回家？<br>
-我坐車回家。<br>
-你來嗎？<br>
-我坐車。<br>
-你回家嗎？好！<br>
-明天來！明天來！<br>
-我走路。<br>
+```zh-cn
+Kevin 回家。
+你回家嗎？
+你怎麼回家？
+我坐車回家。
+你來嗎？
+我坐車。
+你回家嗎？好！
+明天來！明天來！
+我走路。
 你走路嗎？
-</p>
+```
 
 ## Character Production
 
-<div class="mc-options" data-question="L6-char-1" data-correct="A">
+**5.** "home" =
+- A) <span style="color:#ff6b35">家</span>
+- B) <span style="color:#ff6b35">公</span><span style="color:#ff6b35">司</span>
+- C) <span style="color:#b0b0b0">會</span>
 
-**"home" =**
-
-<label class="mc-option"><input type="radio" name="L6-char-1" value="A"><span>A) 家</span></label>
-<label class="mc-option"><input type="radio" name="L6-char-1" value="B"><span>B) 公司</span></label>
-<label class="mc-option"><input type="radio" name="L6-char-1" value="C"><span>C) 會</span></label>
-</div>
-
-<div class="mc-options" data-question="L6-char-2" data-correct="B">
-
-**"to take a car" =**
-
-<label class="mc-option"><input type="radio" name="L6-char-2" value="A"><span>A) 走路</span></label>
-<label class="mc-option"><input type="radio" name="L6-char-2" value="B"><span>B) 坐車</span></label>
-<label class="mc-option"><input type="radio" name="L6-char-2" value="C"><span>C) 回家</span></label>
-</div>
+**6.** "to take a car" =
+- A) <span style="color:#a78bfa">走</span><span style="color:#b0b0b0">路</span>
+- B) <span style="color:#b0b0b0">坐</span><span style="color:#ff6b35">車</span>
+- C) <span style="color:#6edcb8">回</span><span style="color:#ff6b35">家</span>
 
 ## Typing
 
-**Type in pinyin:** "I walk"
+**7.** Type in pinyin: "I walk"
 → _______________
 
-**Type in characters:** "Come tomorrow"
+**8.** Type in characters: "Come tomorrow"
 → _______________
 
 ---
@@ -640,98 +496,74 @@ Kevin 回家。<br>
   <source src="/static/audio/lesson_07.mp3" type="audio/mpeg">
 </audio>
 
-1. <span class="zhongwen-pinyin" data-pinyin="ZǍOSHANG">ZǍOSHANG</span>, Kevin <span class="zhongwen-pinyin" data-pinyin="qǐCHUÁNG">qǐCHUÁNG</span>.
-2. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="ZǍOSHANG">ZǍOSHANG</span> <span class="zhongwen-pinyin" data-pinyin="jǐ">jǐ</span> <span class="zhongwen-pinyin" data-pinyin="diǎn">diǎn</span> <span class="zhongwen-pinyin" data-pinyin="qǐCHUÁNG">qǐCHUÁNG</span>?
-3. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="ZǍOSHANG">ZǍOSHANG</span> <span class="zhongwen-pinyin" data-pinyin="Liù">Liù</span> <span class="zhongwen-pinyin" data-pinyin="diǎn">diǎn</span> <span class="zhongwen-pinyin" data-pinyin="qǐCHUÁNG">qǐCHUÁNG</span>.
-4. <span class="zhongwen-pinyin" data-pinyin="xiànZÀI">xiànZÀI</span> <span class="zhongwen-pinyin" data-pinyin="BĀ">BĀ</span> <span class="zhongwen-pinyin" data-pinyin="diǎn">diǎn</span>.
-5. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="hěn">hěn</span> <span class="zhongwen-pinyin" data-pinyin="wǎn">wǎn</span>.
-6. <span class="zhongwen-pinyin" data-pinyin="xiànZÀI">xiànZÀI</span> <span class="zhongwen-pinyin" data-pinyin="jǐ">jǐ</span> <span class="zhongwen-pinyin" data-pinyin="diǎn">diǎn</span>?
-7. <span class="zhongwen-pinyin" data-pinyin="xiànZÀI">xiànZÀI</span> <span class="zhongwen-pinyin" data-pinyin="jǐ">jǐ</span> <span class="zhongwen-pinyin" data-pinyin="diǎn">diǎn</span>? <span class="zhongwen-pinyin" data-pinyin="GŌNGZuò">GŌNGZuò</span>!
-8. <span class="zhongwen-pinyin" data-pinyin="BùYào">BùYào</span> <span class="zhongwen-pinyin" data-pinyin="SHUÌJiào">SHUÌJiào</span>!
-9. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="hěn">hěn</span> <span class="zhongwen-pinyin" data-pinyin="zǎo">zǎo</span> <span class="zhongwen-pinyin" data-pinyin="SHUÌJiào">SHUÌJiào</span>.
-10. <span class="zhongwen-pinyin" data-pinyin="Yào">Yào</span> <span class="zhongwen-pinyin" data-pinyin="zǎo">zǎo</span> <span class="zhongwen-pinyin" data-pinyin="SHUÌJiào">SHUÌJiào</span>!
+1. <span style="color:#a78bfa">zǎo</span><span style="color:#ffd966">*shang*</span>, Kevin <span style="color:#a78bfa">qǐ</span><span style="color:#6edcb8">chuánG</span>.
+2. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">zǎo</span><span style="color:#ffd966">*shang*</span> <span style="color:#a78bfa">jǐ</span> <span style="color:#a78bfa">diǎn</span> <span style="color:#a78bfa">qǐ</span><span style="color:#6edcb8">chuánG</span>?
+3. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">zǎo</span><span style="color:#ffd966">*shang*</span> <span style="color:#b0b0b0">Liù</span> <span style="color:#a78bfa">diǎn</span> <span style="color:#a78bfa">qǐ</span><span style="color:#6edcb8">chuánG</span>.
+4. <span style="color:#b0b0b0">Xiàn</span><span style="color:#b0b0b0">ZÀI</span> <span style="color:#ff6b35">BĀ</span> <span style="color:#a78bfa">diǎn</span>.
+5. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">wǎn</span>.
+6. <span style="color:#b0b0b0">Xiàn</span><span style="color:#b0b0b0">ZÀI</span> <span style="color:#a78bfa">jǐ</span> <span style="color:#a78bfa">diǎn</span>?
+7. <span style="color:#b0b0b0">Xiàn</span><span style="color:#b0b0b0">ZÀI</span> <span style="color:#a78bfa">jǐ</span> <span style="color:#a78bfa">diǎn</span>? <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>!
+8. <span style="color:#b0b0b0">Bù</span><span style="color:#b0b0b0">Yào</span> <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>!
+9. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">zǎo</span> <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>.
+10. <span style="color:#b0b0b0">Yào</span> <span style="color:#a78bfa">zǎo</span> <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>!
 
 ## Pinyin Comprehension Check
 
-<div class="mc-options" data-question="L7-comp-1" data-correct="A">
+**1.** Kevin <span style="color:#a78bfa">jǐ</span> <span style="color:#a78bfa">diǎn</span> <span style="color:#a78bfa">qǐ</span><span style="color:#6edcb8">chuánG</span>?
+- A) <span style="color:#b0b0b0">Liù</span> <span style="color:#a78bfa">diǎn</span>
+- B) <span style="color:#ff6b35">BĀ</span> <span style="color:#a78bfa">diǎn</span>
+- C) <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">wǎn</span>
 
-**1. Kevin jǐ diǎn qǐCHUÁNG?**
-
-<label class="mc-option"><input type="radio" name="L7-comp-1" value="A"><span>A) Liù diǎn</span></label>
-<label class="mc-option"><input type="radio" name="L7-comp-1" value="B"><span>B) BĀ diǎn</span></label>
-<label class="mc-option"><input type="radio" name="L7-comp-1" value="C"><span>C) hěn wǎn</span></label>
-</div>
-
-<div class="mc-options" data-question="L7-comp-2" data-correct="B">
-
-**2. xiànZÀI jǐ diǎn?**
-
-<label class="mc-option"><input type="radio" name="L7-comp-2" value="A"><span>A) Liù diǎn</span></label>
-<label class="mc-option"><input type="radio" name="L7-comp-2" value="B"><span>B) BĀ diǎn</span></label>
-<label class="mc-option"><input type="radio" name="L7-comp-2" value="C"><span>C) hěn zǎo</span></label>
-</div>
+**2.** <span style="color:#b0b0b0">Xiàn</span><span style="color:#b0b0b0">ZÀI</span> <span style="color:#a78bfa">jǐ</span> <span style="color:#a78bfa">diǎn</span>?
+- A) <span style="color:#b0b0b0">Liù</span> <span style="color:#a78bfa">diǎn</span>
+- B) <span style="color:#ff6b35">BĀ</span> <span style="color:#a78bfa">diǎn</span>
+- C) <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">zǎo</span>
 
 ## Pinyin Production
 
-<div class="mc-options" data-question="L7-prod-1" data-correct="A">
+**3.** "now" =
+- A) <span style="color:#b0b0b0">Xiàn</span><span style="color:#b0b0b0">ZÀI</span>
+- B) <span style="color:#a78bfa">zǎo</span><span style="color:#ffd966">*shang*</span>
+- C) <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span>
 
-**"now" =**
-
-<label class="mc-option"><input type="radio" name="L7-prod-1" value="A"><span>A) xiànZÀI</span></label>
-<label class="mc-option"><input type="radio" name="L7-prod-1" value="B"><span>B) ZǍOSHANG</span></label>
-<label class="mc-option"><input type="radio" name="L7-prod-1" value="C"><span>C) JĪNTIĀN</span></label>
-</div>
-
-<div class="mc-options" data-question="L7-prod-2" data-correct="B">
-
-**"Don't sleep!" =**
-
-<label class="mc-option"><input type="radio" name="L7-prod-2" value="A"><span>A) Yào SHUÌJiào</span></label>
-<label class="mc-option"><input type="radio" name="L7-prod-2" value="B"><span>B) BùYào SHUÌJiào</span></label>
-<label class="mc-option"><input type="radio" name="L7-prod-2" value="C"><span>C) Bù SHUÌJiào</span></label>
-</div>
+**4.** "Don't sleep!" =
+- A) <span style="color:#b0b0b0">Yào</span> <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>
+- B) <span style="color:#b0b0b0">Bù</span><span style="color:#b0b0b0">Yào</span> <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>
+- C) <span style="color:#b0b0b0">Bù</span> <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>
 
 ## Character Reader
 
-<p class="zh-cn" style="font-size: 1.5rem; line-height: 2.5;">
-早上，Kevin 起床。<br>
-你早上幾點起床？<br>
-我早上六點起床。<br>
-現在八點。<br>
-你很晚。<br>
-現在幾點？<br>
-現在幾點？工作！<br>
-不要睡覺！<br>
-我很早睡覺。<br>
+```zh-cn
+早上，Kevin 起床。
+你早上幾點起床？
+我早上六點起床。
+現在八點。
+你很晚。
+現在幾點？
+現在幾點？工作！
+不要睡覺！
+我很早睡覺。
 要早睡覺！
-</p>
+```
 
 ## Character Production
 
-<div class="mc-options" data-question="L7-char-1" data-correct="A">
+**5.** "morning" =
+- A) <span style="color:#a78bfa">早</span><span style="color:#ffd966">上</span>
+- B) <span style="color:#b0b0b0">現</span><span style="color:#b0b0b0">在</span>
+- C) <span style="color:#a78bfa">晚</span>
 
-**"morning" =**
-
-<label class="mc-option"><input type="radio" name="L7-char-1" value="A"><span>A) 早上</span></label>
-<label class="mc-option"><input type="radio" name="L7-char-1" value="B"><span>B) 現在</span></label>
-<label class="mc-option"><input type="radio" name="L7-char-1" value="C"><span>C) 晚</span></label>
-</div>
-
-<div class="mc-options" data-question="L7-char-2" data-correct="B">
-
-**"to sleep" =**
-
-<label class="mc-option"><input type="radio" name="L7-char-2" value="A"><span>A) 起床</span></label>
-<label class="mc-option"><input type="radio" name="L7-char-2" value="B"><span>B) 睡覺</span></label>
-<label class="mc-option"><input type="radio" name="L7-char-2" value="C"><span>C) 工作</span></label>
-</div>
+**6.** "to sleep" =
+- A) <span style="color:#a78bfa">起</span><span style="color:#6edcb8">床</span>
+- B) <span style="color:#b0b0b0">睡</span><span style="color:#b0b0b0">覺</span>
+- C) <span style="color:#ff6b35">工</span><span style="color:#b0b0b0">作</span>
 
 ## Typing
 
-**Type in pinyin:** "What time is it now?"
+**7.** Type in pinyin: "What time is it now?"
 → _______________
 
-**Type in characters:** "I sleep early"
+**8.** Type in characters: "I sleep early"
 → _______________
 
 ---
@@ -744,98 +576,74 @@ Kevin 回家。<br>
   <source src="/static/audio/lesson_08.mp3" type="audio/mpeg">
 </audio>
 
-1. <span class="zhongwen-pinyin" data-pinyin="JĪNTIĀN">JĪNTIĀN</span> <span class="zhongwen-pinyin" data-pinyin="Shì">Shì</span> <span class="zhongwen-pinyin" data-pinyin="XĪNGQĪYĪ">XĪNGQĪYĪ</span>.
-2. <span class="zhongwen-pinyin" data-pinyin="JĪNTIĀN">JĪNTIĀN</span> <span class="zhongwen-pinyin" data-pinyin="XĪNGQĪ">XĪNGQĪ</span> <span class="zhongwen-pinyin" data-pinyin="jǐ">jǐ</span>?
-3. <span class="zhongwen-pinyin" data-pinyin="JĪNTIĀN">JĪNTIĀN</span> <span class="zhongwen-pinyin" data-pinyin="XĪNGQĪ">XĪNGQĪ</span> <span class="zhongwen-pinyin" data-pinyin="jǐ">jǐ</span>?
-4. <span class="zhongwen-pinyin" data-pinyin="JĪNTIĀN">JĪNTIĀN</span> <span class="zhongwen-pinyin" data-pinyin="XĪNGQĪYĪ">XĪNGQĪYĪ</span>.
-5. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="mínGTIĀN">mínGTIĀN</span> <span class="zhongwen-pinyin" data-pinyin="Bù">Bù</span> <span class="zhongwen-pinyin" data-pinyin="shànGBĀN">shànGBĀN</span>.
-6. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="mínGTIĀN">mínGTIĀN</span> <span class="zhongwen-pinyin" data-pinyin="shànGBĀN">shànGBĀN</span>.
-7. <span class="zhongwen-pinyin" data-pinyin="JĪNTIĀN">JĪNTIĀN</span> <span class="zhongwen-pinyin" data-pinyin="hěn">hěn</span> <span class="zhongwen-pinyin" data-pinyin="mánG">mánG</span>! <span class="zhongwen-pinyin" data-pinyin="mínGTIĀN">mínGTIĀN</span> <span class="zhongwen-pinyin" data-pinyin="yě">yě</span> <span class="zhongwen-pinyin" data-pinyin="hěn">hěn</span> <span class="zhongwen-pinyin" data-pinyin="mánG">mánG</span>!
-8. <span class="zhongwen-pinyin" data-pinyin="TIĀNTIĀN">TIĀNTIĀN</span> <span class="zhongwen-pinyin" data-pinyin="shànGBĀN">shànGBĀN</span>!
-9. <span class="zhongwen-pinyin" data-pinyin="zuóTIĀN">zuóTIĀN</span> <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="hěn">hěn</span> <span class="zhongwen-pinyin" data-pinyin="mánG">mánG</span>.
-10. <span class="zhongwen-pinyin" data-pinyin="mínGTIĀN">mínGTIĀN</span> <span class="zhongwen-pinyin" data-pinyin="Jiàn">Jiàn</span>!
+1. <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span><span style="color:#ff6b35">YĪ</span>.
+2. <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span> <span style="color:#a78bfa">jǐ</span>?
+3. <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span> <span style="color:#a78bfa">jǐ</span>?
+4. <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span><span style="color:#ff6b35">YĪ</span>.
+5. <span style="color:#a78bfa">wǒ</span> <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#b0b0b0">Shàng</span><span style="color:#ff6b35">BĀN</span>.
+6. <span style="color:#a78bfa">wǒ</span> <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Shàng</span><span style="color:#ff6b35">BĀN</span>.
+7. <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>! <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#a78bfa">yě</span> <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>!
+8. <span style="color:#ff6b35">TIĀN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Shàng</span><span style="color:#ff6b35">BĀN</span>!
+9. <span style="color:#6edcb8">zuó</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">hěn</span> <span style="color:#6edcb8">mánG</span>.
+10. <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Jiàn</span>!
 
 ## Pinyin Comprehension Check
 
-<div class="mc-options" data-question="L8-comp-1" data-correct="A">
+**1.** <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Shì</span>...
+- A) <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span><span style="color:#ff6b35">YĪ</span>
+- B) <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span><span style="color:#a78bfa">wǔ</span>
+- C) <span style="color:#6edcb8">zuó</span><span style="color:#ff6b35">TIĀN</span>
 
-**1. JĪNTIĀN Shì...**
-
-<label class="mc-option"><input type="radio" name="L8-comp-1" value="A"><span>A) XĪNGQĪYĪ</span></label>
-<label class="mc-option"><input type="radio" name="L8-comp-1" value="B"><span>B) XĪNGQĪWǓ</span></label>
-<label class="mc-option"><input type="radio" name="L8-comp-1" value="C"><span>C) zuóTIĀN</span></label>
-</div>
-
-<div class="mc-options" data-question="L8-comp-2" data-correct="B">
-
-**2. Boss Wang says work...**
-
-<label class="mc-option"><input type="radio" name="L8-comp-2" value="A"><span>A) JĪNTIĀN</span></label>
-<label class="mc-option"><input type="radio" name="L8-comp-2" value="B"><span>B) TIĀNTIĀN</span></label>
-<label class="mc-option"><input type="radio" name="L8-comp-2" value="C"><span>C) mínGTIĀN</span></label>
-</div>
+**2.** Boss Wang says work...
+- A) <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span>
+- B) <span style="color:#ff6b35">TIĀN</span><span style="color:#ff6b35">TIĀN</span>
+- C) <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span>
 
 ## Pinyin Production
 
-<div class="mc-options" data-question="L8-prod-1" data-correct="A">
+**3.** "today" =
+- A) <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span>
+- B) <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span>
+- C) <span style="color:#6edcb8">zuó</span><span style="color:#ff6b35">TIĀN</span>
 
-**"today" =**
-
-<label class="mc-option"><input type="radio" name="L8-prod-1" value="A"><span>A) JĪNTIĀN</span></label>
-<label class="mc-option"><input type="radio" name="L8-prod-1" value="B"><span>B) mínGTIĀN</span></label>
-<label class="mc-option"><input type="radio" name="L8-prod-1" value="C"><span>C) zuóTIĀN</span></label>
-</div>
-
-<div class="mc-options" data-question="L8-prod-2" data-correct="B">
-
-**"See you tomorrow!" =**
-
-<label class="mc-option"><input type="radio" name="L8-prod-2" value="A"><span>A) JĪNTIĀN Jiàn</span></label>
-<label class="mc-option"><input type="radio" name="L8-prod-2" value="B"><span>B) mínGTIĀN Jiàn</span></label>
-<label class="mc-option"><input type="radio" name="L8-prod-2" value="C"><span>C) zuóTIĀN Jiàn</span></label>
-</div>
+**4.** "See you tomorrow!" =
+- A) <span style="color:#ff6b35">JĪN</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Jiàn</span>
+- B) <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Jiàn</span>
+- C) <span style="color:#6edcb8">zuó</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Jiàn</span>
 
 ## Character Reader
 
-<p class="zh-cn" style="font-size: 1.5rem; line-height: 2.5;">
-今天是星期一。<br>
-今天星期幾？<br>
-今天星期幾？<br>
-今天星期一。<br>
-我明天不上班。<br>
-我明天上班。<br>
-今天很忙！明天也很忙！<br>
-天天上班！<br>
-昨天我很忙。<br>
+```zh-cn
+今天是星期一。
+今天星期幾？
+今天星期幾？
+今天星期一。
+我明天不上班。
+我明天上班。
+今天很忙！明天也很忙！
+天天上班！
+昨天我很忙。
 明天見！
-</p>
+```
 
 ## Character Production
 
-<div class="mc-options" data-question="L8-char-1" data-correct="A">
+**5.** "tomorrow" =
+- A) <span style="color:#6edcb8">明</span><span style="color:#ff6b35">天</span>
+- B) <span style="color:#ff6b35">今</span><span style="color:#ff6b35">天</span>
+- C) <span style="color:#6edcb8">昨</span><span style="color:#ff6b35">天</span>
 
-**"tomorrow" =**
-
-<label class="mc-option"><input type="radio" name="L8-char-1" value="A"><span>A) 明天</span></label>
-<label class="mc-option"><input type="radio" name="L8-char-1" value="B"><span>B) 今天</span></label>
-<label class="mc-option"><input type="radio" name="L8-char-1" value="C"><span>C) 昨天</span></label>
-</div>
-
-<div class="mc-options" data-question="L8-char-2" data-correct="B">
-
-**"to go to work" =**
-
-<label class="mc-option"><input type="radio" name="L8-char-2" value="A"><span>A) 工作</span></label>
-<label class="mc-option"><input type="radio" name="L8-char-2" value="B"><span>B) 上班</span></label>
-<label class="mc-option"><input type="radio" name="L8-char-2" value="C"><span>C) 回家</span></label>
-</div>
+**6.** "to go to work" =
+- A) <span style="color:#ff6b35">工</span><span style="color:#b0b0b0">作</span>
+- B) <span style="color:#b0b0b0">上</span><span style="color:#ff6b35">班</span>
+- C) <span style="color:#6edcb8">回</span><span style="color:#ff6b35">家</span>
 
 ## Typing
 
-**Type in pinyin:** "Today is Monday"
+**7.** Type in pinyin: "Today is Monday"
 → _______________
 
-**Type in characters:** "Work every day"
+**8.** Type in characters: "Work every day"
 → _______________
 
 ---
@@ -848,98 +656,74 @@ Kevin 回家。<br>
   <source src="/static/audio/lesson_09.mp3" type="audio/mpeg">
 </audio>
 
-1. Kevin <span class="zhongwen-pinyin" data-pinyin="*de*">*de*</span> <span class="zhongwen-pinyin" data-pinyin="diànHuà">diànHuà</span>.
-2. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="*de*">*de*</span> <span class="zhongwen-pinyin" data-pinyin="diànHuà">diànHuà</span>!
-3. <span class="zhongwen-pinyin" data-pinyin="Wèi">Wèi</span>?
-4. <span class="zhongwen-pinyin" data-pinyin="wánG">wánG</span> <span class="zhongwen-pinyin" data-pinyin="zǒng">zǒng</span> <span class="zhongwen-pinyin" data-pinyin="dǎ">dǎ</span> <span class="zhongwen-pinyin" data-pinyin="diànHuà">diànHuà</span>.
-5. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="*de*">*de*</span> <span class="zhongwen-pinyin" data-pinyin="shǒuJĪ">shǒuJĪ</span>.
-6. <span class="zhongwen-pinyin" data-pinyin="hǎo">hǎo</span>, <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="děng">děng</span>.
-7. <span class="zhongwen-pinyin" data-pinyin="Wèi">Wèi</span>! Kevin!
-8. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="ZÀI">ZÀI</span> <span class="zhongwen-pinyin" data-pinyin="nǎr">nǎr</span>? <span class="zhongwen-pinyin" data-pinyin="láI">láI</span> <span class="zhongwen-pinyin" data-pinyin="GŌNGSĪ">GŌNGSĪ</span>!
-9. <span class="zhongwen-pinyin" data-pinyin="BùYào">BùYào</span> <span class="zhongwen-pinyin" data-pinyin="děng">děng</span>!
-10. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="Wèn">Wèn</span> <span class="zhongwen-pinyin" data-pinyin="TĀ">TĀ</span>.
+1. Kevin <span style="color:#ffd966">*de*</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#b0b0b0">Huà</span>.
+2. <span style="color:#a78bfa">nǐ</span> <span style="color:#ffd966">*de*</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#b0b0b0">Huà</span>!
+3. <span style="color:#b0b0b0">Wèi</span>?
+4. <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span> <span style="color:#a78bfa">dǎ</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#b0b0b0">Huà</span>.
+5. <span style="color:#a78bfa">nǐ</span> <span style="color:#ffd966">*de*</span> <span style="color:#a78bfa">shǒu</span><span style="color:#ff6b35">JĪ</span>.
+6. <span style="color:#a78bfa">hǎo</span>, <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">děng</span>.
+7. <span style="color:#b0b0b0">Wèi</span>! Kevin!
+8. <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">ZÀI</span> <span style="color:#a78bfa">nǎr</span>? <span style="color:#6edcb8">láI</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span>!
+9. <span style="color:#b0b0b0">Bù</span><span style="color:#b0b0b0">Yào</span> <span style="color:#a78bfa">děng</span>!
+10. <span style="color:#a78bfa">wǒ</span> <span style="color:#b0b0b0">Wèn</span> <span style="color:#ff6b35">TĀ</span>.
 
 ## Pinyin Comprehension Check
 
-<div class="mc-options" data-question="L9-comp-1" data-correct="A">
+**1.** <span style="color:#6edcb8">shéI</span> <span style="color:#a78bfa">dǎ</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#b0b0b0">Huà</span>?
+- A) <span style="color:#6edcb8">wánG</span> <span style="color:#a78bfa">zǒng</span>
+- B) Kevin
+- C) Lily
 
-**1. shéI dǎ diànHuà?**
-
-<label class="mc-option"><input type="radio" name="L9-comp-1" value="A"><span>A) wánG zǒng</span></label>
-<label class="mc-option"><input type="radio" name="L9-comp-1" value="B"><span>B) Kevin</span></label>
-<label class="mc-option"><input type="radio" name="L9-comp-1" value="C"><span>C) Lily</span></label>
-</div>
-
-<div class="mc-options" data-question="L9-comp-2" data-correct="B">
-
-**2. Boss Wang says...**
-
-<label class="mc-option"><input type="radio" name="L9-comp-2" value="A"><span>A) huíJIĀ</span></label>
-<label class="mc-option"><input type="radio" name="L9-comp-2" value="B"><span>B) láI GŌNGSĪ</span></label>
-<label class="mc-option"><input type="radio" name="L9-comp-2" value="C"><span>C) děng</span></label>
-</div>
+**2.** Boss Wang says...
+- A) <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>
+- B) <span style="color:#6edcb8">láI</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#ff6b35">SĪ</span>
+- C) <span style="color:#a78bfa">děng</span>
 
 ## Pinyin Production
 
-<div class="mc-options" data-question="L9-prod-1" data-correct="A">
+**3.** "telephone" =
+- A) <span style="color:#b0b0b0">Diàn</span><span style="color:#b0b0b0">Huà</span>
+- B) <span style="color:#a78bfa">shǒu</span><span style="color:#ff6b35">JĪ</span>
+- C) <span style="color:#a78bfa">dǎ</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#b0b0b0">Huà</span>
 
-**"telephone" =**
-
-<label class="mc-option"><input type="radio" name="L9-prod-1" value="A"><span>A) diànHuà</span></label>
-<label class="mc-option"><input type="radio" name="L9-prod-1" value="B"><span>B) shǒuJĪ</span></label>
-<label class="mc-option"><input type="radio" name="L9-prod-1" value="C"><span>C) dǎ diànHuà</span></label>
-</div>
-
-<div class="mc-options" data-question="L9-prod-2" data-correct="B">
-
-**"Where are you?" =**
-
-<label class="mc-option"><input type="radio" name="L9-prod-2" value="A"><span>A) nǐ Shì shéI</span></label>
-<label class="mc-option"><input type="radio" name="L9-prod-2" value="B"><span>B) nǐ ZÀI nǎr</span></label>
-<label class="mc-option"><input type="radio" name="L9-prod-2" value="C"><span>C) nǐ Qù nǎr</span></label>
-</div>
+**4.** "Where are you?" =
+- A) <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">shéI</span>
+- B) <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">ZÀI</span> <span style="color:#a78bfa">nǎr</span>
+- C) <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Qù</span> <span style="color:#a78bfa">nǎr</span>
 
 ## Character Reader
 
-<p class="zh-cn" style="font-size: 1.5rem; line-height: 2.5;">
-Kevin 的電話。<br>
-你的電話！<br>
-喂？<br>
-王總打電話。<br>
-你的手機。<br>
-好，我等。<br>
-喂！Kevin！<br>
-你在哪兒？來公司！<br>
-不要等！<br>
+```zh-cn
+Kevin 的電話。
+你的電話！
+喂？
+王總打電話。
+你的手機。
+好，我等。
+喂！Kevin！
+你在哪兒？來公司！
+不要等！
 我問他。
-</p>
+```
 
 ## Character Production
 
-<div class="mc-options" data-question="L9-char-1" data-correct="A">
+**5.** "cell phone" =
+- A) <span style="color:#a78bfa">手</span><span style="color:#ff6b35">機</span>
+- B) <span style="color:#b0b0b0">電</span><span style="color:#b0b0b0">話</span>
+- C) <span style="color:#a78bfa">打</span><span style="color:#b0b0b0">電</span><span style="color:#b0b0b0">話</span>
 
-**"cell phone" =**
-
-<label class="mc-option"><input type="radio" name="L9-char-1" value="A"><span>A) 手機</span></label>
-<label class="mc-option"><input type="radio" name="L9-char-1" value="B"><span>B) 電話</span></label>
-<label class="mc-option"><input type="radio" name="L9-char-1" value="C"><span>C) 打電話</span></label>
-</div>
-
-<div class="mc-options" data-question="L9-char-2" data-correct="B">
-
-**"to wait" =**
-
-<label class="mc-option"><input type="radio" name="L9-char-2" value="A"><span>A) 問</span></label>
-<label class="mc-option"><input type="radio" name="L9-char-2" value="B"><span>B) 等</span></label>
-<label class="mc-option"><input type="radio" name="L9-char-2" value="C"><span>C) 來</span></label>
-</div>
+**6.** "to wait" =
+- A) <span style="color:#b0b0b0">問</span>
+- B) <span style="color:#a78bfa">等</span>
+- C) <span style="color:#6edcb8">來</span>
 
 ## Typing
 
-**Type in pinyin:** "I'll ask him"
+**7.** Type in pinyin: "I'll ask him"
 → _______________
 
-**Type in characters:** "Where are you?"
+**8.** Type in characters: "Where are you?"
 → _______________
 
 ---
@@ -952,98 +736,74 @@ Kevin 的電話。<br>
   <source src="/static/audio/lesson_10.mp3" type="audio/mpeg">
 </audio>
 
-1. <span class="zhongwen-pinyin" data-pinyin="XĪNGQĪWǓ">XĪNGQĪWǓ</span>!
-2. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="xiǎng">xiǎng</span> <span class="zhongwen-pinyin" data-pinyin="Zuò">Zuò</span> <span class="zhongwen-pinyin" data-pinyin="shénme">shénme</span>?
-3. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="xiǎng">xiǎng</span> <span class="zhongwen-pinyin" data-pinyin="Kàn">Kàn</span> <span class="zhongwen-pinyin" data-pinyin="diànYǐng">diànYǐng</span>.
-4. <span class="zhongwen-pinyin" data-pinyin="wǒ">wǒ</span> <span class="zhongwen-pinyin" data-pinyin="xiǎng">xiǎng</span> <span class="zhongwen-pinyin" data-pinyin="XIŪXI">XIŪXI</span>.
-5. <span class="zhongwen-pinyin" data-pinyin="wán">wán</span>? <span class="zhongwen-pinyin" data-pinyin="shénme">shénme</span> <span class="zhongwen-pinyin" data-pinyin="wán">wán</span>? <span class="zhongwen-pinyin" data-pinyin="GŌNGZuò">GŌNGZuò</span>!
-6. <span class="zhongwen-pinyin" data-pinyin="nǐ">nǐ</span> <span class="zhongwen-pinyin" data-pinyin="Yào">Yào</span> <span class="zhongwen-pinyin" data-pinyin="XIŪXI">XIŪXI</span>!
-7. <span class="zhongwen-pinyin" data-pinyin="XIŪXI">XIŪXI</span>? <span class="zhongwen-pinyin" data-pinyin="hǎo">hǎo</span>, <span class="zhongwen-pinyin" data-pinyin="hǎo">hǎo</span>, <span class="zhongwen-pinyin" data-pinyin="XIŪXI">XIŪXI</span>.
-8. <span class="zhongwen-pinyin" data-pinyin="wǒmen">wǒmen</span> <span class="zhongwen-pinyin" data-pinyin="Qù">Qù</span> <span class="zhongwen-pinyin" data-pinyin="nǎr">nǎr</span>?
-9. <span class="zhongwen-pinyin" data-pinyin="wǒmen">wǒmen</span> <span class="zhongwen-pinyin" data-pinyin="Qù">Qù</span> <span class="zhongwen-pinyin" data-pinyin="nàr">nàr</span>.
-10. <span class="zhongwen-pinyin" data-pinyin="Qù">Qù</span> <span class="zhongwen-pinyin" data-pinyin="wán">wán</span>!
+1. <span style="color:#ff6b35">XĪNG</span><span style="color:#ff6b35">QĪ</span><span style="color:#a78bfa">wǔ</span>!
+2. <span style="color:#a78bfa">nǐ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#b0b0b0">Zuò</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span>?
+3. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#b0b0b0">Kàn</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#a78bfa">yǐng</span>.
+4. <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">xiǎng</span> <span style="color:#ff6b35">XIŪ</span><span style="color:#ff6b35">XI</span>.
+5. <span style="color:#6edcb8">wán</span>? <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">wán</span>? <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>!
+6. <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Yào</span> <span style="color:#ff6b35">XIŪ</span><span style="color:#ff6b35">XI</span>!
+7. <span style="color:#ff6b35">XIŪ</span><span style="color:#ff6b35">XI</span>? <span style="color:#a78bfa">hǎo</span>, <span style="color:#a78bfa">hǎo</span>, <span style="color:#ff6b35">XIŪ</span><span style="color:#ff6b35">XI</span>.
+8. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#b0b0b0">Qù</span> <span style="color:#a78bfa">nǎr</span>?
+9. <span style="color:#a78bfa">wǒ</span><span style="color:#a78bfa">men</span> <span style="color:#b0b0b0">Qù</span> <span style="color:#b0b0b0">Nàr</span>.
+10. <span style="color:#b0b0b0">Qù</span> <span style="color:#6edcb8">wán</span>!
 
 ## Pinyin Comprehension Check
 
-<div class="mc-options" data-question="L10-comp-1" data-correct="A">
+**1.** Lily <span style="color:#a78bfa">xiǎng</span>...
+- A) <span style="color:#b0b0b0">Kàn</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#a78bfa">yǐng</span>
+- B) <span style="color:#ff6b35">XIŪ</span><span style="color:#ff6b35">XI</span>
+- C) <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>
 
-**1. Lily xiǎng...**
-
-<label class="mc-option"><input type="radio" name="L10-comp-1" value="A"><span>A) Kàn diànYǐng</span></label>
-<label class="mc-option"><input type="radio" name="L10-comp-1" value="B"><span>B) XIŪXI</span></label>
-<label class="mc-option"><input type="radio" name="L10-comp-1" value="C"><span>C) GŌNGZuò</span></label>
-</div>
-
-<div class="mc-options" data-question="L10-comp-2" data-correct="B">
-
-**2. Kevin xiǎng...**
-
-<label class="mc-option"><input type="radio" name="L10-comp-2" value="A"><span>A) Kàn diànYǐng</span></label>
-<label class="mc-option"><input type="radio" name="L10-comp-2" value="B"><span>B) XIŪXI</span></label>
-<label class="mc-option"><input type="radio" name="L10-comp-2" value="C"><span>C) wán</span></label>
-</div>
+**2.** Kevin <span style="color:#a78bfa">xiǎng</span>...
+- A) <span style="color:#b0b0b0">Kàn</span> <span style="color:#b0b0b0">Diàn</span><span style="color:#a78bfa">yǐng</span>
+- B) <span style="color:#ff6b35">XIŪ</span><span style="color:#ff6b35">XI</span>
+- C) <span style="color:#6edcb8">wán</span>
 
 ## Pinyin Production
 
-<div class="mc-options" data-question="L10-prod-1" data-correct="A">
+**3.** "to rest" =
+- A) <span style="color:#ff6b35">XIŪ</span><span style="color:#ff6b35">XI</span>
+- B) <span style="color:#6edcb8">wán</span>
+- C) <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>
 
-**"to rest" =**
-
-<label class="mc-option"><input type="radio" name="L10-prod-1" value="A"><span>A) XIŪXI</span></label>
-<label class="mc-option"><input type="radio" name="L10-prod-1" value="B"><span>B) wán</span></label>
-<label class="mc-option"><input type="radio" name="L10-prod-1" value="C"><span>C) SHUÌJiào</span></label>
-</div>
-
-<div class="mc-options" data-question="L10-prod-2" data-correct="B">
-
-**"Go play!" =**
-
-<label class="mc-option"><input type="radio" name="L10-prod-2" value="A"><span>A) wán Qù</span></label>
-<label class="mc-option"><input type="radio" name="L10-prod-2" value="B"><span>B) Qù wán</span></label>
-<label class="mc-option"><input type="radio" name="L10-prod-2" value="C"><span>C) láI wán</span></label>
-</div>
+**4.** "Go play!" =
+- A) <span style="color:#6edcb8">wán</span> <span style="color:#b0b0b0">Qù</span>
+- B) <span style="color:#b0b0b0">Qù</span> <span style="color:#6edcb8">wán</span>
+- C) <span style="color:#6edcb8">láI</span> <span style="color:#6edcb8">wán</span>
 
 ## Character Reader
 
-<p class="zh-cn" style="font-size: 1.5rem; line-height: 2.5;">
-星期五！<br>
-你想做什麼？<br>
-我想看電影。<br>
-我想休息。<br>
-玩？什麼玩？工作！<br>
-你要休息！<br>
-休息？好，好，休息。<br>
-我們去哪兒？<br>
-我們去那兒。<br>
+```zh-cn
+星期五！
+你想做什麼？
+我想看電影。
+我想休息。
+玩？什麼玩？工作！
+你要休息！
+休息？好，好，休息。
+我們去哪兒？
+我們去那兒。
 去玩！
-</p>
+```
 
 ## Character Production
 
-<div class="mc-options" data-question="L10-char-1" data-correct="A">
+**5.** "movie" =
+- A) <span style="color:#b0b0b0">電</span><span style="color:#a78bfa">影</span>
+- B) <span style="color:#b0b0b0">電</span><span style="color:#b0b0b0">話</span>
+- C) <span style="color:#a78bfa">手</span><span style="color:#ff6b35">機</span>
 
-**"movie" =**
-
-<label class="mc-option"><input type="radio" name="L10-char-1" value="A"><span>A) 電影</span></label>
-<label class="mc-option"><input type="radio" name="L10-char-1" value="B"><span>B) 電話</span></label>
-<label class="mc-option"><input type="radio" name="L10-char-1" value="C"><span>C) 手機</span></label>
-</div>
-
-<div class="mc-options" data-question="L10-char-2" data-correct="B">
-
-**"there" =**
-
-<label class="mc-option"><input type="radio" name="L10-char-2" value="A"><span>A) 這兒</span></label>
-<label class="mc-option"><input type="radio" name="L10-char-2" value="B"><span>B) 那兒</span></label>
-<label class="mc-option"><input type="radio" name="L10-char-2" value="C"><span>C) 哪兒</span></label>
-</div>
+**6.** "there" =
+- A) <span style="color:#b0b0b0">這</span><span style="color:#6edcb8">兒</span>
+- B) <span style="color:#b0b0b0">那</span><span style="color:#6edcb8">兒</span>
+- C) <span style="color:#a78bfa">哪</span><span style="color:#6edcb8">兒</span>
 
 ## Typing
 
-**Type in pinyin:** "I want to watch a movie"
+**7.** Type in pinyin: "I want to watch a movie"
 → _______________
 
-**Type in characters:** "Go play!"
+**8.** Type in characters: "Go play!"
 → _______________
 
 ---
@@ -1061,6 +821,76 @@ Kevin 的電話。<br>
 <div style="display:none">
 
 ## Answers
+
+1. A
+2. B
+3. A
+4. B
+5. A
+6. B
+
+7. A
+8. B
+9. B
+10. A
+11. A
+12. B
+
+13. A
+14. B
+15. A
+16. B
+17. A
+18. B
+
+19. A
+20. B
+21. A
+22. B
+23. A
+24. B
+
+25. B
+26. A
+27. A
+28. B
+29. A
+30. B
+
+31. A
+32. B
+33. A
+34. B
+35. A
+36. B
+
+37. A
+38. B
+39. A
+40. B
+41. A
+42. B
+
+43. A
+44. B
+45. A
+46. B
+47. A
+48. B
+
+49. A
+50. B
+51. A
+52. B
+53. A
+54. B
+
+55. A
+56. B
+57. A
+58. B
+59. A
+60. B
 
 **Typing:**
 - 1: nǐhǎo
@@ -1091,62 +921,62 @@ Kevin 的電話。<br>
 
 ### Lesson 1
 - Comp: 1-A, 2-B
-- Prod: 1-A, 2-B
-- Char: 1-A, 2-B
+- Prod: 3-A, 4-B
+- Char: 5-A, 6-B
 - Typing: nǐhǎo | 我叫 Kevin
 
 ### Lesson 2
 - Comp: 1-B, 2-A
-- Prod: 1-B, 2-A
-- Char: 1-A, 2-B
+- Prod: 3-B, 4-A
+- Char: 5-A, 6-B
 - Typing: wǒ bù zhīdào | 我們很忙
 
 ### Lesson 3
 - Comp: 1-A, 2-B
-- Prod: 1-A, 2-B
-- Char: 1-A, 2-B
+- Prod: 3-A, 4-B
+- Char: 5-A, 6-B
 - Typing: nǐ tīng | 大家都在說話
 
 ### Lesson 4
 - Comp: 1-A, 2-B
-- Prod: 1-A, 2-B
-- Char: 1-A, 2-B
+- Prod: 3-A, 4-B
+- Char: 5-A, 6-B
 - Typing: hěn hǎochī | 我要喝水
 
 ### Lesson 5
 - Comp: 1-B, 2-A
-- Prod: 1-A, 2-B
-- Char: 1-A, 2-B
+- Prod: 3-A, 4-B
+- Char: 5-A, 6-B
 - Typing: wǒ ài gōngsī | 我們都是朋友
 
 ### Lesson 6
 - Comp: 1-A, 2-B
-- Prod: 1-A, 2-B
-- Char: 1-A, 2-B
+- Prod: 3-A, 4-B
+- Char: 5-A, 6-B
 - Typing: wǒ zǒu lù | 明天來
 
 ### Lesson 7
 - Comp: 1-A, 2-B
-- Prod: 1-A, 2-B
-- Char: 1-A, 2-B
+- Prod: 3-A, 4-B
+- Char: 5-A, 6-B
 - Typing: xiànzài jǐ diǎn | 我很早睡覺
 
 ### Lesson 8
 - Comp: 1-A, 2-B
-- Prod: 1-A, 2-B
-- Char: 1-A, 2-B
+- Prod: 3-A, 4-B
+- Char: 5-A, 6-B
 - Typing: jīntiān shì xīngqīyī | 天天上班
 
 ### Lesson 9
 - Comp: 1-A, 2-B
-- Prod: 1-A, 2-B
-- Char: 1-A, 2-B
+- Prod: 3-A, 4-B
+- Char: 5-A, 6-B
 - Typing: wǒ wèn tā | 你在哪兒
 
 ### Lesson 10
 - Comp: 1-A, 2-B
-- Prod: 1-A, 2-B
-- Char: 1-A, 2-B
+- Prod: 3-A, 4-B
+- Char: 5-A, 6-B
 - Typing: wǒ xiǎng kàn diànyǐng | 去玩
 
 </details>
