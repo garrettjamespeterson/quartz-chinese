@@ -6,7 +6,7 @@ const STORAGE_KEY_CAPITALIZATION = "zhongwen-capitalization"
 // In-memory storage for exercise state (resets on hard refresh, persists during SPA nav)
 const exerciseState = new Map<string, string>()
 
-// Default settings for chinese.garrettjamespeterson.com
+// Default settings for chinese.mugwortmilfoil.com
 // - Pinyin: hover (available on hover for reference)
 // - Colors: on (tone colors visible for learning)
 // - Capitalization: on (tone patterns via capitalization)

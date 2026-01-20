@@ -2,7 +2,7 @@
 
 ## What This Is
 
-**Quartz build system** for chinese.garrettjamespeterson.com
+**Quartz build system** for chinese.mugwortmilfoil.com
 
 This is NOT where lesson content lives. Lesson `.md` files belong in the Obsidian vault.
 
@@ -108,7 +108,7 @@ To publish after vault changes:
 
 | Attribute | Value |
 |-----------|-------|
-| URL | chinese.garrettjamespeterson.com |
+| URL | chinese.mugwortmilfoil.com |
 | GitHub | garrettjamespeterson/quartz-chinese |
 | Branch | v4 |
 | Build | GitHub Actions on push |
