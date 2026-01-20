@@ -33,6 +33,8 @@ const COMPOUND_OVERRIDES: Record<string, PinyinOverride> = {
   那么: { pinyin: ["nà", "me"], tones: [4, 5] },
   这么: { pinyin: ["zhè", "me"], tones: [4, 5] },
   多么: { pinyin: ["duō", "me"], tones: [1, 5] },
+  // 字-ending compounds (字 is neutral tone in these)
+  名字: { pinyin: ["míng", "zi"], tones: [2, 5] },
 }
 
 // Single character overrides for common particles
