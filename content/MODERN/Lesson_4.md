@@ -335,6 +335,18 @@ Auntie Fang: 吃！吃！
 14. B
 15. B
 
+**Typing:**
+- 1: wǒ hē chá
+- 2: hěn hǎochī
+- 3: wǒ yào shuǐ
+- 4: chī fàn chī fàn
+- 5: nǐ yào hē shénme
+- 6: 我喝茶
+- 7: 很好吃
+- 8: 我要水
+- 9: 吃飯吃飯
+- 10: 你要喝什麼
+
 </div>
 
 <details>

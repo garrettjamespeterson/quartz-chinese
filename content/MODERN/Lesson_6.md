@@ -314,6 +314,16 @@ Kevin: 我走路。
 
 ---
 
+## Navigation
+
+<div style="display: flex; justify-content: space-between; margin: 2rem 0;">
+  <a href="/MODERN/Lesson_5">← Lesson 5</a>
+  <a href="/MODERN/">Home</a>
+  <a href="/MODERN/Lesson_7">Lesson 7 →</a>
+</div>
+
+---
+
 <div style="display:none">
 
 ## Answers
@@ -335,6 +345,18 @@ Kevin: 我走路。
 13. C
 14. B
 15. C
+
+**Typing:**
+- 1: wǒ zǒu lù
+- 2: nǐ huí jiā ma
+- 3: wǒ zuò chē
+- 4: nǐ zǒu lù ma
+- 5: Kevin huí jiā
+- 6: 我走路
+- 7: 你回家嗎
+- 8: 我坐車
+- 9: 你走路嗎
+- 10: Kevin 回家
 
 </div>
 

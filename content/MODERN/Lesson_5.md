@@ -309,6 +309,16 @@ Auntie Fang: 我們都是朋友。
 
 ---
 
+## Navigation
+
+<div style="display: flex; justify-content: space-between; margin: 2rem 0;">
+  <a href="/MODERN/Lesson_4">← Lesson 4</a>
+  <a href="/MODERN/">Home</a>
+  <a href="/MODERN/Lesson_6">Lesson 6 →</a>
+</div>
+
+---
+
 <div style="display:none">
 
 ## Answers
@@ -330,6 +340,18 @@ Auntie Fang: 我們都是朋友。
 13. B
 14. A
 15. C
+
+**Typing:**
+- 1: wǒ ài gōngsī
+- 2: wǒ rènshi tā
+- 3: nǐ xǐhuan shénme
+- 4: tāmen dōu shì tóngxué
+- 5: Kevin rènshi tāmen
+- 6: 我愛公司
+- 7: 我認識他
+- 8: 你喜歡什麼
+- 9: 他們都是同學
+- 10: Kevin 認識他們
 
 </div>
 

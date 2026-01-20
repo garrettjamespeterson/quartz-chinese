@@ -333,6 +333,18 @@ Boss Wang: 好，好！
 14. A
 15. B
 
+**Typing:**
+- 1: wǒmen hěn máng
+- 2: nǐ zhīdào ma
+- 3: wǒmen zuò shénme
+- 4: wǒ gōngzuò
+- 5: nǐ máng ma
+- 6: 我們很忙
+- 7: 你知道嗎
+- 8: 我們做什麼
+- 9: 我工作
+- 10: 你忙嗎
+
 </div>
 
 <details>

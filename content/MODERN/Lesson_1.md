@@ -325,6 +325,18 @@ Boss Wang: Kevin！好，好！
 14. A
 15. B
 
+**Typing:**
+- 1: nǐhǎo
+- 2: wǒ shì xīnrén
+- 3: tā shì shéi
+- 4: wǒ de míngzi shì Kevin
+- 5: zhè shì wáng zǒng
+- 6: 你好
+- 7: 我是新人
+- 8: 他是誰
+- 9: 我的名字是 Kevin
+- 10: 這是王總
+
 </div>
 
 <details>

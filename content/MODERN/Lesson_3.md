@@ -338,6 +338,18 @@ Kevin: 這個會……很忙。
 14. B
 15. B
 
+**Typing:**
+- 1: zhè shì huì
+- 2: wǒ hái bù zhīdào
+- 3: tā shuōhuà
+- 4: duì, wǒmen hěn máng
+- 5: wèntí shì shénme
+- 6: 這是會
+- 7: 我還不知道
+- 8: 他說話
+- 9: 對，我們很忙
+- 10: 問題是什麼
+
 </div>
 
 <details>
