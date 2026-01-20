@@ -14,7 +14,7 @@ I built this because I was frustrated. Years of apps and flashcards hadn't given
 
 **The core principle:** You acquire language through *comprehensible and compelling input* — meaningful stories you can actually follow, not random sentences about pens and tables.
 
-**Cold Character Reading:** Characters are introduced *after* you've already learned the sounds and meanings through pinyin. By the time you see 你好, you already know it's <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span> and means "hello." This makes character recognition about connecting shapes to sounds you already own — not decoding from scratch.
+**Cold Character Reading:** Characters are introduced *after* you've already learned the sounds and meanings through pinyin. By the time you see 你好, you already know that <span style="color:#a78bfa">nǐ</span><span style="color:#a78bfa">hǎo</span> means "hello." and now you just need to make the visual connections. This makes character recognition about connecting shapes to sounds you already own — not decoding from scratch.
 
 ---
 
