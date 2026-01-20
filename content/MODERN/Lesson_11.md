@@ -2,6 +2,120 @@
 audience: chinese
 title: "Lesson 11: Comprehensive Review"
 lesson: 11
+audio:
+  lines:
+    # Lesson 1 (lines 1-10)
+    1: "/static/audio/L01/這是Kevin_.mp3"
+    2: "/static/audio/L01/Kevin是新人_.mp3"
+    3: "/static/audio/L01/你好_你是新人嗎_.mp3"
+    4: "/static/audio/L01/是_我是新人_我叫Kevin.mp3"
+    5: "/static/audio/L01/我叫李麗_.mp3"
+    6: "/static/audio/L01/這是王總_.mp3"
+    7: "/static/audio/L01/他是王總_.mp3"
+    8: "/static/audio/L01/你好_你叫什麼名字_.mp3"
+    9: "/static/audio/L01/我叫Kevin.mp3"
+    10: "/static/audio/L01/Kevin_好_好_.mp3"
+    # Lesson 2 (lines 11-20)
+    11: "/static/audio/L02/Kevin在公司_.mp3"
+    12: "/static/audio/L02/Lily_這個公司做什麼_.mp3"
+    13: "/static/audio/L02/我們__工作_.mp3"
+    14: "/static/audio/L02/工作_我們做什麼工作_.mp3"
+    15: "/static/audio/L02/我不知道_.mp3"
+    16: "/static/audio/L02/你好_你好_.mp3"
+    17: "/static/audio/L02/王總_公司做什麼_.mp3"
+    18: "/static/audio/L02/我們很忙_很忙_.mp3"
+    19: "/static/audio/L02/你們做什麼_.mp3"
+    20: "/static/audio/L02/好_好_.mp3"
+    # Lesson 3 (lines 21-30)
+    21: "/static/audio/L03/line_01.mp3"
+    22: "/static/audio/L03/line_02.mp3"
+    23: "/static/audio/L03/line_03.mp3"
+    24: "/static/audio/L03/line_04.mp3"
+    25: "/static/audio/L03/line_05.mp3"
+    26: "/static/audio/L03/line_06.mp3"
+    27: "/static/audio/L03/line_07.mp3"
+    28: "/static/audio/L03/line_08.mp3"
+    29: "/static/audio/L03/line_09.mp3"
+    30: "/static/audio/L03/line_10.mp3"
+    # Lesson 4 (lines 31-42)
+    31: "/static/audio/L04/line_01.mp3"
+    32: "/static/audio/L04/line_02.mp3"
+    33: "/static/audio/L04/line_03.mp3"
+    34: "/static/audio/L04/line_04.mp3"
+    35: "/static/audio/L04/line_05.mp3"
+    36: "/static/audio/L04/line_06.mp3"
+    37: "/static/audio/L04/line_07.mp3"
+    38: "/static/audio/L04/line_08.mp3"
+    39: "/static/audio/L04/line_09.mp3"
+    40: "/static/audio/L04/line_10.mp3"
+    41: "/static/audio/L04/line_11.mp3"
+    42: "/static/audio/L04/line_12.mp3"
+    # Lesson 5 (lines 43-52)
+    43: "/static/audio/L05/L05_narrator_01.mp3"
+    44: "/static/audio/L05/L05_fang_01.mp3"
+    45: "/static/audio/L05/L05_lily_03.mp3"
+    46: "/static/audio/L05/L05_kevin_01.mp3"
+    47: "/static/audio/L05/L05_lily_01.mp3"
+    48: "/static/audio/L05/L05_kevin_02.mp3"
+    49: "/static/audio/L05/L05_lily_02.mp3"
+    50: "/static/audio/L05/L05_wang_01.mp3"
+    51: "/static/audio/L05/L05_wang_02.mp3"
+    52: "/static/audio/L05/L05_fang_02.mp3"
+    # Lesson 6 (lines 53-62)
+    53: "/static/audio/L06/L06_narrator_01.mp3"
+    54: "/static/audio/L06/L06_fang_01.mp3"
+    55: "/static/audio/L06/L06_kevin_01.mp3"
+    56: "/static/audio/L06/L06_lily_01.mp3"
+    57: "/static/audio/L06/L06_lily_02.mp3"
+    58: "/static/audio/L06/L06_kevin_02.mp3"
+    59: "/static/audio/L06/L06_wang_01.mp3"
+    60: "/static/audio/L06/L06_wang_02.mp3"
+    61: "/static/audio/L06/L06_fang_02.mp3"
+    62: "/static/audio/L06/L06_kevin_03.mp3"
+    # Lesson 7 (lines 63-72)
+    63: "/static/audio/L07/L07_narrator_01.mp3"
+    64: "/static/audio/L07/L07_fang_01.mp3"
+    65: "/static/audio/L07/L07_kevin_01.mp3"
+    66: "/static/audio/L07/L07_lily_01.mp3"
+    67: "/static/audio/L07/L07_lily_02.mp3"
+    68: "/static/audio/L07/L07_kevin_02.mp3"
+    69: "/static/audio/L07/L07_wang_01.mp3"
+    70: "/static/audio/L07/L07_wang_02.mp3"
+    71: "/static/audio/L07/L07_kevin_03.mp3"
+    72: "/static/audio/L07/L07_fang_02.mp3"
+    # Lesson 8 (lines 73-82)
+    73: "/static/audio/L08/L08_narrator_01.mp3"
+    74: "/static/audio/L08/L08_kevin_01.mp3"
+    75: "/static/audio/L08/L08_fang_01.mp3"
+    76: "/static/audio/L08/L08_lily_01.mp3"
+    77: "/static/audio/L08/L08_lily_02.mp3"
+    78: "/static/audio/L08/L08_kevin_02.mp3"
+    79: "/static/audio/L08/L08_wang_01.mp3"
+    80: "/static/audio/L08/L08_wang_02.mp3"
+    81: "/static/audio/L08/L08_kevin_03.mp3"
+    82: "/static/audio/L08/L08_fang_02.mp3"
+    # Lesson 9 (lines 83-92)
+    83: "/static/audio/L09/L09_narrator_01.mp3"
+    84: "/static/audio/L09/L09_fang_01.mp3"
+    85: "/static/audio/L09/L09_kevin_01.mp3"
+    86: "/static/audio/L09/L09_lily_01.mp3"
+    87: "/static/audio/L09/L09_lily_02.mp3"
+    88: "/static/audio/L09/L09_kevin_02.mp3"
+    89: "/static/audio/L09/L09_wang_01.mp3"
+    90: "/static/audio/L09/L09_wang_02.mp3"
+    91: "/static/audio/L09/L09_wang_03.mp3"
+    92: "/static/audio/L09/L09_kevin_03.mp3"
+    # Lesson 10 (lines 93-102)
+    93: "/static/audio/L10/L10_narrator_01.mp3"
+    94: "/static/audio/L10/L10_kevin_01.mp3"
+    95: "/static/audio/L10/L10_lily_01.mp3"
+    96: "/static/audio/L10/L10_kevin_02.mp3"
+    97: "/static/audio/L10/L10_wang_01.mp3"
+    98: "/static/audio/L10/L10_fang_01.mp3"
+    99: "/static/audio/L10/L10_wang_02.mp3"
+    100: "/static/audio/L10/L10_kevin_03.mp3"
+    101: "/static/audio/L10/L10_lily_02.mp3"
+    102: "/static/audio/L10/L10_fang_02.mp3"
 ---
 
 # Act 1 Comprehensive Review
@@ -53,17 +167,15 @@ lesson: 11
 - B) <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Jiào</span> <span style="color:#6edcb8">shéN</span><span style="color:#ffd966">*me*</span> <span style="color:#6edcb8">mínG</span><span style="color:#ffd966">*zi*</span>
 - C) <span style="color:#ff6b35">TĀ</span> <span style="color:#b0b0b0">Shì</span> <span style="color:#6edcb8">shéI</span>
 
-## Character Reader
-
-<audio controls style="width: 100%; margin: 1rem 0;">
-  <source src="/static/audio/lesson_01.mp3" type="audio/mpeg">
-</audio>
+## Character Reader (click for audio)
 
 ```zh-cn
-這是 Kevin。Kevin 是新人。
+這是 Kevin。
+Kevin 是新人。
 你好！你是新人嗎？
 是，我是新人。我叫 Kevin。
-我叫李麗。這是王總。
+我叫李麗。
+這是王總。
 他是王總。
 你好！你叫什麼名字？
 我叫 Kevin。
@@ -135,22 +247,18 @@ Kevin！好，好！
 - B) <span style="color:#a78bfa">wǒ</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>
 - C) <span style="color:#ff6b35">TĀ</span><span style="color:#ffd966">*men*</span> <span style="color:#ff6b35">GŌNG</span><span style="color:#b0b0b0">Zuò</span>
 
-## Character Reader
-
-<audio controls style="width: 100%; margin: 1rem 0;">
-  <source src="/static/audio/lesson_02.mp3" type="audio/mpeg">
-</audio>
+## Character Reader (click for audio)
 
 ```zh-cn
 Kevin 在公司。
-這個公司做什麼？
-工作？我們做什麼工作？
+Kevin: 這個公司做什麼？
 我們……工作。
-你們做什麼？
+工作？我們做什麼工作？
 我不知道。
 你好！你好！
+王總，公司做什麼？
 我們很忙！很忙！
-公司做什麼？
+你們做什麼？
 好，好！
 ```
 
@@ -219,23 +327,19 @@ Kevin 在公司。
 - B) <span style="color:#a78bfa">wǒ</span> <span style="color:#6edcb8">háI</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>
 - C) <span style="color:#a78bfa">wǒ</span> <span style="color:#a78bfa">yě</span> <span style="color:#b0b0b0">Bù</span> <span style="color:#ff6b35">ZHĪ</span><span style="color:#b0b0b0">Dào</span>
 
-## Character Reader
-
-<audio controls style="width: 100%; margin: 1rem 0;">
-  <source src="/static/audio/lesson_03.mp3" type="audio/mpeg">
-</audio>
+## Character Reader (click for audio)
 
 ```zh-cn
 Kevin 在會。
 大家好！大家好！
+大家都在說話。
+我們有問題嗎？沒有！
 大家說什麼？
 大家都在說話。
 你聽。
 我不知道。我還不知道。
-我們有問題嗎？沒有！
 好！很好！
 這個會……很忙。
-對。
 ```
 
 ## Character Production
@@ -303,20 +407,18 @@ Kevin 在會。
 - B) <span style="color:#a78bfa">hǎo</span><span style="color:#ff6b35">CHĪ</span>
 - C) <span style="color:#a78bfa">hěn</span> <span style="color:#a78bfa">hǎo</span>
 
-## Character Reader
-
-<audio controls style="width: 100%; margin: 1rem 0;">
-  <source src="/static/audio/lesson_04.mp3" type="audio/mpeg">
-</audio>
+## Character Reader (click for audio)
 
 ```zh-cn
 Kevin 想吃飯。
 你好！你想吃什麼？
 我想吃飯。
+要喝水嗎？
+我要喝水。
 你想吃什麼？
 我喝茶。
-我要喝水。
 吃飯！吃飯！
+這個很好吃！
 好吃嗎？
 好吃！很好吃！
 吃！吃！
@@ -387,11 +489,7 @@ Kevin 想吃飯。
 - B) <span style="color:#6edcb8">pénG</span><span style="color:#ffd966">*you*</span>
 - C) <span style="color:#b0b0b0">Dà</span><span style="color:#ff6b35">JIĀ</span>
 
-## Character Reader
-
-<audio controls style="width: 100%; margin: 1rem 0;">
-  <source src="/static/audio/lesson_05.mp3" type="audio/mpeg">
-</audio>
+## Character Reader (click for audio)
 
 ```zh-cn
 Kevin 認識他們。
@@ -471,11 +569,7 @@ Kevin 認識他們。
 - B) <span style="color:#a78bfa">zǒu</span><span style="color:#b0b0b0">Lù</span>
 - C) <span style="color:#6edcb8">huí</span><span style="color:#ff6b35">JIĀ</span>
 
-## Character Reader
-
-<audio controls style="width: 100%; margin: 1rem 0;">
-  <source src="/static/audio/lesson_06.mp3" type="audio/mpeg">
-</audio>
+## Character Reader (click for audio)
 
 ```zh-cn
 Kevin 回家。
@@ -486,8 +580,8 @@ Kevin 回家。
 我坐車。
 你回家嗎？好！
 明天來！明天來！
-我走路。
 你走路嗎？
+我走路。
 ```
 
 ## Character Production
@@ -555,11 +649,7 @@ Kevin 回家。
 - B) <span style="color:#b0b0b0">Bù</span><span style="color:#b0b0b0">Yào</span> <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>
 - C) <span style="color:#b0b0b0">Bù</span> <span style="color:#b0b0b0">Shuì</span><span style="color:#b0b0b0">Jiào</span>
 
-## Character Reader
-
-<audio controls style="width: 100%; margin: 1rem 0;">
-  <source src="/static/audio/lesson_07.mp3" type="audio/mpeg">
-</audio>
+## Character Reader (click for audio)
 
 ```zh-cn
 早上，Kevin 起床。
@@ -639,11 +729,7 @@ Kevin 回家。
 - B) <span style="color:#6edcb8">mínG</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Jiàn</span>
 - C) <span style="color:#6edcb8">zuó</span><span style="color:#ff6b35">TIĀN</span> <span style="color:#b0b0b0">Jiàn</span>
 
-## Character Reader
-
-<audio controls style="width: 100%; margin: 1rem 0;">
-  <source src="/static/audio/lesson_08.mp3" type="audio/mpeg">
-</audio>
+## Character Reader (click for audio)
 
 ```zh-cn
 今天是星期一。
@@ -723,11 +809,7 @@ Kevin 回家。
 - B) <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">ZÀI</span> <span style="color:#a78bfa">nǎr</span>
 - C) <span style="color:#a78bfa">nǐ</span> <span style="color:#b0b0b0">Qù</span> <span style="color:#a78bfa">nǎr</span>
 
-## Character Reader
-
-<audio controls style="width: 100%; margin: 1rem 0;">
-  <source src="/static/audio/lesson_09.mp3" type="audio/mpeg">
-</audio>
+## Character Reader (click for audio)
 
 ```zh-cn
 Kevin 的電話。
@@ -807,11 +889,7 @@ Kevin 的電話。
 - B) <span style="color:#b0b0b0">Qù</span> <span style="color:#6edcb8">wán</span>
 - C) <span style="color:#6edcb8">láI</span> <span style="color:#6edcb8">wán</span>
 
-## Character Reader
-
-<audio controls style="width: 100%; margin: 1rem 0;">
-  <source src="/static/audio/lesson_10.mp3" type="audio/mpeg">
-</audio>
+## Character Reader (click for audio)
 
 ```zh-cn
 星期五！
