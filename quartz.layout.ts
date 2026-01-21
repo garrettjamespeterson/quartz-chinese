@@ -36,6 +36,7 @@ export const sharedPageComponents: SharedLayout = {
       },
     }),
     Component.ChineseSettings(),
+    Component.VocabToggle(),
     Component.AudioPlayer(),
   ],
   footer: Component.Footer({

@@ -27,6 +27,7 @@ import ConditionalRender from "./ConditionalRender"
 import ChineseSettings from "./ChineseSettings"
 import VocabWall from "./VocabWall"
 import CoreVocab from "./CoreVocab"
+import VocabToggle from "./VocabToggle"
 import GrammarNotes from "./GrammarNotes"
 import AudioPlayer from "./AudioPlayer"
 
@@ -60,6 +61,7 @@ export {
   ChineseSettings,
   VocabWall,
   CoreVocab,
+  VocabToggle,
   GrammarNotes,
   AudioPlayer,
 }
